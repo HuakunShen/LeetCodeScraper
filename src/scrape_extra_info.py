@@ -6,6 +6,8 @@ import time
 import requests
 import argparse
 import src.scrape_all_problems as scrape_all_problems
+import src.scrape_extra_info as spider
+import src.to_table as to_table
 import multiprocessing
 import pandas as pd
 
@@ -85,7 +87,7 @@ def run_requests(yield_=False):
 
 
 # %%
-def main(yield_=False, multiprocess=False):
+def main(yield_=False, multiprocess=True):
     if multiprocess:
         cpu_cores = multiprocessing.cpu_count()
         with multiprocessing.Pool(cpu_cores) as p:
@@ -102,16 +104,3 @@ def main(yield_=False, multiprocess=False):
             question['similar_question_ids'])
 
     df.to_csv(leetcode_csv_full_path)
-
-
-# %%
-
-
-if __name__ == '__main__':
-    parser = argparse.ArgumentParser("Scrape Extra Info")
-    parser.add_argument('-m', '--multiprocess', action='store_true',
-                        help='Use Multiprocessing (utilize as much cores as possible)')
-    parser.add_argument('-y', '--yield', action='store_true',
-                        help='Use Yield when Sending requests')
-    args = parser.parse_args()
-    main(yield_=False, multiprocess=True)
