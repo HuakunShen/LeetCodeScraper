@@ -13,9 +13,9 @@ if __name__ == '__main__':
     parser.add_argument('-r', '--readme', action='store_true',
                         help='Generate README')
     args = parser.parse_args()
-    # spider.main(yield_=args.yield_, multiprocess=args.multiprocess)
-    # if args.table:
-    #     to_table.main()
+    spider.main(yield_=args.yield_, multiprocess=args.multiprocess)
+    if args.table:
+        to_table.main()
     if args.readme:
         with open('README.md', 'w') as readme:
             with open('README_HEADER.md', 'r') as readme_header:
