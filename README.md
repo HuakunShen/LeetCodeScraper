@@ -6,7 +6,7 @@ A Web Crawler Scraping LeetCode Problems info such as Difficulties, Related Ques
 
 ## Data
 
-[Main Data CSV](./Data/leetcode_problem.csv)
+[Main Data CSV](./Data/leetcode_problems.csv)
 
 [Problems Table Markdown](./Data/problems.md)
 
@@ -47,6 +47,7 @@ python main.py -m -t -r     # recommended, otherwise data may not always be up t
 ```
 
 ## All Problems
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
