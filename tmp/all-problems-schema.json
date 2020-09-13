@@ -1,0 +1,20 @@
+{
+  "stat": {
+    "question_id": 1724,
+    "question__article__live": null,
+    "question__article__slug": null,
+    "question__title": "Customer Who Visited but Did Not Make Any Transactions",
+    "question__title_slug": "customer-who-visited-but-did-not-make-any-transactions",
+    "question__hide": "False",
+    "total_acs": 193,
+    "total_submitted": 224,
+    "frontend_question_id": 1581,
+    "is_new_question": "True"
+  },
+  "status": null,
+  "difficulty": { "level": 1 },
+  "paid_only": "True",
+  "is_favor": "False",
+  "frequency": 0,
+  "progress": 0
+}

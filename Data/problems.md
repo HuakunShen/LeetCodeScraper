@@ -6,6 +6,8 @@
       <th>Difficulty</th>
       <th>Paid Only</th>
       <th>New Question</th>
+      <th>Topic Tags</th>
+      <th>Similar Questions</th>
     </tr>
   </thead>
   <tbody>
@@ -15,6 +17,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/hash-table'>Hash Table</a></td>
+      <td><a href='https://leetcode.com/problems/3sum'>3Sum</a>, <a href='https://leetcode.com/problems/4sum'>4Sum</a>, <a href='https://leetcode.com/problems/two-sum-ii-input-array-is-sorted'>Two Sum II - Input array is sorted</a>, <a href='https://leetcode.com/problems/two-sum-iii-data-structure-design'>Two Sum III - Data structure design</a>, <a href='https://leetcode.com/problems/subarray-sum-equals-k'>Subarray Sum Equals K</a>, <a href='https://leetcode.com/problems/two-sum-iv-input-is-a-bst'>Two Sum IV - Input is a BST</a>, <a href='https://leetcode.com/problems/two-sum-less-than-k'>Two Sum Less Than K</a></td>
     </tr>
     <tr>
       <td>2</td>
@@ -22,6 +26,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/linked-list'>Linked List</a>, <a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td><a href='https://leetcode.com/problems/multiply-strings'>Multiply Strings</a>, <a href='https://leetcode.com/problems/add-binary'>Add Binary</a>, <a href='https://leetcode.com/problems/sum-of-two-integers'>Sum of Two Integers</a>, <a href='https://leetcode.com/problems/add-strings'>Add Strings</a>, <a href='https://leetcode.com/problems/add-two-numbers-ii'>Add Two Numbers II</a>, <a href='https://leetcode.com/problems/add-to-array-form-of-integer'>Add to Array-Form of Integer</a></td>
     </tr>
     <tr>
       <td>3</td>
@@ -29,6 +35,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a>, <a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/sliding-window'>Sliding Window</a></td>
+      <td><a href='https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters'>Longest Substring with At Most Two Distinct Characters</a>, <a href='https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters'>Longest Substring with At Most K Distinct Characters</a>, <a href='https://leetcode.com/problems/subarrays-with-k-different-integers'>Subarrays with K Different Integers</a></td>
     </tr>
     <tr>
       <td>4</td>
@@ -36,6 +44,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/binary-search'>Binary Search</a>, <a href='https://leetcode.com/tag/divide-and-conquer'>Divide and Conquer</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>5</td>
@@ -43,6 +53,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/shortest-palindrome'>Shortest Palindrome</a>, <a href='https://leetcode.com/problems/palindrome-permutation'>Palindrome Permutation</a>, <a href='https://leetcode.com/problems/palindrome-pairs'>Palindrome Pairs</a>, <a href='https://leetcode.com/problems/longest-palindromic-subsequence'>Longest Palindromic Subsequence</a>, <a href='https://leetcode.com/problems/palindromic-substrings'>Palindromic Substrings</a></td>
     </tr>
     <tr>
       <td>6</td>
@@ -50,6 +62,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>7</td>
@@ -57,6 +71,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td><a href='https://leetcode.com/problems/string-to-integer-atoi'>String to Integer (atoi)</a>, <a href='https://leetcode.com/problems/reverse-bits'>Reverse Bits</a></td>
     </tr>
     <tr>
       <td>8</td>
@@ -64,6 +80,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/string'>String</a></td>
+      <td><a href='https://leetcode.com/problems/reverse-integer'>Reverse Integer</a>, <a href='https://leetcode.com/problems/valid-number'>Valid Number</a></td>
     </tr>
     <tr>
       <td>9</td>
@@ -71,6 +89,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td><a href='https://leetcode.com/problems/palindrome-linked-list'>Palindrome Linked List</a></td>
     </tr>
     <tr>
       <td>10</td>
@@ -78,6 +98,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/backtracking'>Backtracking</a></td>
+      <td><a href='https://leetcode.com/problems/wildcard-matching'>Wildcard Matching</a></td>
     </tr>
     <tr>
       <td>11</td>
@@ -85,6 +107,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a></td>
+      <td><a href='https://leetcode.com/problems/trapping-rain-water'>Trapping Rain Water</a></td>
     </tr>
     <tr>
       <td>12</td>
@@ -92,6 +116,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/string'>String</a></td>
+      <td><a href='https://leetcode.com/problems/roman-to-integer'>Roman to Integer</a>, <a href='https://leetcode.com/problems/integer-to-english-words'>Integer to English Words</a></td>
     </tr>
     <tr>
       <td>13</td>
@@ -99,6 +125,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/string'>String</a></td>
+      <td><a href='https://leetcode.com/problems/integer-to-roman'>Integer to Roman</a></td>
     </tr>
     <tr>
       <td>14</td>
@@ -106,6 +134,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>15</td>
@@ -113,6 +143,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a></td>
+      <td><a href='https://leetcode.com/problems/two-sum'>Two Sum</a>, <a href='https://leetcode.com/problems/3sum-closest'>3Sum Closest</a>, <a href='https://leetcode.com/problems/4sum'>4Sum</a>, <a href='https://leetcode.com/problems/3sum-smaller'>3Sum Smaller</a></td>
     </tr>
     <tr>
       <td>16</td>
@@ -120,6 +152,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a></td>
+      <td><a href='https://leetcode.com/problems/3sum'>3Sum</a>, <a href='https://leetcode.com/problems/3sum-smaller'>3Sum Smaller</a></td>
     </tr>
     <tr>
       <td>17</td>
@@ -127,6 +161,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/backtracking'>Backtracking</a></td>
+      <td><a href='https://leetcode.com/problems/generate-parentheses'>Generate Parentheses</a>, <a href='https://leetcode.com/problems/combination-sum'>Combination Sum</a>, <a href='https://leetcode.com/problems/binary-watch'>Binary Watch</a></td>
     </tr>
     <tr>
       <td>18</td>
@@ -134,6 +170,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a></td>
+      <td><a href='https://leetcode.com/problems/two-sum'>Two Sum</a>, <a href='https://leetcode.com/problems/3sum'>3Sum</a>, <a href='https://leetcode.com/problems/4sum-ii'>4Sum II</a></td>
     </tr>
     <tr>
       <td>19</td>
@@ -141,6 +179,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/linked-list'>Linked List</a>, <a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a></td>
+      <td><a href='https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list'>Delete N Nodes After M Nodes of a Linked List</a></td>
     </tr>
     <tr>
       <td>20</td>
@@ -148,6 +188,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/stack'>Stack</a></td>
+      <td><a href='https://leetcode.com/problems/generate-parentheses'>Generate Parentheses</a>, <a href='https://leetcode.com/problems/longest-valid-parentheses'>Longest Valid Parentheses</a>, <a href='https://leetcode.com/problems/remove-invalid-parentheses'>Remove Invalid Parentheses</a>, <a href='https://leetcode.com/problems/check-if-word-is-valid-after-substitutions'>Check If Word Is Valid After Substitutions</a></td>
     </tr>
     <tr>
       <td>21</td>
@@ -155,6 +197,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/linked-list'>Linked List</a></td>
+      <td><a href='https://leetcode.com/problems/merge-k-sorted-lists'>Merge k Sorted Lists</a>, <a href='https://leetcode.com/problems/merge-sorted-array'>Merge Sorted Array</a>, <a href='https://leetcode.com/problems/sort-list'>Sort List</a>, <a href='https://leetcode.com/problems/shortest-word-distance-ii'>Shortest Word Distance II</a></td>
     </tr>
     <tr>
       <td>22</td>
@@ -162,6 +206,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/backtracking'>Backtracking</a></td>
+      <td><a href='https://leetcode.com/problems/letter-combinations-of-a-phone-number'>Letter Combinations of a Phone Number</a>, <a href='https://leetcode.com/problems/valid-parentheses'>Valid Parentheses</a></td>
     </tr>
     <tr>
       <td>23</td>
@@ -169,6 +215,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/linked-list'>Linked List</a>, <a href='https://leetcode.com/tag/divide-and-conquer'>Divide and Conquer</a>, <a href='https://leetcode.com/tag/heap'>Heap</a></td>
+      <td><a href='https://leetcode.com/problems/merge-two-sorted-lists'>Merge Two Sorted Lists</a>, <a href='https://leetcode.com/problems/ugly-number-ii'>Ugly Number II</a></td>
     </tr>
     <tr>
       <td>24</td>
@@ -176,6 +224,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/linked-list'>Linked List</a></td>
+      <td><a href='https://leetcode.com/problems/reverse-nodes-in-k-group'>Reverse Nodes in k-Group</a></td>
     </tr>
     <tr>
       <td>25</td>
@@ -183,6 +233,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/linked-list'>Linked List</a></td>
+      <td><a href='https://leetcode.com/problems/swap-nodes-in-pairs'>Swap Nodes in Pairs</a></td>
     </tr>
     <tr>
       <td>26</td>
@@ -190,6 +242,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a></td>
+      <td><a href='https://leetcode.com/problems/remove-element'>Remove Element</a>, <a href='https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii'>Remove Duplicates from Sorted Array II</a></td>
     </tr>
     <tr>
       <td>27</td>
@@ -197,6 +251,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a></td>
+      <td><a href='https://leetcode.com/problems/remove-duplicates-from-sorted-array'>Remove Duplicates from Sorted Array</a>, <a href='https://leetcode.com/problems/remove-linked-list-elements'>Remove Linked List Elements</a>, <a href='https://leetcode.com/problems/move-zeroes'>Move Zeroes</a></td>
     </tr>
     <tr>
       <td>28</td>
@@ -204,6 +260,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a>, <a href='https://leetcode.com/tag/string'>String</a></td>
+      <td><a href='https://leetcode.com/problems/shortest-palindrome'>Shortest Palindrome</a>, <a href='https://leetcode.com/problems/repeated-substring-pattern'>Repeated Substring Pattern</a></td>
     </tr>
     <tr>
       <td>29</td>
@@ -211,6 +269,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>30</td>
@@ -218,6 +278,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a>, <a href='https://leetcode.com/tag/string'>String</a></td>
+      <td><a href='https://leetcode.com/problems/minimum-window-substring'>Minimum Window Substring</a></td>
     </tr>
     <tr>
       <td>31</td>
@@ -225,6 +287,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td><a href='https://leetcode.com/problems/permutations'>Permutations</a>, <a href='https://leetcode.com/problems/permutations-ii'>Permutations II</a>, <a href='https://leetcode.com/problems/permutation-sequence'>Permutation Sequence</a>, <a href='https://leetcode.com/problems/palindrome-permutation-ii'>Palindrome Permutation II</a></td>
     </tr>
     <tr>
       <td>32</td>
@@ -232,6 +296,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/valid-parentheses'>Valid Parentheses</a></td>
     </tr>
     <tr>
       <td>33</td>
@@ -239,6 +305,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td><a href='https://leetcode.com/problems/search-in-rotated-sorted-array-ii'>Search in Rotated Sorted Array II</a>, <a href='https://leetcode.com/problems/find-minimum-in-rotated-sorted-array'>Find Minimum in Rotated Sorted Array</a></td>
     </tr>
     <tr>
       <td>34</td>
@@ -246,6 +314,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td><a href='https://leetcode.com/problems/first-bad-version'>First Bad Version</a></td>
     </tr>
     <tr>
       <td>35</td>
@@ -253,6 +323,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td><a href='https://leetcode.com/problems/first-bad-version'>First Bad Version</a></td>
     </tr>
     <tr>
       <td>36</td>
@@ -260,6 +332,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a></td>
+      <td><a href='https://leetcode.com/problems/sudoku-solver'>Sudoku Solver</a></td>
     </tr>
     <tr>
       <td>37</td>
@@ -267,6 +341,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/backtracking'>Backtracking</a></td>
+      <td><a href='https://leetcode.com/problems/valid-sudoku'>Valid Sudoku</a>, <a href='https://leetcode.com/problems/unique-paths-iii'>Unique Paths III</a></td>
     </tr>
     <tr>
       <td>38</td>
@@ -274,6 +350,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td><a href='https://leetcode.com/problems/encode-and-decode-strings'>Encode and Decode Strings</a>, <a href='https://leetcode.com/problems/string-compression'>String Compression</a></td>
     </tr>
     <tr>
       <td>39</td>
@@ -281,6 +359,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/backtracking'>Backtracking</a></td>
+      <td><a href='https://leetcode.com/problems/letter-combinations-of-a-phone-number'>Letter Combinations of a Phone Number</a>, <a href='https://leetcode.com/problems/combination-sum-ii'>Combination Sum II</a>, <a href='https://leetcode.com/problems/combinations'>Combinations</a>, <a href='https://leetcode.com/problems/combination-sum-iii'>Combination Sum III</a>, <a href='https://leetcode.com/problems/factor-combinations'>Factor Combinations</a>, <a href='https://leetcode.com/problems/combination-sum-iv'>Combination Sum IV</a></td>
     </tr>
     <tr>
       <td>40</td>
@@ -288,6 +368,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/backtracking'>Backtracking</a></td>
+      <td><a href='https://leetcode.com/problems/combination-sum'>Combination Sum</a></td>
     </tr>
     <tr>
       <td>41</td>
@@ -295,6 +377,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td><a href='https://leetcode.com/problems/missing-number'>Missing Number</a>, <a href='https://leetcode.com/problems/find-the-duplicate-number'>Find the Duplicate Number</a>, <a href='https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array'>Find All Numbers Disappeared in an Array</a>, <a href='https://leetcode.com/problems/couples-holding-hands'>Couples Holding Hands</a></td>
     </tr>
     <tr>
       <td>42</td>
@@ -302,6 +386,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a>, <a href='https://leetcode.com/tag/stack'>Stack</a></td>
+      <td><a href='https://leetcode.com/problems/container-with-most-water'>Container With Most Water</a>, <a href='https://leetcode.com/problems/product-of-array-except-self'>Product of Array Except Self</a>, <a href='https://leetcode.com/problems/trapping-rain-water-ii'>Trapping Rain Water II</a>, <a href='https://leetcode.com/problems/pour-water'>Pour Water</a></td>
     </tr>
     <tr>
       <td>43</td>
@@ -309,6 +395,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/string'>String</a></td>
+      <td><a href='https://leetcode.com/problems/add-two-numbers'>Add Two Numbers</a>, <a href='https://leetcode.com/problems/plus-one'>Plus One</a>, <a href='https://leetcode.com/problems/add-binary'>Add Binary</a>, <a href='https://leetcode.com/problems/add-strings'>Add Strings</a></td>
     </tr>
     <tr>
       <td>44</td>
@@ -316,6 +404,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/backtracking'>Backtracking</a>, <a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td><a href='https://leetcode.com/problems/regular-expression-matching'>Regular Expression Matching</a></td>
     </tr>
     <tr>
       <td>45</td>
@@ -323,6 +413,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td><a href='https://leetcode.com/problems/jump-game'>Jump Game</a>, <a href='https://leetcode.com/problems/jump-game-iii'>Jump Game III</a></td>
     </tr>
     <tr>
       <td>46</td>
@@ -330,6 +422,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/backtracking'>Backtracking</a></td>
+      <td><a href='https://leetcode.com/problems/next-permutation'>Next Permutation</a>, <a href='https://leetcode.com/problems/permutations-ii'>Permutations II</a>, <a href='https://leetcode.com/problems/permutation-sequence'>Permutation Sequence</a>, <a href='https://leetcode.com/problems/combinations'>Combinations</a></td>
     </tr>
     <tr>
       <td>47</td>
@@ -337,6 +431,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/backtracking'>Backtracking</a></td>
+      <td><a href='https://leetcode.com/problems/next-permutation'>Next Permutation</a>, <a href='https://leetcode.com/problems/permutations'>Permutations</a>, <a href='https://leetcode.com/problems/palindrome-permutation-ii'>Palindrome Permutation II</a>, <a href='https://leetcode.com/problems/number-of-squareful-arrays'>Number of Squareful Arrays</a></td>
     </tr>
     <tr>
       <td>48</td>
@@ -344,6 +440,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>49</td>
@@ -351,6 +449,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/string'>String</a></td>
+      <td><a href='https://leetcode.com/problems/valid-anagram'>Valid Anagram</a>, <a href='https://leetcode.com/problems/group-shifted-strings'>Group Shifted Strings</a></td>
     </tr>
     <tr>
       <td>50</td>
@@ -358,6 +458,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td><a href='https://leetcode.com/problems/sqrtx'>Sqrt(x)</a>, <a href='https://leetcode.com/problems/super-pow'>Super Pow</a></td>
     </tr>
     <tr>
       <td>51</td>
@@ -365,6 +467,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/backtracking'>Backtracking</a></td>
+      <td><a href='https://leetcode.com/problems/n-queens-ii'>N-Queens II</a>, <a href='https://leetcode.com/problems/grid-illumination'>Grid Illumination</a></td>
     </tr>
     <tr>
       <td>52</td>
@@ -372,6 +476,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/backtracking'>Backtracking</a></td>
+      <td><a href='https://leetcode.com/problems/n-queens'>N-Queens</a></td>
     </tr>
     <tr>
       <td>53</td>
@@ -379,6 +485,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/divide-and-conquer'>Divide and Conquer</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/best-time-to-buy-and-sell-stock'>Best Time to Buy and Sell Stock</a>, <a href='https://leetcode.com/problems/maximum-product-subarray'>Maximum Product Subarray</a>, <a href='https://leetcode.com/problems/degree-of-an-array'>Degree of an Array</a>, <a href='https://leetcode.com/problems/longest-turbulent-subarray'>Longest Turbulent Subarray</a></td>
     </tr>
     <tr>
       <td>54</td>
@@ -386,6 +494,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td><a href='https://leetcode.com/problems/spiral-matrix-ii'>Spiral Matrix II</a>, <a href='https://leetcode.com/problems/spiral-matrix-iii'>Spiral Matrix III</a></td>
     </tr>
     <tr>
       <td>55</td>
@@ -393,6 +503,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td><a href='https://leetcode.com/problems/jump-game-ii'>Jump Game II</a>, <a href='https://leetcode.com/problems/jump-game-iii'>Jump Game III</a></td>
     </tr>
     <tr>
       <td>56</td>
@@ -400,6 +512,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/sort'>Sort</a></td>
+      <td><a href='https://leetcode.com/problems/insert-interval'>Insert Interval</a>, <a href='https://leetcode.com/problems/meeting-rooms'>Meeting Rooms</a>, <a href='https://leetcode.com/problems/meeting-rooms-ii'>Meeting Rooms II</a>, <a href='https://leetcode.com/problems/teemo-attacking'>Teemo Attacking</a>, <a href='https://leetcode.com/problems/add-bold-tag-in-string'>Add Bold Tag in String</a>, <a href='https://leetcode.com/problems/range-module'>Range Module</a>, <a href='https://leetcode.com/problems/employee-free-time'>Employee Free Time</a>, <a href='https://leetcode.com/problems/partition-labels'>Partition Labels</a>, <a href='https://leetcode.com/problems/interval-list-intersections'>Interval List Intersections</a></td>
     </tr>
     <tr>
       <td>57</td>
@@ -407,6 +521,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/sort'>Sort</a></td>
+      <td><a href='https://leetcode.com/problems/merge-intervals'>Merge Intervals</a>, <a href='https://leetcode.com/problems/range-module'>Range Module</a></td>
     </tr>
     <tr>
       <td>58</td>
@@ -414,6 +530,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>59</td>
@@ -421,6 +539,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td><a href='https://leetcode.com/problems/spiral-matrix'>Spiral Matrix</a>, <a href='https://leetcode.com/problems/spiral-matrix-iii'>Spiral Matrix III</a></td>
     </tr>
     <tr>
       <td>60</td>
@@ -428,6 +548,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/backtracking'>Backtracking</a></td>
+      <td><a href='https://leetcode.com/problems/next-permutation'>Next Permutation</a>, <a href='https://leetcode.com/problems/permutations'>Permutations</a></td>
     </tr>
     <tr>
       <td>61</td>
@@ -435,6 +557,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/linked-list'>Linked List</a>, <a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a></td>
+      <td><a href='https://leetcode.com/problems/rotate-array'>Rotate Array</a>, <a href='https://leetcode.com/problems/split-linked-list-in-parts'>Split Linked List in Parts</a></td>
     </tr>
     <tr>
       <td>62</td>
@@ -442,6 +566,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/unique-paths-ii'>Unique Paths II</a>, <a href='https://leetcode.com/problems/minimum-path-sum'>Minimum Path Sum</a>, <a href='https://leetcode.com/problems/dungeon-game'>Dungeon Game</a></td>
     </tr>
     <tr>
       <td>63</td>
@@ -449,6 +575,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/unique-paths'>Unique Paths</a>, <a href='https://leetcode.com/problems/unique-paths-iii'>Unique Paths III</a></td>
     </tr>
     <tr>
       <td>64</td>
@@ -456,6 +584,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/unique-paths'>Unique Paths</a>, <a href='https://leetcode.com/problems/dungeon-game'>Dungeon Game</a>, <a href='https://leetcode.com/problems/cherry-pickup'>Cherry Pickup</a></td>
     </tr>
     <tr>
       <td>65</td>
@@ -463,6 +593,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/string'>String</a></td>
+      <td><a href='https://leetcode.com/problems/string-to-integer-atoi'>String to Integer (atoi)</a></td>
     </tr>
     <tr>
       <td>66</td>
@@ -470,6 +602,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td><a href='https://leetcode.com/problems/multiply-strings'>Multiply Strings</a>, <a href='https://leetcode.com/problems/add-binary'>Add Binary</a>, <a href='https://leetcode.com/problems/plus-one-linked-list'>Plus One Linked List</a>, <a href='https://leetcode.com/problems/add-to-array-form-of-integer'>Add to Array-Form of Integer</a></td>
     </tr>
     <tr>
       <td>67</td>
@@ -477,6 +611,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/string'>String</a></td>
+      <td><a href='https://leetcode.com/problems/add-two-numbers'>Add Two Numbers</a>, <a href='https://leetcode.com/problems/multiply-strings'>Multiply Strings</a>, <a href='https://leetcode.com/problems/plus-one'>Plus One</a>, <a href='https://leetcode.com/problems/add-to-array-form-of-integer'>Add to Array-Form of Integer</a></td>
     </tr>
     <tr>
       <td>68</td>
@@ -484,6 +620,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>69</td>
@@ -491,6 +629,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td><a href='https://leetcode.com/problems/powx-n'>Pow(x, n)</a>, <a href='https://leetcode.com/problems/valid-perfect-square'>Valid Perfect Square</a></td>
     </tr>
     <tr>
       <td>70</td>
@@ -498,6 +638,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/min-cost-climbing-stairs'>Min Cost Climbing Stairs</a>, <a href='https://leetcode.com/problems/fibonacci-number'>Fibonacci Number</a>, <a href='https://leetcode.com/problems/n-th-tribonacci-number'>N-th Tribonacci Number</a></td>
     </tr>
     <tr>
       <td>71</td>
@@ -505,6 +647,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/stack'>Stack</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>72</td>
@@ -512,6 +656,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/one-edit-distance'>One Edit Distance</a>, <a href='https://leetcode.com/problems/delete-operation-for-two-strings'>Delete Operation for Two Strings</a>, <a href='https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings'>Minimum ASCII Delete Sum for Two Strings</a>, <a href='https://leetcode.com/problems/uncrossed-lines'>Uncrossed Lines</a></td>
     </tr>
     <tr>
       <td>73</td>
@@ -519,6 +665,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td><a href='https://leetcode.com/problems/game-of-life'>Game of Life</a></td>
     </tr>
     <tr>
       <td>74</td>
@@ -526,6 +674,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td><a href='https://leetcode.com/problems/search-a-2d-matrix-ii'>Search a 2D Matrix II</a></td>
     </tr>
     <tr>
       <td>75</td>
@@ -533,6 +683,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a>, <a href='https://leetcode.com/tag/sort'>Sort</a></td>
+      <td><a href='https://leetcode.com/problems/sort-list'>Sort List</a>, <a href='https://leetcode.com/problems/wiggle-sort'>Wiggle Sort</a>, <a href='https://leetcode.com/problems/wiggle-sort-ii'>Wiggle Sort II</a></td>
     </tr>
     <tr>
       <td>76</td>
@@ -540,6 +692,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a>, <a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/sliding-window'>Sliding Window</a></td>
+      <td><a href='https://leetcode.com/problems/substring-with-concatenation-of-all-words'>Substring with Concatenation of All Words</a>, <a href='https://leetcode.com/problems/minimum-size-subarray-sum'>Minimum Size Subarray Sum</a>, <a href='https://leetcode.com/problems/sliding-window-maximum'>Sliding Window Maximum</a>, <a href='https://leetcode.com/problems/permutation-in-string'>Permutation in String</a>, <a href='https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists'>Smallest Range Covering Elements from K Lists</a>, <a href='https://leetcode.com/problems/minimum-window-subsequence'>Minimum Window Subsequence</a></td>
     </tr>
     <tr>
       <td>77</td>
@@ -547,6 +701,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/backtracking'>Backtracking</a></td>
+      <td><a href='https://leetcode.com/problems/combination-sum'>Combination Sum</a>, <a href='https://leetcode.com/problems/permutations'>Permutations</a></td>
     </tr>
     <tr>
       <td>78</td>
@@ -554,6 +710,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/backtracking'>Backtracking</a>, <a href='https://leetcode.com/tag/bit-manipulation'>Bit Manipulation</a></td>
+      <td><a href='https://leetcode.com/problems/subsets-ii'>Subsets II</a>, <a href='https://leetcode.com/problems/generalized-abbreviation'>Generalized Abbreviation</a>, <a href='https://leetcode.com/problems/letter-case-permutation'>Letter Case Permutation</a></td>
     </tr>
     <tr>
       <td>79</td>
@@ -561,6 +719,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/backtracking'>Backtracking</a></td>
+      <td><a href='https://leetcode.com/problems/word-search-ii'>Word Search II</a></td>
     </tr>
     <tr>
       <td>80</td>
@@ -568,6 +728,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a></td>
+      <td><a href='https://leetcode.com/problems/remove-duplicates-from-sorted-array'>Remove Duplicates from Sorted Array</a></td>
     </tr>
     <tr>
       <td>81</td>
@@ -575,6 +737,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td><a href='https://leetcode.com/problems/search-in-rotated-sorted-array'>Search in Rotated Sorted Array</a></td>
     </tr>
     <tr>
       <td>82</td>
@@ -582,6 +746,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/linked-list'>Linked List</a></td>
+      <td><a href='https://leetcode.com/problems/remove-duplicates-from-sorted-list'>Remove Duplicates from Sorted List</a></td>
     </tr>
     <tr>
       <td>83</td>
@@ -589,6 +755,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/linked-list'>Linked List</a></td>
+      <td><a href='https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii'>Remove Duplicates from Sorted List II</a></td>
     </tr>
     <tr>
       <td>84</td>
@@ -596,6 +764,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/stack'>Stack</a></td>
+      <td><a href='https://leetcode.com/problems/maximal-rectangle'>Maximal Rectangle</a></td>
     </tr>
     <tr>
       <td>85</td>
@@ -603,6 +773,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/stack'>Stack</a></td>
+      <td><a href='https://leetcode.com/problems/largest-rectangle-in-histogram'>Largest Rectangle in Histogram</a>, <a href='https://leetcode.com/problems/maximal-square'>Maximal Square</a></td>
     </tr>
     <tr>
       <td>86</td>
@@ -610,6 +782,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/linked-list'>Linked List</a>, <a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>87</td>
@@ -617,6 +791,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>88</td>
@@ -624,6 +800,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a></td>
+      <td><a href='https://leetcode.com/problems/merge-two-sorted-lists'>Merge Two Sorted Lists</a>, <a href='https://leetcode.com/problems/squares-of-a-sorted-array'>Squares of a Sorted Array</a>, <a href='https://leetcode.com/problems/interval-list-intersections'>Interval List Intersections</a></td>
     </tr>
     <tr>
       <td>89</td>
@@ -631,6 +809,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/backtracking'>Backtracking</a></td>
+      <td><a href='https://leetcode.com/problems/1-bit-and-2-bit-characters'>1-bit and 2-bit Characters</a></td>
     </tr>
     <tr>
       <td>90</td>
@@ -638,6 +818,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/backtracking'>Backtracking</a></td>
+      <td><a href='https://leetcode.com/problems/subsets'>Subsets</a></td>
     </tr>
     <tr>
       <td>91</td>
@@ -645,6 +827,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/decode-ways-ii'>Decode Ways II</a></td>
     </tr>
     <tr>
       <td>92</td>
@@ -652,6 +836,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/linked-list'>Linked List</a></td>
+      <td><a href='https://leetcode.com/problems/reverse-linked-list'>Reverse Linked List</a></td>
     </tr>
     <tr>
       <td>93</td>
@@ -659,6 +845,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/backtracking'>Backtracking</a></td>
+      <td><a href='https://leetcode.com/problems/ip-to-cidr'>IP to CIDR</a></td>
     </tr>
     <tr>
       <td>94</td>
@@ -666,6 +854,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/stack'>Stack</a>, <a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td><a href='https://leetcode.com/problems/validate-binary-search-tree'>Validate Binary Search Tree</a>, <a href='https://leetcode.com/problems/binary-tree-preorder-traversal'>Binary Tree Preorder Traversal</a>, <a href='https://leetcode.com/problems/binary-tree-postorder-traversal'>Binary Tree Postorder Traversal</a>, <a href='https://leetcode.com/problems/binary-search-tree-iterator'>Binary Search Tree Iterator</a>, <a href='https://leetcode.com/problems/kth-smallest-element-in-a-bst'>Kth Smallest Element in a BST</a>, <a href='https://leetcode.com/problems/closest-binary-search-tree-value-ii'>Closest Binary Search Tree Value II</a>, <a href='https://leetcode.com/problems/inorder-successor-in-bst'>Inorder Successor in BST</a>, <a href='https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list'>Convert Binary Search Tree to Sorted Doubly Linked List</a>, <a href='https://leetcode.com/problems/minimum-distance-between-bst-nodes'>Minimum Distance Between BST Nodes</a></td>
     </tr>
     <tr>
       <td>95</td>
@@ -673,6 +863,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td><a href='https://leetcode.com/problems/unique-binary-search-trees'>Unique Binary Search Trees</a>, <a href='https://leetcode.com/problems/different-ways-to-add-parentheses'>Different Ways to Add Parentheses</a></td>
     </tr>
     <tr>
       <td>96</td>
@@ -680,6 +872,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td><a href='https://leetcode.com/problems/unique-binary-search-trees-ii'>Unique Binary Search Trees II</a></td>
     </tr>
     <tr>
       <td>97</td>
@@ -687,6 +881,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>98</td>
@@ -694,6 +890,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/binary-tree-inorder-traversal'>Binary Tree Inorder Traversal</a>, <a href='https://leetcode.com/problems/find-mode-in-binary-search-tree'>Find Mode in Binary Search Tree</a></td>
     </tr>
     <tr>
       <td>99</td>
@@ -701,6 +899,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>100</td>
@@ -708,6 +908,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>101</td>
@@ -715,6 +917,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>102</td>
@@ -722,6 +926,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal'>Binary Tree Zigzag Level Order Traversal</a>, <a href='https://leetcode.com/problems/binary-tree-level-order-traversal-ii'>Binary Tree Level Order Traversal II</a>, <a href='https://leetcode.com/problems/minimum-depth-of-binary-tree'>Minimum Depth of Binary Tree</a>, <a href='https://leetcode.com/problems/binary-tree-vertical-order-traversal'>Binary Tree Vertical Order Traversal</a>, <a href='https://leetcode.com/problems/average-of-levels-in-binary-tree'>Average of Levels in Binary Tree</a>, <a href='https://leetcode.com/problems/n-ary-tree-level-order-traversal'>N-ary Tree Level Order Traversal</a>, <a href='https://leetcode.com/problems/cousins-in-binary-tree'>Cousins in Binary Tree</a></td>
     </tr>
     <tr>
       <td>103</td>
@@ -729,6 +935,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/stack'>Stack</a>, <a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/binary-tree-level-order-traversal'>Binary Tree Level Order Traversal</a></td>
     </tr>
     <tr>
       <td>104</td>
@@ -736,6 +944,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/balanced-binary-tree'>Balanced Binary Tree</a>, <a href='https://leetcode.com/problems/minimum-depth-of-binary-tree'>Minimum Depth of Binary Tree</a>, <a href='https://leetcode.com/problems/maximum-depth-of-n-ary-tree'>Maximum Depth of N-ary Tree</a>, <a href='https://leetcode.com/problems/time-needed-to-inform-all-employees'>Time Needed to Inform All Employees</a></td>
     </tr>
     <tr>
       <td>105</td>
@@ -743,6 +953,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal'>Construct Binary Tree from Inorder and Postorder Traversal</a></td>
     </tr>
     <tr>
       <td>106</td>
@@ -750,6 +962,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal'>Construct Binary Tree from Preorder and Inorder Traversal</a></td>
     </tr>
     <tr>
       <td>107</td>
@@ -757,6 +971,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/binary-tree-level-order-traversal'>Binary Tree Level Order Traversal</a>, <a href='https://leetcode.com/problems/average-of-levels-in-binary-tree'>Average of Levels in Binary Tree</a></td>
     </tr>
     <tr>
       <td>108</td>
@@ -764,6 +980,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree'>Convert Sorted List to Binary Search Tree</a></td>
     </tr>
     <tr>
       <td>109</td>
@@ -771,6 +989,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/linked-list'>Linked List</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree'>Convert Sorted Array to Binary Search Tree</a></td>
     </tr>
     <tr>
       <td>110</td>
@@ -778,6 +998,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/maximum-depth-of-binary-tree'>Maximum Depth of Binary Tree</a></td>
     </tr>
     <tr>
       <td>111</td>
@@ -785,6 +1007,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/binary-tree-level-order-traversal'>Binary Tree Level Order Traversal</a>, <a href='https://leetcode.com/problems/maximum-depth-of-binary-tree'>Maximum Depth of Binary Tree</a></td>
     </tr>
     <tr>
       <td>112</td>
@@ -792,6 +1016,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/path-sum-ii'>Path Sum II</a>, <a href='https://leetcode.com/problems/binary-tree-maximum-path-sum'>Binary Tree Maximum Path Sum</a>, <a href='https://leetcode.com/problems/sum-root-to-leaf-numbers'>Sum Root to Leaf Numbers</a>, <a href='https://leetcode.com/problems/path-sum-iii'>Path Sum III</a>, <a href='https://leetcode.com/problems/path-sum-iv'>Path Sum IV</a></td>
     </tr>
     <tr>
       <td>113</td>
@@ -799,6 +1025,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/path-sum'>Path Sum</a>, <a href='https://leetcode.com/problems/binary-tree-paths'>Binary Tree Paths</a>, <a href='https://leetcode.com/problems/path-sum-iii'>Path Sum III</a>, <a href='https://leetcode.com/problems/path-sum-iv'>Path Sum IV</a></td>
     </tr>
     <tr>
       <td>114</td>
@@ -806,6 +1034,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list'>Flatten a Multilevel Doubly Linked List</a></td>
     </tr>
     <tr>
       <td>115</td>
@@ -813,6 +1043,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>116</td>
@@ -820,6 +1052,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii'>Populating Next Right Pointers in Each Node II</a>, <a href='https://leetcode.com/problems/binary-tree-right-side-view'>Binary Tree Right Side View</a></td>
     </tr>
     <tr>
       <td>117</td>
@@ -827,6 +1061,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/populating-next-right-pointers-in-each-node'>Populating Next Right Pointers in Each Node</a></td>
     </tr>
     <tr>
       <td>118</td>
@@ -834,6 +1070,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td><a href='https://leetcode.com/problems/pascals-triangle-ii'>Pascal's Triangle II</a></td>
     </tr>
     <tr>
       <td>119</td>
@@ -841,6 +1079,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td><a href='https://leetcode.com/problems/pascals-triangle'>Pascal's Triangle</a></td>
     </tr>
     <tr>
       <td>120</td>
@@ -848,6 +1088,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>121</td>
@@ -855,6 +1097,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/maximum-subarray'>Maximum Subarray</a>, <a href='https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii'>Best Time to Buy and Sell Stock II</a>, <a href='https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii'>Best Time to Buy and Sell Stock III</a>, <a href='https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv'>Best Time to Buy and Sell Stock IV</a>, <a href='https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown'>Best Time to Buy and Sell Stock with Cooldown</a></td>
     </tr>
     <tr>
       <td>122</td>
@@ -862,6 +1106,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td><a href='https://leetcode.com/problems/best-time-to-buy-and-sell-stock'>Best Time to Buy and Sell Stock</a>, <a href='https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii'>Best Time to Buy and Sell Stock III</a>, <a href='https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv'>Best Time to Buy and Sell Stock IV</a>, <a href='https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown'>Best Time to Buy and Sell Stock with Cooldown</a>, <a href='https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee'>Best Time to Buy and Sell Stock with Transaction Fee</a></td>
     </tr>
     <tr>
       <td>123</td>
@@ -869,6 +1115,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/best-time-to-buy-and-sell-stock'>Best Time to Buy and Sell Stock</a>, <a href='https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii'>Best Time to Buy and Sell Stock II</a>, <a href='https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv'>Best Time to Buy and Sell Stock IV</a>, <a href='https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays'>Maximum Sum of 3 Non-Overlapping Subarrays</a></td>
     </tr>
     <tr>
       <td>124</td>
@@ -876,6 +1124,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/path-sum'>Path Sum</a>, <a href='https://leetcode.com/problems/sum-root-to-leaf-numbers'>Sum Root to Leaf Numbers</a>, <a href='https://leetcode.com/problems/path-sum-iv'>Path Sum IV</a>, <a href='https://leetcode.com/problems/longest-univalue-path'>Longest Univalue Path</a>, <a href='https://leetcode.com/problems/time-needed-to-inform-all-employees'>Time Needed to Inform All Employees</a></td>
     </tr>
     <tr>
       <td>125</td>
@@ -883,6 +1133,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a>, <a href='https://leetcode.com/tag/string'>String</a></td>
+      <td><a href='https://leetcode.com/problems/palindrome-linked-list'>Palindrome Linked List</a>, <a href='https://leetcode.com/problems/valid-palindrome-ii'>Valid Palindrome II</a></td>
     </tr>
     <tr>
       <td>126</td>
@@ -890,6 +1142,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/backtracking'>Backtracking</a>, <a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/word-ladder'>Word Ladder</a></td>
     </tr>
     <tr>
       <td>127</td>
@@ -897,6 +1151,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/word-ladder-ii'>Word Ladder II</a>, <a href='https://leetcode.com/problems/minimum-genetic-mutation'>Minimum Genetic Mutation</a></td>
     </tr>
     <tr>
       <td>128</td>
@@ -904,6 +1160,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/union-find'>Union Find</a></td>
+      <td><a href='https://leetcode.com/problems/binary-tree-longest-consecutive-sequence'>Binary Tree Longest Consecutive Sequence</a></td>
     </tr>
     <tr>
       <td>129</td>
@@ -911,6 +1169,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/path-sum'>Path Sum</a>, <a href='https://leetcode.com/problems/binary-tree-maximum-path-sum'>Binary Tree Maximum Path Sum</a>, <a href='https://leetcode.com/problems/smallest-string-starting-from-leaf'>Smallest String Starting From Leaf</a></td>
     </tr>
     <tr>
       <td>130</td>
@@ -918,6 +1178,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a>, <a href='https://leetcode.com/tag/union-find'>Union Find</a></td>
+      <td><a href='https://leetcode.com/problems/number-of-islands'>Number of Islands</a>, <a href='https://leetcode.com/problems/walls-and-gates'>Walls and Gates</a></td>
     </tr>
     <tr>
       <td>131</td>
@@ -925,6 +1187,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/backtracking'>Backtracking</a></td>
+      <td><a href='https://leetcode.com/problems/palindrome-partitioning-ii'>Palindrome Partitioning II</a></td>
     </tr>
     <tr>
       <td>132</td>
@@ -932,6 +1196,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/palindrome-partitioning'>Palindrome Partitioning</a></td>
     </tr>
     <tr>
       <td>133</td>
@@ -939,6 +1205,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a>, <a href='https://leetcode.com/tag/graph'>Graph</a></td>
+      <td><a href='https://leetcode.com/problems/copy-list-with-random-pointer'>Copy List with Random Pointer</a>, <a href='https://leetcode.com/problems/clone-binary-tree-with-random-pointer'>Clone Binary Tree With Random Pointer</a>, <a href='https://leetcode.com/problems/clone-n-ary-tree'>Clone N-ary Tree</a></td>
     </tr>
     <tr>
       <td>134</td>
@@ -946,6 +1214,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>135</td>
@@ -953,6 +1223,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>136</td>
@@ -960,6 +1232,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/bit-manipulation'>Bit Manipulation</a></td>
+      <td><a href='https://leetcode.com/problems/single-number-ii'>Single Number II</a>, <a href='https://leetcode.com/problems/single-number-iii'>Single Number III</a>, <a href='https://leetcode.com/problems/missing-number'>Missing Number</a>, <a href='https://leetcode.com/problems/find-the-duplicate-number'>Find the Duplicate Number</a>, <a href='https://leetcode.com/problems/find-the-difference'>Find the Difference</a></td>
     </tr>
     <tr>
       <td>137</td>
@@ -967,6 +1241,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/bit-manipulation'>Bit Manipulation</a></td>
+      <td><a href='https://leetcode.com/problems/single-number'>Single Number</a>, <a href='https://leetcode.com/problems/single-number-iii'>Single Number III</a></td>
     </tr>
     <tr>
       <td>138</td>
@@ -974,6 +1250,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/linked-list'>Linked List</a></td>
+      <td><a href='https://leetcode.com/problems/clone-graph'>Clone Graph</a>, <a href='https://leetcode.com/problems/clone-binary-tree-with-random-pointer'>Clone Binary Tree With Random Pointer</a>, <a href='https://leetcode.com/problems/clone-n-ary-tree'>Clone N-ary Tree</a></td>
     </tr>
     <tr>
       <td>139</td>
@@ -981,6 +1259,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/word-break-ii'>Word Break II</a></td>
     </tr>
     <tr>
       <td>140</td>
@@ -988,6 +1268,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/backtracking'>Backtracking</a></td>
+      <td><a href='https://leetcode.com/problems/word-break'>Word Break</a>, <a href='https://leetcode.com/problems/concatenated-words'>Concatenated Words</a></td>
     </tr>
     <tr>
       <td>141</td>
@@ -995,6 +1277,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/linked-list'>Linked List</a>, <a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a></td>
+      <td><a href='https://leetcode.com/problems/linked-list-cycle-ii'>Linked List Cycle II</a>, <a href='https://leetcode.com/problems/happy-number'>Happy Number</a></td>
     </tr>
     <tr>
       <td>142</td>
@@ -1002,6 +1286,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/linked-list'>Linked List</a>, <a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a></td>
+      <td><a href='https://leetcode.com/problems/linked-list-cycle'>Linked List Cycle</a>, <a href='https://leetcode.com/problems/find-the-duplicate-number'>Find the Duplicate Number</a></td>
     </tr>
     <tr>
       <td>143</td>
@@ -1009,6 +1295,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/linked-list'>Linked List</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>144</td>
@@ -1016,6 +1304,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/stack'>Stack</a>, <a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td><a href='https://leetcode.com/problems/binary-tree-inorder-traversal'>Binary Tree Inorder Traversal</a>, <a href='https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree'>Verify Preorder Sequence in Binary Search Tree</a>, <a href='https://leetcode.com/problems/n-ary-tree-preorder-traversal'>N-ary Tree Preorder Traversal</a></td>
     </tr>
     <tr>
       <td>145</td>
@@ -1023,6 +1313,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/stack'>Stack</a>, <a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td><a href='https://leetcode.com/problems/binary-tree-inorder-traversal'>Binary Tree Inorder Traversal</a>, <a href='https://leetcode.com/problems/n-ary-tree-postorder-traversal'>N-ary Tree Postorder Traversal</a></td>
     </tr>
     <tr>
       <td>146</td>
@@ -1030,6 +1322,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/design'>Design</a></td>
+      <td><a href='https://leetcode.com/problems/lfu-cache'>LFU Cache</a>, <a href='https://leetcode.com/problems/design-in-memory-file-system'>Design In-Memory File System</a>, <a href='https://leetcode.com/problems/design-compressed-string-iterator'>Design Compressed String Iterator</a></td>
     </tr>
     <tr>
       <td>147</td>
@@ -1037,6 +1331,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/linked-list'>Linked List</a>, <a href='https://leetcode.com/tag/sort'>Sort</a></td>
+      <td><a href='https://leetcode.com/problems/sort-list'>Sort List</a>, <a href='https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list'>Insert into a Sorted Circular Linked List</a></td>
     </tr>
     <tr>
       <td>148</td>
@@ -1044,6 +1340,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/linked-list'>Linked List</a>, <a href='https://leetcode.com/tag/sort'>Sort</a></td>
+      <td><a href='https://leetcode.com/problems/merge-two-sorted-lists'>Merge Two Sorted Lists</a>, <a href='https://leetcode.com/problems/sort-colors'>Sort Colors</a>, <a href='https://leetcode.com/problems/insertion-sort-list'>Insertion Sort List</a></td>
     </tr>
     <tr>
       <td>149</td>
@@ -1051,6 +1349,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td><a href='https://leetcode.com/problems/line-reflection'>Line Reflection</a></td>
     </tr>
     <tr>
       <td>150</td>
@@ -1058,6 +1358,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/stack'>Stack</a></td>
+      <td><a href='https://leetcode.com/problems/basic-calculator'>Basic Calculator</a>, <a href='https://leetcode.com/problems/expression-add-operators'>Expression Add Operators</a></td>
     </tr>
     <tr>
       <td>151</td>
@@ -1065,6 +1367,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td><a href='https://leetcode.com/problems/reverse-words-in-a-string-ii'>Reverse Words in a String II</a></td>
     </tr>
     <tr>
       <td>152</td>
@@ -1072,6 +1376,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/maximum-subarray'>Maximum Subarray</a>, <a href='https://leetcode.com/problems/house-robber'>House Robber</a>, <a href='https://leetcode.com/problems/product-of-array-except-self'>Product of Array Except Self</a>, <a href='https://leetcode.com/problems/maximum-product-of-three-numbers'>Maximum Product of Three Numbers</a>, <a href='https://leetcode.com/problems/subarray-product-less-than-k'>Subarray Product Less Than K</a></td>
     </tr>
     <tr>
       <td>153</td>
@@ -1079,6 +1385,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td><a href='https://leetcode.com/problems/search-in-rotated-sorted-array'>Search in Rotated Sorted Array</a>, <a href='https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii'>Find Minimum in Rotated Sorted Array II</a></td>
     </tr>
     <tr>
       <td>154</td>
@@ -1086,6 +1394,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td><a href='https://leetcode.com/problems/find-minimum-in-rotated-sorted-array'>Find Minimum in Rotated Sorted Array</a></td>
     </tr>
     <tr>
       <td>155</td>
@@ -1093,6 +1403,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/stack'>Stack</a>, <a href='https://leetcode.com/tag/design'>Design</a></td>
+      <td><a href='https://leetcode.com/problems/sliding-window-maximum'>Sliding Window Maximum</a>, <a href='https://leetcode.com/problems/max-stack'>Max Stack</a></td>
     </tr>
     <tr>
       <td>156</td>
@@ -1100,6 +1412,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td><a href='https://leetcode.com/problems/reverse-linked-list'>Reverse Linked List</a></td>
     </tr>
     <tr>
       <td>157</td>
@@ -1107,6 +1421,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td><a href='https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times'>Read N Characters Given Read4 II - Call multiple times</a></td>
     </tr>
     <tr>
       <td>158</td>
@@ -1114,6 +1430,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td><a href='https://leetcode.com/problems/read-n-characters-given-read4'>Read N Characters Given Read4</a></td>
     </tr>
     <tr>
       <td>159</td>
@@ -1121,6 +1439,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a>, <a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/sliding-window'>Sliding Window</a></td>
+      <td><a href='https://leetcode.com/problems/longest-substring-without-repeating-characters'>Longest Substring Without Repeating Characters</a>, <a href='https://leetcode.com/problems/sliding-window-maximum'>Sliding Window Maximum</a>, <a href='https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters'>Longest Substring with At Most K Distinct Characters</a>, <a href='https://leetcode.com/problems/subarrays-with-k-different-integers'>Subarrays with K Different Integers</a></td>
     </tr>
     <tr>
       <td>160</td>
@@ -1128,6 +1448,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/linked-list'>Linked List</a></td>
+      <td><a href='https://leetcode.com/problems/minimum-index-sum-of-two-lists'>Minimum Index Sum of Two Lists</a></td>
     </tr>
     <tr>
       <td>161</td>
@@ -1135,6 +1457,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td><a href='https://leetcode.com/problems/edit-distance'>Edit Distance</a></td>
     </tr>
     <tr>
       <td>162</td>
@@ -1142,6 +1466,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td><a href='https://leetcode.com/problems/peak-index-in-a-mountain-array'>Peak Index in a Mountain Array</a></td>
     </tr>
     <tr>
       <td>163</td>
@@ -1149,6 +1475,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td><a href='https://leetcode.com/problems/summary-ranges'>Summary Ranges</a></td>
     </tr>
     <tr>
       <td>164</td>
@@ -1156,6 +1484,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/sort'>Sort</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>165</td>
@@ -1163,6 +1493,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>166</td>
@@ -1170,6 +1502,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>167</td>
@@ -1177,6 +1511,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a>, <a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td><a href='https://leetcode.com/problems/two-sum'>Two Sum</a>, <a href='https://leetcode.com/problems/two-sum-iv-input-is-a-bst'>Two Sum IV - Input is a BST</a>, <a href='https://leetcode.com/problems/two-sum-less-than-k'>Two Sum Less Than K</a></td>
     </tr>
     <tr>
       <td>168</td>
@@ -1184,6 +1520,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td><a href='https://leetcode.com/problems/excel-sheet-column-number'>Excel Sheet Column Number</a></td>
     </tr>
     <tr>
       <td>169</td>
@@ -1191,6 +1529,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/divide-and-conquer'>Divide and Conquer</a>, <a href='https://leetcode.com/tag/bit-manipulation'>Bit Manipulation</a></td>
+      <td><a href='https://leetcode.com/problems/majority-element-ii'>Majority Element II</a>, <a href='https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array'>Check If a Number Is Majority Element in a Sorted Array</a></td>
     </tr>
     <tr>
       <td>170</td>
@@ -1198,6 +1538,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/design'>Design</a></td>
+      <td><a href='https://leetcode.com/problems/two-sum'>Two Sum</a>, <a href='https://leetcode.com/problems/unique-word-abbreviation'>Unique Word Abbreviation</a>, <a href='https://leetcode.com/problems/two-sum-iv-input-is-a-bst'>Two Sum IV - Input is a BST</a></td>
     </tr>
     <tr>
       <td>171</td>
@@ -1205,6 +1547,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td><a href='https://leetcode.com/problems/excel-sheet-column-title'>Excel Sheet Column Title</a></td>
     </tr>
     <tr>
       <td>172</td>
@@ -1212,6 +1556,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td><a href='https://leetcode.com/problems/number-of-digit-one'>Number of Digit One</a>, <a href='https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function'>Preimage Size of Factorial Zeroes Function</a></td>
     </tr>
     <tr>
       <td>173</td>
@@ -1219,6 +1565,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/stack'>Stack</a>, <a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/design'>Design</a></td>
+      <td><a href='https://leetcode.com/problems/binary-tree-inorder-traversal'>Binary Tree Inorder Traversal</a>, <a href='https://leetcode.com/problems/flatten-2d-vector'>Flatten 2D Vector</a>, <a href='https://leetcode.com/problems/zigzag-iterator'>Zigzag Iterator</a>, <a href='https://leetcode.com/problems/peeking-iterator'>Peeking Iterator</a>, <a href='https://leetcode.com/problems/inorder-successor-in-bst'>Inorder Successor in BST</a></td>
     </tr>
     <tr>
       <td>174</td>
@@ -1226,6 +1574,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/binary-search'>Binary Search</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/unique-paths'>Unique Paths</a>, <a href='https://leetcode.com/problems/minimum-path-sum'>Minimum Path Sum</a>, <a href='https://leetcode.com/problems/cherry-pickup'>Cherry Pickup</a></td>
     </tr>
     <tr>
       <td>175</td>
@@ -1233,6 +1583,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td><a href='https://leetcode.com/problems/employee-bonus'>Employee Bonus</a></td>
     </tr>
     <tr>
       <td>176</td>
@@ -1240,6 +1592,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>177</td>
@@ -1247,6 +1601,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>178</td>
@@ -1254,6 +1610,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>179</td>
@@ -1261,6 +1619,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/sort'>Sort</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>180</td>
@@ -1268,6 +1628,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>181</td>
@@ -1275,6 +1637,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>182</td>
@@ -1282,6 +1646,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>183</td>
@@ -1289,6 +1655,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>184</td>
@@ -1296,6 +1664,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td><a href='https://leetcode.com/problems/highest-grade-for-each-student'>Highest Grade For Each Student</a></td>
     </tr>
     <tr>
       <td>185</td>
@@ -1303,6 +1673,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>186</td>
@@ -1310,6 +1682,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td><a href='https://leetcode.com/problems/reverse-words-in-a-string'>Reverse Words in a String</a>, <a href='https://leetcode.com/problems/rotate-array'>Rotate Array</a></td>
     </tr>
     <tr>
       <td>187</td>
@@ -1317,6 +1691,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/bit-manipulation'>Bit Manipulation</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>188</td>
@@ -1324,6 +1700,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/best-time-to-buy-and-sell-stock'>Best Time to Buy and Sell Stock</a>, <a href='https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii'>Best Time to Buy and Sell Stock II</a>, <a href='https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii'>Best Time to Buy and Sell Stock III</a></td>
     </tr>
     <tr>
       <td>189</td>
@@ -1331,6 +1709,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td><a href='https://leetcode.com/problems/rotate-list'>Rotate List</a>, <a href='https://leetcode.com/problems/reverse-words-in-a-string-ii'>Reverse Words in a String II</a></td>
     </tr>
     <tr>
       <td>190</td>
@@ -1338,6 +1718,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/bit-manipulation'>Bit Manipulation</a></td>
+      <td><a href='https://leetcode.com/problems/reverse-integer'>Reverse Integer</a>, <a href='https://leetcode.com/problems/number-of-1-bits'>Number of 1 Bits</a></td>
     </tr>
     <tr>
       <td>191</td>
@@ -1345,6 +1727,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/bit-manipulation'>Bit Manipulation</a></td>
+      <td><a href='https://leetcode.com/problems/reverse-bits'>Reverse Bits</a>, <a href='https://leetcode.com/problems/power-of-two'>Power of Two</a>, <a href='https://leetcode.com/problems/counting-bits'>Counting Bits</a>, <a href='https://leetcode.com/problems/binary-watch'>Binary Watch</a>, <a href='https://leetcode.com/problems/hamming-distance'>Hamming Distance</a>, <a href='https://leetcode.com/problems/binary-number-with-alternating-bits'>Binary Number with Alternating Bits</a>, <a href='https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation'>Prime Number of Set Bits in Binary Representation</a></td>
     </tr>
     <tr>
       <td>192</td>
@@ -1352,6 +1736,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td><a href='https://leetcode.com/problems/top-k-frequent-elements'>Top K Frequent Elements</a></td>
     </tr>
     <tr>
       <td>193</td>
@@ -1359,6 +1745,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>194</td>
@@ -1366,6 +1754,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>195</td>
@@ -1373,6 +1763,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>196</td>
@@ -1380,6 +1772,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>197</td>
@@ -1387,6 +1781,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>198</td>
@@ -1394,6 +1790,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/maximum-product-subarray'>Maximum Product Subarray</a>, <a href='https://leetcode.com/problems/house-robber-ii'>House Robber II</a>, <a href='https://leetcode.com/problems/paint-house'>Paint House</a>, <a href='https://leetcode.com/problems/paint-fence'>Paint Fence</a>, <a href='https://leetcode.com/problems/house-robber-iii'>House Robber III</a>, <a href='https://leetcode.com/problems/non-negative-integers-without-consecutive-ones'>Non-negative Integers without Consecutive Ones</a>, <a href='https://leetcode.com/problems/coin-path'>Coin Path</a>, <a href='https://leetcode.com/problems/delete-and-earn'>Delete and Earn</a></td>
     </tr>
     <tr>
       <td>199</td>
@@ -1401,6 +1799,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/populating-next-right-pointers-in-each-node'>Populating Next Right Pointers in Each Node</a>, <a href='https://leetcode.com/problems/boundary-of-binary-tree'>Boundary of Binary Tree</a></td>
     </tr>
     <tr>
       <td>200</td>
@@ -1408,6 +1808,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a>, <a href='https://leetcode.com/tag/union-find'>Union Find</a></td>
+      <td><a href='https://leetcode.com/problems/surrounded-regions'>Surrounded Regions</a>, <a href='https://leetcode.com/problems/walls-and-gates'>Walls and Gates</a>, <a href='https://leetcode.com/problems/number-of-islands-ii'>Number of Islands II</a>, <a href='https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph'>Number of Connected Components in an Undirected Graph</a>, <a href='https://leetcode.com/problems/number-of-distinct-islands'>Number of Distinct Islands</a>, <a href='https://leetcode.com/problems/max-area-of-island'>Max Area of Island</a></td>
     </tr>
     <tr>
       <td>201</td>
@@ -1415,6 +1817,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/bit-manipulation'>Bit Manipulation</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>202</td>
@@ -1422,6 +1826,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td><a href='https://leetcode.com/problems/linked-list-cycle'>Linked List Cycle</a>, <a href='https://leetcode.com/problems/add-digits'>Add Digits</a>, <a href='https://leetcode.com/problems/ugly-number'>Ugly Number</a></td>
     </tr>
     <tr>
       <td>203</td>
@@ -1429,6 +1835,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/linked-list'>Linked List</a></td>
+      <td><a href='https://leetcode.com/problems/remove-element'>Remove Element</a>, <a href='https://leetcode.com/problems/delete-node-in-a-linked-list'>Delete Node in a Linked List</a></td>
     </tr>
     <tr>
       <td>204</td>
@@ -1436,6 +1844,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td><a href='https://leetcode.com/problems/ugly-number'>Ugly Number</a>, <a href='https://leetcode.com/problems/ugly-number-ii'>Ugly Number II</a>, <a href='https://leetcode.com/problems/perfect-squares'>Perfect Squares</a></td>
     </tr>
     <tr>
       <td>205</td>
@@ -1443,6 +1853,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a></td>
+      <td><a href='https://leetcode.com/problems/word-pattern'>Word Pattern</a></td>
     </tr>
     <tr>
       <td>206</td>
@@ -1450,6 +1862,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/linked-list'>Linked List</a></td>
+      <td><a href='https://leetcode.com/problems/reverse-linked-list-ii'>Reverse Linked List II</a>, <a href='https://leetcode.com/problems/binary-tree-upside-down'>Binary Tree Upside Down</a>, <a href='https://leetcode.com/problems/palindrome-linked-list'>Palindrome Linked List</a></td>
     </tr>
     <tr>
       <td>207</td>
@@ -1457,6 +1871,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a>, <a href='https://leetcode.com/tag/graph'>Graph</a>, <a href='https://leetcode.com/tag/topological-sort'>Topological Sort</a></td>
+      <td><a href='https://leetcode.com/problems/course-schedule-ii'>Course Schedule II</a>, <a href='https://leetcode.com/problems/graph-valid-tree'>Graph Valid Tree</a>, <a href='https://leetcode.com/problems/minimum-height-trees'>Minimum Height Trees</a>, <a href='https://leetcode.com/problems/course-schedule-iii'>Course Schedule III</a></td>
     </tr>
     <tr>
       <td>208</td>
@@ -1464,6 +1880,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/design'>Design</a>, <a href='https://leetcode.com/tag/trie'>Trie</a></td>
+      <td><a href='https://leetcode.com/problems/design-add-and-search-words-data-structure'>Design Add and Search Words Data Structure</a>, <a href='https://leetcode.com/problems/design-search-autocomplete-system'>Design Search Autocomplete System</a>, <a href='https://leetcode.com/problems/replace-words'>Replace Words</a>, <a href='https://leetcode.com/problems/implement-magic-dictionary'>Implement Magic Dictionary</a></td>
     </tr>
     <tr>
       <td>209</td>
@@ -1471,6 +1889,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a>, <a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td><a href='https://leetcode.com/problems/minimum-window-substring'>Minimum Window Substring</a>, <a href='https://leetcode.com/problems/maximum-size-subarray-sum-equals-k'>Maximum Size Subarray Sum Equals k</a>, <a href='https://leetcode.com/problems/maximum-length-of-repeated-subarray'>Maximum Length of Repeated Subarray</a></td>
     </tr>
     <tr>
       <td>210</td>
@@ -1478,6 +1898,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a>, <a href='https://leetcode.com/tag/graph'>Graph</a>, <a href='https://leetcode.com/tag/topological-sort'>Topological Sort</a></td>
+      <td><a href='https://leetcode.com/problems/course-schedule'>Course Schedule</a>, <a href='https://leetcode.com/problems/alien-dictionary'>Alien Dictionary</a>, <a href='https://leetcode.com/problems/minimum-height-trees'>Minimum Height Trees</a>, <a href='https://leetcode.com/problems/sequence-reconstruction'>Sequence Reconstruction</a>, <a href='https://leetcode.com/problems/course-schedule-iii'>Course Schedule III</a></td>
     </tr>
     <tr>
       <td>211</td>
@@ -1485,6 +1907,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/backtracking'>Backtracking</a>, <a href='https://leetcode.com/tag/design'>Design</a>, <a href='https://leetcode.com/tag/trie'>Trie</a></td>
+      <td><a href='https://leetcode.com/problems/implement-trie-prefix-tree'>Implement Trie (Prefix Tree)</a>, <a href='https://leetcode.com/problems/prefix-and-suffix-search'>Prefix and Suffix Search</a></td>
     </tr>
     <tr>
       <td>212</td>
@@ -1492,6 +1916,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/backtracking'>Backtracking</a>, <a href='https://leetcode.com/tag/trie'>Trie</a></td>
+      <td><a href='https://leetcode.com/problems/word-search'>Word Search</a>, <a href='https://leetcode.com/problems/unique-paths-iii'>Unique Paths III</a></td>
     </tr>
     <tr>
       <td>213</td>
@@ -1499,6 +1925,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/house-robber'>House Robber</a>, <a href='https://leetcode.com/problems/paint-house'>Paint House</a>, <a href='https://leetcode.com/problems/paint-fence'>Paint Fence</a>, <a href='https://leetcode.com/problems/house-robber-iii'>House Robber III</a>, <a href='https://leetcode.com/problems/non-negative-integers-without-consecutive-ones'>Non-negative Integers without Consecutive Ones</a>, <a href='https://leetcode.com/problems/coin-path'>Coin Path</a></td>
     </tr>
     <tr>
       <td>214</td>
@@ -1506,6 +1934,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td><a href='https://leetcode.com/problems/longest-palindromic-substring'>Longest Palindromic Substring</a>, <a href='https://leetcode.com/problems/implement-strstr'>Implement strStr()</a>, <a href='https://leetcode.com/problems/palindrome-pairs'>Palindrome Pairs</a></td>
     </tr>
     <tr>
       <td>215</td>
@@ -1513,6 +1943,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/divide-and-conquer'>Divide and Conquer</a>, <a href='https://leetcode.com/tag/heap'>Heap</a></td>
+      <td><a href='https://leetcode.com/problems/wiggle-sort-ii'>Wiggle Sort II</a>, <a href='https://leetcode.com/problems/top-k-frequent-elements'>Top K Frequent Elements</a>, <a href='https://leetcode.com/problems/third-maximum-number'>Third Maximum Number</a>, <a href='https://leetcode.com/problems/kth-largest-element-in-a-stream'>Kth Largest Element in a Stream</a>, <a href='https://leetcode.com/problems/k-closest-points-to-origin'>K Closest Points to Origin</a></td>
     </tr>
     <tr>
       <td>216</td>
@@ -1520,6 +1952,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/backtracking'>Backtracking</a></td>
+      <td><a href='https://leetcode.com/problems/combination-sum'>Combination Sum</a></td>
     </tr>
     <tr>
       <td>217</td>
@@ -1527,6 +1961,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/hash-table'>Hash Table</a></td>
+      <td><a href='https://leetcode.com/problems/contains-duplicate-ii'>Contains Duplicate II</a>, <a href='https://leetcode.com/problems/contains-duplicate-iii'>Contains Duplicate III</a></td>
     </tr>
     <tr>
       <td>218</td>
@@ -1534,6 +1970,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/divide-and-conquer'>Divide and Conquer</a>, <a href='https://leetcode.com/tag/heap'>Heap</a>, <a href='https://leetcode.com/tag/binary-indexed-tree'>Binary Indexed Tree</a>, <a href='https://leetcode.com/tag/segment-tree'>Segment Tree</a>, <a href='https://leetcode.com/tag/line-sweep'>Line Sweep</a></td>
+      <td><a href='https://leetcode.com/problems/falling-squares'>Falling Squares</a></td>
     </tr>
     <tr>
       <td>219</td>
@@ -1541,6 +1979,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/hash-table'>Hash Table</a></td>
+      <td><a href='https://leetcode.com/problems/contains-duplicate'>Contains Duplicate</a>, <a href='https://leetcode.com/problems/contains-duplicate-iii'>Contains Duplicate III</a></td>
     </tr>
     <tr>
       <td>220</td>
@@ -1548,6 +1988,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/sort'>Sort</a>, <a href='https://leetcode.com/tag/ordered-map'>Ordered Map</a></td>
+      <td><a href='https://leetcode.com/problems/contains-duplicate'>Contains Duplicate</a>, <a href='https://leetcode.com/problems/contains-duplicate-ii'>Contains Duplicate II</a></td>
     </tr>
     <tr>
       <td>221</td>
@@ -1555,6 +1997,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/maximal-rectangle'>Maximal Rectangle</a>, <a href='https://leetcode.com/problems/largest-plus-sign'>Largest Plus Sign</a></td>
     </tr>
     <tr>
       <td>222</td>
@@ -1562,6 +2006,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/binary-search'>Binary Search</a>, <a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td><a href='https://leetcode.com/problems/closest-binary-search-tree-value'>Closest Binary Search Tree Value</a></td>
     </tr>
     <tr>
       <td>223</td>
@@ -1569,6 +2015,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td><a href='https://leetcode.com/problems/rectangle-overlap'>Rectangle Overlap</a></td>
     </tr>
     <tr>
       <td>224</td>
@@ -1576,6 +2024,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/stack'>Stack</a></td>
+      <td><a href='https://leetcode.com/problems/evaluate-reverse-polish-notation'>Evaluate Reverse Polish Notation</a>, <a href='https://leetcode.com/problems/basic-calculator-ii'>Basic Calculator II</a>, <a href='https://leetcode.com/problems/different-ways-to-add-parentheses'>Different Ways to Add Parentheses</a>, <a href='https://leetcode.com/problems/expression-add-operators'>Expression Add Operators</a>, <a href='https://leetcode.com/problems/basic-calculator-iii'>Basic Calculator III</a></td>
     </tr>
     <tr>
       <td>225</td>
@@ -1583,6 +2033,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/stack'>Stack</a>, <a href='https://leetcode.com/tag/design'>Design</a></td>
+      <td><a href='https://leetcode.com/problems/implement-queue-using-stacks'>Implement Queue using Stacks</a></td>
     </tr>
     <tr>
       <td>226</td>
@@ -1590,6 +2042,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>227</td>
@@ -1597,6 +2051,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td><a href='https://leetcode.com/problems/basic-calculator'>Basic Calculator</a>, <a href='https://leetcode.com/problems/expression-add-operators'>Expression Add Operators</a>, <a href='https://leetcode.com/problems/basic-calculator-iii'>Basic Calculator III</a></td>
     </tr>
     <tr>
       <td>228</td>
@@ -1604,6 +2060,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td><a href='https://leetcode.com/problems/missing-ranges'>Missing Ranges</a>, <a href='https://leetcode.com/problems/data-stream-as-disjoint-intervals'>Data Stream as Disjoint Intervals</a></td>
     </tr>
     <tr>
       <td>229</td>
@@ -1611,6 +2069,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td><a href='https://leetcode.com/problems/majority-element'>Majority Element</a>, <a href='https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array'>Check If a Number Is Majority Element in a Sorted Array</a></td>
     </tr>
     <tr>
       <td>230</td>
@@ -1618,6 +2078,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/binary-search'>Binary Search</a>, <a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td><a href='https://leetcode.com/problems/binary-tree-inorder-traversal'>Binary Tree Inorder Traversal</a>, <a href='https://leetcode.com/problems/second-minimum-node-in-a-binary-tree'>Second Minimum Node In a Binary Tree</a></td>
     </tr>
     <tr>
       <td>231</td>
@@ -1625,6 +2087,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/bit-manipulation'>Bit Manipulation</a></td>
+      <td><a href='https://leetcode.com/problems/number-of-1-bits'>Number of 1 Bits</a>, <a href='https://leetcode.com/problems/power-of-three'>Power of Three</a>, <a href='https://leetcode.com/problems/power-of-four'>Power of Four</a></td>
     </tr>
     <tr>
       <td>232</td>
@@ -1632,6 +2096,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/stack'>Stack</a>, <a href='https://leetcode.com/tag/design'>Design</a></td>
+      <td><a href='https://leetcode.com/problems/implement-stack-using-queues'>Implement Stack using Queues</a></td>
     </tr>
     <tr>
       <td>233</td>
@@ -1639,6 +2105,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td><a href='https://leetcode.com/problems/factorial-trailing-zeroes'>Factorial Trailing Zeroes</a>, <a href='https://leetcode.com/problems/digit-count-in-range'>Digit Count in Range</a></td>
     </tr>
     <tr>
       <td>234</td>
@@ -1646,6 +2114,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/linked-list'>Linked List</a>, <a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a></td>
+      <td><a href='https://leetcode.com/problems/palindrome-number'>Palindrome Number</a>, <a href='https://leetcode.com/problems/valid-palindrome'>Valid Palindrome</a>, <a href='https://leetcode.com/problems/reverse-linked-list'>Reverse Linked List</a></td>
     </tr>
     <tr>
       <td>235</td>
@@ -1653,6 +2123,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td><a href='https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree'>Lowest Common Ancestor of a Binary Tree</a>, <a href='https://leetcode.com/problems/smallest-common-region'>Smallest Common Region</a></td>
     </tr>
     <tr>
       <td>236</td>
@@ -1660,6 +2132,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td><a href='https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree'>Lowest Common Ancestor of a Binary Search Tree</a>, <a href='https://leetcode.com/problems/smallest-common-region'>Smallest Common Region</a></td>
     </tr>
     <tr>
       <td>237</td>
@@ -1667,6 +2141,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/linked-list'>Linked List</a></td>
+      <td><a href='https://leetcode.com/problems/remove-linked-list-elements'>Remove Linked List Elements</a></td>
     </tr>
     <tr>
       <td>238</td>
@@ -1674,6 +2150,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td><a href='https://leetcode.com/problems/trapping-rain-water'>Trapping Rain Water</a>, <a href='https://leetcode.com/problems/maximum-product-subarray'>Maximum Product Subarray</a>, <a href='https://leetcode.com/problems/paint-house-ii'>Paint House II</a></td>
     </tr>
     <tr>
       <td>239</td>
@@ -1681,6 +2159,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/heap'>Heap</a>, <a href='https://leetcode.com/tag/sliding-window'>Sliding Window</a></td>
+      <td><a href='https://leetcode.com/problems/minimum-window-substring'>Minimum Window Substring</a>, <a href='https://leetcode.com/problems/min-stack'>Min Stack</a>, <a href='https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters'>Longest Substring with At Most Two Distinct Characters</a>, <a href='https://leetcode.com/problems/paint-house-ii'>Paint House II</a></td>
     </tr>
     <tr>
       <td>240</td>
@@ -1688,6 +2168,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/binary-search'>Binary Search</a>, <a href='https://leetcode.com/tag/divide-and-conquer'>Divide and Conquer</a></td>
+      <td><a href='https://leetcode.com/problems/search-a-2d-matrix'>Search a 2D Matrix</a></td>
     </tr>
     <tr>
       <td>241</td>
@@ -1695,6 +2177,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/divide-and-conquer'>Divide and Conquer</a></td>
+      <td><a href='https://leetcode.com/problems/unique-binary-search-trees-ii'>Unique Binary Search Trees II</a>, <a href='https://leetcode.com/problems/basic-calculator'>Basic Calculator</a>, <a href='https://leetcode.com/problems/expression-add-operators'>Expression Add Operators</a></td>
     </tr>
     <tr>
       <td>242</td>
@@ -1702,6 +2186,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/sort'>Sort</a></td>
+      <td><a href='https://leetcode.com/problems/group-anagrams'>Group Anagrams</a>, <a href='https://leetcode.com/problems/palindrome-permutation'>Palindrome Permutation</a>, <a href='https://leetcode.com/problems/find-all-anagrams-in-a-string'>Find All Anagrams in a String</a></td>
     </tr>
     <tr>
       <td>243</td>
@@ -1709,6 +2195,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td><a href='https://leetcode.com/problems/shortest-word-distance-ii'>Shortest Word Distance II</a>, <a href='https://leetcode.com/problems/shortest-word-distance-iii'>Shortest Word Distance III</a></td>
     </tr>
     <tr>
       <td>244</td>
@@ -1716,6 +2204,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/design'>Design</a></td>
+      <td><a href='https://leetcode.com/problems/merge-two-sorted-lists'>Merge Two Sorted Lists</a>, <a href='https://leetcode.com/problems/shortest-word-distance'>Shortest Word Distance</a>, <a href='https://leetcode.com/problems/shortest-word-distance-iii'>Shortest Word Distance III</a></td>
     </tr>
     <tr>
       <td>245</td>
@@ -1723,6 +2213,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td><a href='https://leetcode.com/problems/shortest-word-distance'>Shortest Word Distance</a>, <a href='https://leetcode.com/problems/shortest-word-distance-ii'>Shortest Word Distance II</a></td>
     </tr>
     <tr>
       <td>246</td>
@@ -1730,6 +2222,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td><a href='https://leetcode.com/problems/strobogrammatic-number-ii'>Strobogrammatic Number II</a>, <a href='https://leetcode.com/problems/strobogrammatic-number-iii'>Strobogrammatic Number III</a>, <a href='https://leetcode.com/problems/confusing-number'>Confusing Number</a></td>
     </tr>
     <tr>
       <td>247</td>
@@ -1737,6 +2231,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/recursion'>Recursion</a></td>
+      <td><a href='https://leetcode.com/problems/strobogrammatic-number'>Strobogrammatic Number</a>, <a href='https://leetcode.com/problems/strobogrammatic-number-iii'>Strobogrammatic Number III</a></td>
     </tr>
     <tr>
       <td>248</td>
@@ -1744,6 +2240,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/recursion'>Recursion</a></td>
+      <td><a href='https://leetcode.com/problems/strobogrammatic-number'>Strobogrammatic Number</a>, <a href='https://leetcode.com/problems/strobogrammatic-number-ii'>Strobogrammatic Number II</a></td>
     </tr>
     <tr>
       <td>249</td>
@@ -1751,6 +2249,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/string'>String</a></td>
+      <td><a href='https://leetcode.com/problems/group-anagrams'>Group Anagrams</a></td>
     </tr>
     <tr>
       <td>250</td>
@@ -1758,6 +2258,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td><a href='https://leetcode.com/problems/subtree-of-another-tree'>Subtree of Another Tree</a>, <a href='https://leetcode.com/problems/longest-univalue-path'>Longest Univalue Path</a></td>
     </tr>
     <tr>
       <td>251</td>
@@ -1765,6 +2267,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/design'>Design</a></td>
+      <td><a href='https://leetcode.com/problems/binary-search-tree-iterator'>Binary Search Tree Iterator</a>, <a href='https://leetcode.com/problems/zigzag-iterator'>Zigzag Iterator</a>, <a href='https://leetcode.com/problems/peeking-iterator'>Peeking Iterator</a>, <a href='https://leetcode.com/problems/flatten-nested-list-iterator'>Flatten Nested List Iterator</a></td>
     </tr>
     <tr>
       <td>252</td>
@@ -1772,6 +2276,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/sort'>Sort</a></td>
+      <td><a href='https://leetcode.com/problems/merge-intervals'>Merge Intervals</a>, <a href='https://leetcode.com/problems/meeting-rooms-ii'>Meeting Rooms II</a></td>
     </tr>
     <tr>
       <td>253</td>
@@ -1779,6 +2285,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/heap'>Heap</a>, <a href='https://leetcode.com/tag/greedy'>Greedy</a>, <a href='https://leetcode.com/tag/sort'>Sort</a></td>
+      <td><a href='https://leetcode.com/problems/merge-intervals'>Merge Intervals</a>, <a href='https://leetcode.com/problems/meeting-rooms'>Meeting Rooms</a>, <a href='https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons'>Minimum Number of Arrows to Burst Balloons</a>, <a href='https://leetcode.com/problems/car-pooling'>Car Pooling</a></td>
     </tr>
     <tr>
       <td>254</td>
@@ -1786,6 +2294,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/backtracking'>Backtracking</a></td>
+      <td><a href='https://leetcode.com/problems/combination-sum'>Combination Sum</a></td>
     </tr>
     <tr>
       <td>255</td>
@@ -1793,6 +2303,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/stack'>Stack</a>, <a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td><a href='https://leetcode.com/problems/binary-tree-preorder-traversal'>Binary Tree Preorder Traversal</a></td>
     </tr>
     <tr>
       <td>256</td>
@@ -1800,6 +2312,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/house-robber'>House Robber</a>, <a href='https://leetcode.com/problems/house-robber-ii'>House Robber II</a>, <a href='https://leetcode.com/problems/paint-house-ii'>Paint House II</a>, <a href='https://leetcode.com/problems/paint-fence'>Paint Fence</a></td>
     </tr>
     <tr>
       <td>257</td>
@@ -1807,6 +2321,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/path-sum-ii'>Path Sum II</a>, <a href='https://leetcode.com/problems/smallest-string-starting-from-leaf'>Smallest String Starting From Leaf</a></td>
     </tr>
     <tr>
       <td>258</td>
@@ -1814,6 +2330,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td><a href='https://leetcode.com/problems/happy-number'>Happy Number</a>, <a href='https://leetcode.com/problems/sum-of-digits-in-the-minimum-number'>Sum of Digits in the Minimum Number</a></td>
     </tr>
     <tr>
       <td>259</td>
@@ -1821,6 +2339,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a></td>
+      <td><a href='https://leetcode.com/problems/3sum'>3Sum</a>, <a href='https://leetcode.com/problems/3sum-closest'>3Sum Closest</a>, <a href='https://leetcode.com/problems/valid-triangle-number'>Valid Triangle Number</a>, <a href='https://leetcode.com/problems/two-sum-less-than-k'>Two Sum Less Than K</a></td>
     </tr>
     <tr>
       <td>260</td>
@@ -1828,6 +2348,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/bit-manipulation'>Bit Manipulation</a></td>
+      <td><a href='https://leetcode.com/problems/single-number'>Single Number</a>, <a href='https://leetcode.com/problems/single-number-ii'>Single Number II</a></td>
     </tr>
     <tr>
       <td>261</td>
@@ -1835,6 +2357,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a>, <a href='https://leetcode.com/tag/union-find'>Union Find</a>, <a href='https://leetcode.com/tag/graph'>Graph</a></td>
+      <td><a href='https://leetcode.com/problems/course-schedule'>Course Schedule</a>, <a href='https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph'>Number of Connected Components in an Undirected Graph</a></td>
     </tr>
     <tr>
       <td>262</td>
@@ -1842,6 +2366,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>263</td>
@@ -1849,6 +2375,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td><a href='https://leetcode.com/problems/happy-number'>Happy Number</a>, <a href='https://leetcode.com/problems/count-primes'>Count Primes</a>, <a href='https://leetcode.com/problems/ugly-number-ii'>Ugly Number II</a></td>
     </tr>
     <tr>
       <td>264</td>
@@ -1856,6 +2384,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/heap'>Heap</a></td>
+      <td><a href='https://leetcode.com/problems/merge-k-sorted-lists'>Merge k Sorted Lists</a>, <a href='https://leetcode.com/problems/count-primes'>Count Primes</a>, <a href='https://leetcode.com/problems/ugly-number'>Ugly Number</a>, <a href='https://leetcode.com/problems/perfect-squares'>Perfect Squares</a>, <a href='https://leetcode.com/problems/super-ugly-number'>Super Ugly Number</a>, <a href='https://leetcode.com/problems/ugly-number-iii'>Ugly Number III</a></td>
     </tr>
     <tr>
       <td>265</td>
@@ -1863,6 +2393,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/product-of-array-except-self'>Product of Array Except Self</a>, <a href='https://leetcode.com/problems/sliding-window-maximum'>Sliding Window Maximum</a>, <a href='https://leetcode.com/problems/paint-house'>Paint House</a>, <a href='https://leetcode.com/problems/paint-fence'>Paint Fence</a></td>
     </tr>
     <tr>
       <td>266</td>
@@ -1870,6 +2402,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a></td>
+      <td><a href='https://leetcode.com/problems/longest-palindromic-substring'>Longest Palindromic Substring</a>, <a href='https://leetcode.com/problems/valid-anagram'>Valid Anagram</a>, <a href='https://leetcode.com/problems/palindrome-permutation-ii'>Palindrome Permutation II</a>, <a href='https://leetcode.com/problems/longest-palindrome'>Longest Palindrome</a></td>
     </tr>
     <tr>
       <td>267</td>
@@ -1877,6 +2411,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/backtracking'>Backtracking</a></td>
+      <td><a href='https://leetcode.com/problems/next-permutation'>Next Permutation</a>, <a href='https://leetcode.com/problems/permutations-ii'>Permutations II</a>, <a href='https://leetcode.com/problems/palindrome-permutation'>Palindrome Permutation</a></td>
     </tr>
     <tr>
       <td>268</td>
@@ -1884,6 +2420,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/bit-manipulation'>Bit Manipulation</a></td>
+      <td><a href='https://leetcode.com/problems/first-missing-positive'>First Missing Positive</a>, <a href='https://leetcode.com/problems/single-number'>Single Number</a>, <a href='https://leetcode.com/problems/find-the-duplicate-number'>Find the Duplicate Number</a>, <a href='https://leetcode.com/problems/couples-holding-hands'>Couples Holding Hands</a></td>
     </tr>
     <tr>
       <td>269</td>
@@ -1891,6 +2429,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/graph'>Graph</a>, <a href='https://leetcode.com/tag/topological-sort'>Topological Sort</a></td>
+      <td><a href='https://leetcode.com/problems/course-schedule-ii'>Course Schedule II</a></td>
     </tr>
     <tr>
       <td>270</td>
@@ -1898,6 +2438,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/binary-search'>Binary Search</a>, <a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td><a href='https://leetcode.com/problems/count-complete-tree-nodes'>Count Complete Tree Nodes</a>, <a href='https://leetcode.com/problems/closest-binary-search-tree-value-ii'>Closest Binary Search Tree Value II</a>, <a href='https://leetcode.com/problems/search-in-a-binary-search-tree'>Search in a Binary Search Tree</a></td>
     </tr>
     <tr>
       <td>271</td>
@@ -1905,6 +2447,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td><a href='https://leetcode.com/problems/count-and-say'>Count and Say</a>, <a href='https://leetcode.com/problems/serialize-and-deserialize-binary-tree'>Serialize and Deserialize Binary Tree</a>, <a href='https://leetcode.com/problems/string-compression'>String Compression</a>, <a href='https://leetcode.com/problems/count-binary-substrings'>Count Binary Substrings</a></td>
     </tr>
     <tr>
       <td>272</td>
@@ -1912,6 +2456,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/stack'>Stack</a>, <a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td><a href='https://leetcode.com/problems/binary-tree-inorder-traversal'>Binary Tree Inorder Traversal</a>, <a href='https://leetcode.com/problems/closest-binary-search-tree-value'>Closest Binary Search Tree Value</a></td>
     </tr>
     <tr>
       <td>273</td>
@@ -1919,6 +2465,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/string'>String</a></td>
+      <td><a href='https://leetcode.com/problems/integer-to-roman'>Integer to Roman</a></td>
     </tr>
     <tr>
       <td>274</td>
@@ -1926,6 +2474,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/sort'>Sort</a></td>
+      <td><a href='https://leetcode.com/problems/h-index-ii'>H-Index II</a></td>
     </tr>
     <tr>
       <td>275</td>
@@ -1933,6 +2483,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td><a href='https://leetcode.com/problems/h-index'>H-Index</a></td>
     </tr>
     <tr>
       <td>276</td>
@@ -1940,6 +2492,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/house-robber'>House Robber</a>, <a href='https://leetcode.com/problems/house-robber-ii'>House Robber II</a>, <a href='https://leetcode.com/problems/paint-house'>Paint House</a>, <a href='https://leetcode.com/problems/paint-house-ii'>Paint House II</a></td>
     </tr>
     <tr>
       <td>277</td>
@@ -1947,6 +2501,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td><a href='https://leetcode.com/problems/find-the-town-judge'>Find the Town Judge</a></td>
     </tr>
     <tr>
       <td>278</td>
@@ -1954,6 +2510,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td><a href='https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array'>Find First and Last Position of Element in Sorted Array</a>, <a href='https://leetcode.com/problems/search-insert-position'>Search Insert Position</a>, <a href='https://leetcode.com/problems/guess-number-higher-or-lower'>Guess Number Higher or Lower</a></td>
     </tr>
     <tr>
       <td>279</td>
@@ -1961,6 +2519,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/count-primes'>Count Primes</a>, <a href='https://leetcode.com/problems/ugly-number-ii'>Ugly Number II</a></td>
     </tr>
     <tr>
       <td>280</td>
@@ -1968,6 +2528,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/sort'>Sort</a></td>
+      <td><a href='https://leetcode.com/problems/sort-colors'>Sort Colors</a>, <a href='https://leetcode.com/problems/wiggle-sort-ii'>Wiggle Sort II</a></td>
     </tr>
     <tr>
       <td>281</td>
@@ -1975,6 +2537,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/design'>Design</a></td>
+      <td><a href='https://leetcode.com/problems/binary-search-tree-iterator'>Binary Search Tree Iterator</a>, <a href='https://leetcode.com/problems/flatten-2d-vector'>Flatten 2D Vector</a>, <a href='https://leetcode.com/problems/peeking-iterator'>Peeking Iterator</a>, <a href='https://leetcode.com/problems/flatten-nested-list-iterator'>Flatten Nested List Iterator</a></td>
     </tr>
     <tr>
       <td>282</td>
@@ -1982,6 +2546,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/divide-and-conquer'>Divide and Conquer</a></td>
+      <td><a href='https://leetcode.com/problems/evaluate-reverse-polish-notation'>Evaluate Reverse Polish Notation</a>, <a href='https://leetcode.com/problems/basic-calculator'>Basic Calculator</a>, <a href='https://leetcode.com/problems/basic-calculator-ii'>Basic Calculator II</a>, <a href='https://leetcode.com/problems/different-ways-to-add-parentheses'>Different Ways to Add Parentheses</a>, <a href='https://leetcode.com/problems/target-sum'>Target Sum</a></td>
     </tr>
     <tr>
       <td>283</td>
@@ -1989,6 +2555,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a></td>
+      <td><a href='https://leetcode.com/problems/remove-element'>Remove Element</a></td>
     </tr>
     <tr>
       <td>284</td>
@@ -1996,6 +2564,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/design'>Design</a></td>
+      <td><a href='https://leetcode.com/problems/binary-search-tree-iterator'>Binary Search Tree Iterator</a>, <a href='https://leetcode.com/problems/flatten-2d-vector'>Flatten 2D Vector</a>, <a href='https://leetcode.com/problems/zigzag-iterator'>Zigzag Iterator</a></td>
     </tr>
     <tr>
       <td>285</td>
@@ -2003,6 +2573,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td><a href='https://leetcode.com/problems/binary-tree-inorder-traversal'>Binary Tree Inorder Traversal</a>, <a href='https://leetcode.com/problems/binary-search-tree-iterator'>Binary Search Tree Iterator</a>, <a href='https://leetcode.com/problems/inorder-successor-in-bst-ii'>Inorder Successor in BST II</a></td>
     </tr>
     <tr>
       <td>286</td>
@@ -2010,6 +2582,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/surrounded-regions'>Surrounded Regions</a>, <a href='https://leetcode.com/problems/number-of-islands'>Number of Islands</a>, <a href='https://leetcode.com/problems/shortest-distance-from-all-buildings'>Shortest Distance from All Buildings</a>, <a href='https://leetcode.com/problems/robot-room-cleaner'>Robot Room Cleaner</a>, <a href='https://leetcode.com/problems/rotting-oranges'>Rotting Oranges</a></td>
     </tr>
     <tr>
       <td>287</td>
@@ -2017,6 +2591,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a>, <a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td><a href='https://leetcode.com/problems/first-missing-positive'>First Missing Positive</a>, <a href='https://leetcode.com/problems/single-number'>Single Number</a>, <a href='https://leetcode.com/problems/linked-list-cycle-ii'>Linked List Cycle II</a>, <a href='https://leetcode.com/problems/missing-number'>Missing Number</a>, <a href='https://leetcode.com/problems/set-mismatch'>Set Mismatch</a></td>
     </tr>
     <tr>
       <td>288</td>
@@ -2024,6 +2600,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/design'>Design</a></td>
+      <td><a href='https://leetcode.com/problems/two-sum-iii-data-structure-design'>Two Sum III - Data structure design</a>, <a href='https://leetcode.com/problems/generalized-abbreviation'>Generalized Abbreviation</a></td>
     </tr>
     <tr>
       <td>289</td>
@@ -2031,6 +2609,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td><a href='https://leetcode.com/problems/set-matrix-zeroes'>Set Matrix Zeroes</a></td>
     </tr>
     <tr>
       <td>290</td>
@@ -2038,6 +2618,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a></td>
+      <td><a href='https://leetcode.com/problems/isomorphic-strings'>Isomorphic Strings</a>, <a href='https://leetcode.com/problems/word-pattern-ii'>Word Pattern II</a></td>
     </tr>
     <tr>
       <td>291</td>
@@ -2045,6 +2627,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/backtracking'>Backtracking</a></td>
+      <td><a href='https://leetcode.com/problems/word-pattern'>Word Pattern</a></td>
     </tr>
     <tr>
       <td>292</td>
@@ -2052,6 +2636,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/brainteaser'>Brainteaser</a>, <a href='https://leetcode.com/tag/minimax'>Minimax</a></td>
+      <td><a href='https://leetcode.com/problems/flip-game-ii'>Flip Game II</a></td>
     </tr>
     <tr>
       <td>293</td>
@@ -2059,6 +2645,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td><a href='https://leetcode.com/problems/flip-game-ii'>Flip Game II</a></td>
     </tr>
     <tr>
       <td>294</td>
@@ -2066,6 +2654,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/backtracking'>Backtracking</a>, <a href='https://leetcode.com/tag/minimax'>Minimax</a></td>
+      <td><a href='https://leetcode.com/problems/nim-game'>Nim Game</a>, <a href='https://leetcode.com/problems/flip-game'>Flip Game</a>, <a href='https://leetcode.com/problems/guess-number-higher-or-lower-ii'>Guess Number Higher or Lower II</a>, <a href='https://leetcode.com/problems/can-i-win'>Can I Win</a></td>
     </tr>
     <tr>
       <td>295</td>
@@ -2073,6 +2663,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/heap'>Heap</a>, <a href='https://leetcode.com/tag/design'>Design</a></td>
+      <td><a href='https://leetcode.com/problems/sliding-window-median'>Sliding Window Median</a></td>
     </tr>
     <tr>
       <td>296</td>
@@ -2080,6 +2672,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/sort'>Sort</a></td>
+      <td><a href='https://leetcode.com/problems/shortest-distance-from-all-buildings'>Shortest Distance from All Buildings</a>, <a href='https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii'>Minimum Moves to Equal Array Elements II</a></td>
     </tr>
     <tr>
       <td>297</td>
@@ -2087,6 +2681,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/design'>Design</a></td>
+      <td><a href='https://leetcode.com/problems/encode-and-decode-strings'>Encode and Decode Strings</a>, <a href='https://leetcode.com/problems/serialize-and-deserialize-bst'>Serialize and Deserialize BST</a>, <a href='https://leetcode.com/problems/find-duplicate-subtrees'>Find Duplicate Subtrees</a>, <a href='https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree'>Serialize and Deserialize N-ary Tree</a></td>
     </tr>
     <tr>
       <td>298</td>
@@ -2094,6 +2690,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td><a href='https://leetcode.com/problems/longest-consecutive-sequence'>Longest Consecutive Sequence</a>, <a href='https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii'>Binary Tree Longest Consecutive Sequence II</a></td>
     </tr>
     <tr>
       <td>299</td>
@@ -2101,6 +2699,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>300</td>
@@ -2108,6 +2708,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/binary-search'>Binary Search</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/increasing-triplet-subsequence'>Increasing Triplet Subsequence</a>, <a href='https://leetcode.com/problems/russian-doll-envelopes'>Russian Doll Envelopes</a>, <a href='https://leetcode.com/problems/maximum-length-of-pair-chain'>Maximum Length of Pair Chain</a>, <a href='https://leetcode.com/problems/number-of-longest-increasing-subsequence'>Number of Longest Increasing Subsequence</a>, <a href='https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings'>Minimum ASCII Delete Sum for Two Strings</a></td>
     </tr>
     <tr>
       <td>301</td>
@@ -2115,6 +2717,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/valid-parentheses'>Valid Parentheses</a></td>
     </tr>
     <tr>
       <td>302</td>
@@ -2122,6 +2726,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>303</td>
@@ -2129,6 +2735,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/range-sum-query-2d-immutable'>Range Sum Query 2D - Immutable</a>, <a href='https://leetcode.com/problems/range-sum-query-mutable'>Range Sum Query - Mutable</a>, <a href='https://leetcode.com/problems/maximum-size-subarray-sum-equals-k'>Maximum Size Subarray Sum Equals k</a></td>
     </tr>
     <tr>
       <td>304</td>
@@ -2136,6 +2744,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/range-sum-query-immutable'>Range Sum Query - Immutable</a>, <a href='https://leetcode.com/problems/range-sum-query-2d-mutable'>Range Sum Query 2D - Mutable</a></td>
     </tr>
     <tr>
       <td>305</td>
@@ -2143,6 +2753,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/union-find'>Union Find</a></td>
+      <td><a href='https://leetcode.com/problems/number-of-islands'>Number of Islands</a></td>
     </tr>
     <tr>
       <td>306</td>
@@ -2150,6 +2762,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/backtracking'>Backtracking</a></td>
+      <td><a href='https://leetcode.com/problems/split-array-into-fibonacci-sequence'>Split Array into Fibonacci Sequence</a></td>
     </tr>
     <tr>
       <td>307</td>
@@ -2157,6 +2771,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/binary-indexed-tree'>Binary Indexed Tree</a>, <a href='https://leetcode.com/tag/segment-tree'>Segment Tree</a></td>
+      <td><a href='https://leetcode.com/problems/range-sum-query-immutable'>Range Sum Query - Immutable</a>, <a href='https://leetcode.com/problems/range-sum-query-2d-mutable'>Range Sum Query 2D - Mutable</a></td>
     </tr>
     <tr>
       <td>308</td>
@@ -2164,6 +2780,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/binary-indexed-tree'>Binary Indexed Tree</a>, <a href='https://leetcode.com/tag/segment-tree'>Segment Tree</a></td>
+      <td><a href='https://leetcode.com/problems/range-sum-query-2d-immutable'>Range Sum Query 2D - Immutable</a>, <a href='https://leetcode.com/problems/range-sum-query-mutable'>Range Sum Query - Mutable</a></td>
     </tr>
     <tr>
       <td>309</td>
@@ -2171,6 +2789,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/best-time-to-buy-and-sell-stock'>Best Time to Buy and Sell Stock</a>, <a href='https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii'>Best Time to Buy and Sell Stock II</a></td>
     </tr>
     <tr>
       <td>310</td>
@@ -2178,6 +2798,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a>, <a href='https://leetcode.com/tag/graph'>Graph</a></td>
+      <td><a href='https://leetcode.com/problems/course-schedule'>Course Schedule</a>, <a href='https://leetcode.com/problems/course-schedule-ii'>Course Schedule II</a></td>
     </tr>
     <tr>
       <td>311</td>
@@ -2185,6 +2807,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>312</td>
@@ -2192,6 +2816,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/divide-and-conquer'>Divide and Conquer</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/minimum-cost-to-merge-stones'>Minimum Cost to Merge Stones</a></td>
     </tr>
     <tr>
       <td>313</td>
@@ -2199,6 +2825,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/heap'>Heap</a></td>
+      <td><a href='https://leetcode.com/problems/ugly-number-ii'>Ugly Number II</a></td>
     </tr>
     <tr>
       <td>314</td>
@@ -2206,6 +2834,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/binary-tree-level-order-traversal'>Binary Tree Level Order Traversal</a></td>
     </tr>
     <tr>
       <td>315</td>
@@ -2213,6 +2843,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/binary-search'>Binary Search</a>, <a href='https://leetcode.com/tag/divide-and-conquer'>Divide and Conquer</a>, <a href='https://leetcode.com/tag/sort'>Sort</a>, <a href='https://leetcode.com/tag/binary-indexed-tree'>Binary Indexed Tree</a>, <a href='https://leetcode.com/tag/segment-tree'>Segment Tree</a></td>
+      <td><a href='https://leetcode.com/problems/count-of-range-sum'>Count of Range Sum</a>, <a href='https://leetcode.com/problems/queue-reconstruction-by-height'>Queue Reconstruction by Height</a>, <a href='https://leetcode.com/problems/reverse-pairs'>Reverse Pairs</a>, <a href='https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number'>How Many Numbers Are Smaller Than the Current Number</a></td>
     </tr>
     <tr>
       <td>316</td>
@@ -2220,6 +2852,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/stack'>Stack</a>, <a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>317</td>
@@ -2227,6 +2861,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/walls-and-gates'>Walls and Gates</a>, <a href='https://leetcode.com/problems/best-meeting-point'>Best Meeting Point</a>, <a href='https://leetcode.com/problems/as-far-from-land-as-possible'>As Far from Land as Possible</a></td>
     </tr>
     <tr>
       <td>318</td>
@@ -2234,6 +2870,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/bit-manipulation'>Bit Manipulation</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>319</td>
@@ -2241,6 +2879,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/brainteaser'>Brainteaser</a></td>
+      <td><a href='https://leetcode.com/problems/bulb-switcher-ii'>Bulb Switcher II</a>, <a href='https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips'>Minimum Number of K Consecutive Bit Flips</a>, <a href='https://leetcode.com/problems/bulb-switcher-iii'>Bulb Switcher III</a></td>
     </tr>
     <tr>
       <td>320</td>
@@ -2248,6 +2888,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/backtracking'>Backtracking</a>, <a href='https://leetcode.com/tag/bit-manipulation'>Bit Manipulation</a></td>
+      <td><a href='https://leetcode.com/problems/subsets'>Subsets</a>, <a href='https://leetcode.com/problems/unique-word-abbreviation'>Unique Word Abbreviation</a>, <a href='https://leetcode.com/problems/minimum-unique-word-abbreviation'>Minimum Unique Word Abbreviation</a></td>
     </tr>
     <tr>
       <td>321</td>
@@ -2255,6 +2897,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td><a href='https://leetcode.com/problems/remove-k-digits'>Remove K Digits</a>, <a href='https://leetcode.com/problems/maximum-swap'>Maximum Swap</a></td>
     </tr>
     <tr>
       <td>322</td>
@@ -2262,6 +2906,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/minimum-cost-for-tickets'>Minimum Cost For Tickets</a></td>
     </tr>
     <tr>
       <td>323</td>
@@ -2269,6 +2915,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a>, <a href='https://leetcode.com/tag/union-find'>Union Find</a>, <a href='https://leetcode.com/tag/graph'>Graph</a></td>
+      <td><a href='https://leetcode.com/problems/number-of-islands'>Number of Islands</a>, <a href='https://leetcode.com/problems/graph-valid-tree'>Graph Valid Tree</a>, <a href='https://leetcode.com/problems/friend-circles'>Friend Circles</a></td>
     </tr>
     <tr>
       <td>324</td>
@@ -2276,6 +2924,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/sort'>Sort</a></td>
+      <td><a href='https://leetcode.com/problems/sort-colors'>Sort Colors</a>, <a href='https://leetcode.com/problems/kth-largest-element-in-an-array'>Kth Largest Element in an Array</a>, <a href='https://leetcode.com/problems/wiggle-sort'>Wiggle Sort</a></td>
     </tr>
     <tr>
       <td>325</td>
@@ -2283,6 +2933,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a></td>
+      <td><a href='https://leetcode.com/problems/minimum-size-subarray-sum'>Minimum Size Subarray Sum</a>, <a href='https://leetcode.com/problems/range-sum-query-immutable'>Range Sum Query - Immutable</a>, <a href='https://leetcode.com/problems/contiguous-array'>Contiguous Array</a>, <a href='https://leetcode.com/problems/subarray-product-less-than-k'>Subarray Product Less Than K</a></td>
     </tr>
     <tr>
       <td>326</td>
@@ -2290,6 +2942,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td><a href='https://leetcode.com/problems/power-of-two'>Power of Two</a>, <a href='https://leetcode.com/problems/power-of-four'>Power of Four</a></td>
     </tr>
     <tr>
       <td>327</td>
@@ -2297,6 +2951,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/binary-search'>Binary Search</a>, <a href='https://leetcode.com/tag/divide-and-conquer'>Divide and Conquer</a>, <a href='https://leetcode.com/tag/sort'>Sort</a>, <a href='https://leetcode.com/tag/binary-indexed-tree'>Binary Indexed Tree</a>, <a href='https://leetcode.com/tag/segment-tree'>Segment Tree</a></td>
+      <td><a href='https://leetcode.com/problems/count-of-smaller-numbers-after-self'>Count of Smaller Numbers After Self</a>, <a href='https://leetcode.com/problems/reverse-pairs'>Reverse Pairs</a></td>
     </tr>
     <tr>
       <td>328</td>
@@ -2304,6 +2960,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/linked-list'>Linked List</a></td>
+      <td><a href='https://leetcode.com/problems/split-linked-list-in-parts'>Split Linked List in Parts</a></td>
     </tr>
     <tr>
       <td>329</td>
@@ -2311,6 +2969,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/topological-sort'>Topological Sort</a>, <a href='https://leetcode.com/tag/memoization'>Memoization</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>330</td>
@@ -2318,6 +2978,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>331</td>
@@ -2325,6 +2987,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/stack'>Stack</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>332</td>
@@ -2332,6 +2996,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/graph'>Graph</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>333</td>
@@ -2339,6 +3005,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>334</td>
@@ -2346,6 +3014,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td><a href='https://leetcode.com/problems/longest-increasing-subsequence'>Longest Increasing Subsequence</a></td>
     </tr>
     <tr>
       <td>335</td>
@@ -2353,6 +3023,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>336</td>
@@ -2360,6 +3032,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/trie'>Trie</a></td>
+      <td><a href='https://leetcode.com/problems/longest-palindromic-substring'>Longest Palindromic Substring</a>, <a href='https://leetcode.com/problems/shortest-palindrome'>Shortest Palindrome</a></td>
     </tr>
     <tr>
       <td>337</td>
@@ -2367,6 +3041,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/house-robber'>House Robber</a>, <a href='https://leetcode.com/problems/house-robber-ii'>House Robber II</a></td>
     </tr>
     <tr>
       <td>338</td>
@@ -2374,6 +3050,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/bit-manipulation'>Bit Manipulation</a></td>
+      <td><a href='https://leetcode.com/problems/number-of-1-bits'>Number of 1 Bits</a></td>
     </tr>
     <tr>
       <td>339</td>
@@ -2381,6 +3059,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/nested-list-weight-sum-ii'>Nested List Weight Sum II</a>, <a href='https://leetcode.com/problems/array-nesting'>Array Nesting</a>, <a href='https://leetcode.com/problems/employee-importance'>Employee Importance</a></td>
     </tr>
     <tr>
       <td>340</td>
@@ -2388,6 +3068,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/sliding-window'>Sliding Window</a></td>
+      <td><a href='https://leetcode.com/problems/longest-substring-without-repeating-characters'>Longest Substring Without Repeating Characters</a>, <a href='https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters'>Longest Substring with At Most Two Distinct Characters</a>, <a href='https://leetcode.com/problems/longest-repeating-character-replacement'>Longest Repeating Character Replacement</a>, <a href='https://leetcode.com/problems/subarrays-with-k-different-integers'>Subarrays with K Different Integers</a>, <a href='https://leetcode.com/problems/max-consecutive-ones-iii'>Max Consecutive Ones III</a></td>
     </tr>
     <tr>
       <td>341</td>
@@ -2395,6 +3077,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/stack'>Stack</a>, <a href='https://leetcode.com/tag/design'>Design</a></td>
+      <td><a href='https://leetcode.com/problems/flatten-2d-vector'>Flatten 2D Vector</a>, <a href='https://leetcode.com/problems/zigzag-iterator'>Zigzag Iterator</a>, <a href='https://leetcode.com/problems/mini-parser'>Mini Parser</a>, <a href='https://leetcode.com/problems/array-nesting'>Array Nesting</a></td>
     </tr>
     <tr>
       <td>342</td>
@@ -2402,6 +3086,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/bit-manipulation'>Bit Manipulation</a></td>
+      <td><a href='https://leetcode.com/problems/power-of-two'>Power of Two</a>, <a href='https://leetcode.com/problems/power-of-three'>Power of Three</a></td>
     </tr>
     <tr>
       <td>343</td>
@@ -2409,6 +3095,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>344</td>
@@ -2416,6 +3104,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a>, <a href='https://leetcode.com/tag/string'>String</a></td>
+      <td><a href='https://leetcode.com/problems/reverse-vowels-of-a-string'>Reverse Vowels of a String</a>, <a href='https://leetcode.com/problems/reverse-string-ii'>Reverse String II</a></td>
     </tr>
     <tr>
       <td>345</td>
@@ -2423,6 +3113,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a>, <a href='https://leetcode.com/tag/string'>String</a></td>
+      <td><a href='https://leetcode.com/problems/reverse-string'>Reverse String</a>, <a href='https://leetcode.com/problems/remove-vowels-from-a-string'>Remove Vowels from a String</a></td>
     </tr>
     <tr>
       <td>346</td>
@@ -2430,6 +3122,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/design'>Design</a>, <a href='https://leetcode.com/tag/queue'>Queue</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>347</td>
@@ -2437,6 +3131,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/heap'>Heap</a></td>
+      <td><a href='https://leetcode.com/problems/word-frequency'>Word Frequency</a>, <a href='https://leetcode.com/problems/kth-largest-element-in-an-array'>Kth Largest Element in an Array</a>, <a href='https://leetcode.com/problems/sort-characters-by-frequency'>Sort Characters By Frequency</a>, <a href='https://leetcode.com/problems/split-array-into-consecutive-subsequences'>Split Array into Consecutive Subsequences</a>, <a href='https://leetcode.com/problems/top-k-frequent-words'>Top K Frequent Words</a>, <a href='https://leetcode.com/problems/k-closest-points-to-origin'>K Closest Points to Origin</a></td>
     </tr>
     <tr>
       <td>348</td>
@@ -2444,6 +3140,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/design'>Design</a></td>
+      <td><a href='https://leetcode.com/problems/valid-tic-tac-toe-state'>Valid Tic-Tac-Toe State</a></td>
     </tr>
     <tr>
       <td>349</td>
@@ -2451,6 +3149,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a>, <a href='https://leetcode.com/tag/binary-search'>Binary Search</a>, <a href='https://leetcode.com/tag/sort'>Sort</a></td>
+      <td><a href='https://leetcode.com/problems/intersection-of-two-arrays-ii'>Intersection of Two Arrays II</a>, <a href='https://leetcode.com/problems/intersection-of-three-sorted-arrays'>Intersection of Three Sorted Arrays</a></td>
     </tr>
     <tr>
       <td>350</td>
@@ -2458,6 +3158,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a>, <a href='https://leetcode.com/tag/binary-search'>Binary Search</a>, <a href='https://leetcode.com/tag/sort'>Sort</a></td>
+      <td><a href='https://leetcode.com/problems/intersection-of-two-arrays'>Intersection of Two Arrays</a>, <a href='https://leetcode.com/problems/find-common-characters'>Find Common Characters</a></td>
     </tr>
     <tr>
       <td>351</td>
@@ -2465,6 +3167,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/backtracking'>Backtracking</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>352</td>
@@ -2472,6 +3176,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/binary-search'>Binary Search</a>, <a href='https://leetcode.com/tag/ordered-map'>Ordered Map</a></td>
+      <td><a href='https://leetcode.com/problems/summary-ranges'>Summary Ranges</a>, <a href='https://leetcode.com/problems/find-right-interval'>Find Right Interval</a>, <a href='https://leetcode.com/problems/range-module'>Range Module</a></td>
     </tr>
     <tr>
       <td>353</td>
@@ -2479,6 +3185,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/design'>Design</a>, <a href='https://leetcode.com/tag/queue'>Queue</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>354</td>
@@ -2486,6 +3194,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/binary-search'>Binary Search</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/longest-increasing-subsequence'>Longest Increasing Subsequence</a></td>
     </tr>
     <tr>
       <td>355</td>
@@ -2493,6 +3203,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/heap'>Heap</a>, <a href='https://leetcode.com/tag/design'>Design</a></td>
+      <td><a href='https://leetcode.com/problems/design-a-file-sharing-system'>Design a File Sharing System</a></td>
     </tr>
     <tr>
       <td>356</td>
@@ -2500,6 +3212,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td><a href='https://leetcode.com/problems/max-points-on-a-line'>Max Points on a Line</a>, <a href='https://leetcode.com/problems/number-of-boomerangs'>Number of Boomerangs</a></td>
     </tr>
     <tr>
       <td>357</td>
@@ -2507,6 +3221,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/backtracking'>Backtracking</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>358</td>
@@ -2514,6 +3230,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/heap'>Heap</a>, <a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td><a href='https://leetcode.com/problems/task-scheduler'>Task Scheduler</a>, <a href='https://leetcode.com/problems/reorganize-string'>Reorganize String</a></td>
     </tr>
     <tr>
       <td>359</td>
@@ -2521,6 +3239,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/design'>Design</a></td>
+      <td><a href='https://leetcode.com/problems/design-hit-counter'>Design Hit Counter</a></td>
     </tr>
     <tr>
       <td>360</td>
@@ -2528,6 +3248,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a>, <a href='https://leetcode.com/tag/sort'>Sort</a></td>
+      <td><a href='https://leetcode.com/problems/squares-of-a-sorted-array'>Squares of a Sorted Array</a></td>
     </tr>
     <tr>
       <td>361</td>
@@ -2535,6 +3257,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>362</td>
@@ -2542,6 +3266,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/design'>Design</a></td>
+      <td><a href='https://leetcode.com/problems/logger-rate-limiter'>Logger Rate Limiter</a></td>
     </tr>
     <tr>
       <td>363</td>
@@ -2549,6 +3275,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/binary-search'>Binary Search</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/queue'>Queue</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>364</td>
@@ -2556,6 +3284,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/nested-list-weight-sum'>Nested List Weight Sum</a>, <a href='https://leetcode.com/problems/array-nesting'>Array Nesting</a></td>
     </tr>
     <tr>
       <td>365</td>
@@ -2563,6 +3293,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>366</td>
@@ -2570,6 +3302,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>367</td>
@@ -2577,6 +3311,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td><a href='https://leetcode.com/problems/sqrtx'>Sqrt(x)</a>, <a href='https://leetcode.com/problems/sum-of-square-numbers'>Sum of Square Numbers</a></td>
     </tr>
     <tr>
       <td>368</td>
@@ -2584,6 +3320,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>369</td>
@@ -2591,6 +3329,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/linked-list'>Linked List</a></td>
+      <td><a href='https://leetcode.com/problems/plus-one'>Plus One</a></td>
     </tr>
     <tr>
       <td>370</td>
@@ -2598,6 +3338,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td><a href='https://leetcode.com/problems/range-addition-ii'>Range Addition II</a></td>
     </tr>
     <tr>
       <td>371</td>
@@ -2605,6 +3347,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/bit-manipulation'>Bit Manipulation</a></td>
+      <td><a href='https://leetcode.com/problems/add-two-numbers'>Add Two Numbers</a></td>
     </tr>
     <tr>
       <td>372</td>
@@ -2612,6 +3356,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td><a href='https://leetcode.com/problems/powx-n'>Pow(x, n)</a></td>
     </tr>
     <tr>
       <td>373</td>
@@ -2619,6 +3365,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/heap'>Heap</a></td>
+      <td><a href='https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix'>Kth Smallest Element in a Sorted Matrix</a>, <a href='https://leetcode.com/problems/find-k-th-smallest-pair-distance'>Find K-th Smallest Pair Distance</a></td>
     </tr>
     <tr>
       <td>374</td>
@@ -2626,6 +3374,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td><a href='https://leetcode.com/problems/first-bad-version'>First Bad Version</a>, <a href='https://leetcode.com/problems/guess-number-higher-or-lower-ii'>Guess Number Higher or Lower II</a>, <a href='https://leetcode.com/problems/find-k-closest-elements'>Find K Closest Elements</a></td>
     </tr>
     <tr>
       <td>375</td>
@@ -2633,6 +3383,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/minimax'>Minimax</a></td>
+      <td><a href='https://leetcode.com/problems/flip-game-ii'>Flip Game II</a>, <a href='https://leetcode.com/problems/guess-number-higher-or-lower'>Guess Number Higher or Lower</a>, <a href='https://leetcode.com/problems/can-i-win'>Can I Win</a>, <a href='https://leetcode.com/problems/find-k-closest-elements'>Find K Closest Elements</a></td>
     </tr>
     <tr>
       <td>376</td>
@@ -2640,6 +3392,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>377</td>
@@ -2647,6 +3401,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/combination-sum'>Combination Sum</a></td>
     </tr>
     <tr>
       <td>378</td>
@@ -2654,6 +3410,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/binary-search'>Binary Search</a>, <a href='https://leetcode.com/tag/heap'>Heap</a></td>
+      <td><a href='https://leetcode.com/problems/find-k-pairs-with-smallest-sums'>Find K Pairs with Smallest Sums</a>, <a href='https://leetcode.com/problems/kth-smallest-number-in-multiplication-table'>Kth Smallest Number in Multiplication Table</a>, <a href='https://leetcode.com/problems/find-k-th-smallest-pair-distance'>Find K-th Smallest Pair Distance</a>, <a href='https://leetcode.com/problems/k-th-smallest-prime-fraction'>K-th Smallest Prime Fraction</a></td>
     </tr>
     <tr>
       <td>379</td>
@@ -2661,6 +3419,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/linked-list'>Linked List</a>, <a href='https://leetcode.com/tag/design'>Design</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>380</td>
@@ -2668,6 +3428,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/design'>Design</a></td>
+      <td><a href='https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed'>Insert Delete GetRandom O(1) - Duplicates allowed</a></td>
     </tr>
     <tr>
       <td>381</td>
@@ -2675,6 +3437,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/design'>Design</a></td>
+      <td><a href='https://leetcode.com/problems/insert-delete-getrandom-o1'>Insert Delete GetRandom O(1)</a></td>
     </tr>
     <tr>
       <td>382</td>
@@ -2682,6 +3446,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/reservoir-sampling'>Reservoir Sampling</a></td>
+      <td><a href='https://leetcode.com/problems/random-pick-index'>Random Pick Index</a></td>
     </tr>
     <tr>
       <td>383</td>
@@ -2689,6 +3455,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td><a href='https://leetcode.com/problems/stickers-to-spell-word'>Stickers to Spell Word</a></td>
     </tr>
     <tr>
       <td>384</td>
@@ -2696,6 +3464,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>385</td>
@@ -2703,6 +3473,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/stack'>Stack</a></td>
+      <td><a href='https://leetcode.com/problems/flatten-nested-list-iterator'>Flatten Nested List Iterator</a>, <a href='https://leetcode.com/problems/ternary-expression-parser'>Ternary Expression Parser</a>, <a href='https://leetcode.com/problems/remove-comments'>Remove Comments</a></td>
     </tr>
     <tr>
       <td>386</td>
@@ -2710,6 +3482,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>387</td>
@@ -2717,6 +3491,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/string'>String</a></td>
+      <td><a href='https://leetcode.com/problems/sort-characters-by-frequency'>Sort Characters By Frequency</a></td>
     </tr>
     <tr>
       <td>388</td>
@@ -2724,6 +3500,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>389</td>
@@ -2731,6 +3509,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/bit-manipulation'>Bit Manipulation</a></td>
+      <td><a href='https://leetcode.com/problems/single-number'>Single Number</a></td>
     </tr>
     <tr>
       <td>390</td>
@@ -2738,6 +3518,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>391</td>
@@ -2745,6 +3527,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/line-sweep'>Line Sweep</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>392</td>
@@ -2752,6 +3536,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/binary-search'>Binary Search</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td><a href='https://leetcode.com/problems/number-of-matching-subsequences'>Number of Matching Subsequences</a>, <a href='https://leetcode.com/problems/shortest-way-to-form-string'>Shortest Way to Form String</a></td>
     </tr>
     <tr>
       <td>393</td>
@@ -2759,6 +3545,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/bit-manipulation'>Bit Manipulation</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>394</td>
@@ -2766,6 +3554,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/stack'>Stack</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/encode-string-with-shortest-length'>Encode String with Shortest Length</a>, <a href='https://leetcode.com/problems/number-of-atoms'>Number of Atoms</a>, <a href='https://leetcode.com/problems/brace-expansion'>Brace Expansion</a></td>
     </tr>
     <tr>
       <td>395</td>
@@ -2773,6 +3563,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>396</td>
@@ -2780,6 +3572,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>397</td>
@@ -2787,6 +3581,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/bit-manipulation'>Bit Manipulation</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>398</td>
@@ -2794,6 +3590,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/reservoir-sampling'>Reservoir Sampling</a></td>
+      <td><a href='https://leetcode.com/problems/linked-list-random-node'>Linked List Random Node</a>, <a href='https://leetcode.com/problems/random-pick-with-blacklist'>Random Pick with Blacklist</a>, <a href='https://leetcode.com/problems/random-pick-with-weight'>Random Pick with Weight</a></td>
     </tr>
     <tr>
       <td>399</td>
@@ -2801,6 +3599,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/union-find'>Union Find</a>, <a href='https://leetcode.com/tag/graph'>Graph</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>400</td>
@@ -2808,6 +3608,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>401</td>
@@ -2815,6 +3617,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/backtracking'>Backtracking</a>, <a href='https://leetcode.com/tag/bit-manipulation'>Bit Manipulation</a></td>
+      <td><a href='https://leetcode.com/problems/letter-combinations-of-a-phone-number'>Letter Combinations of a Phone Number</a>, <a href='https://leetcode.com/problems/number-of-1-bits'>Number of 1 Bits</a></td>
     </tr>
     <tr>
       <td>402</td>
@@ -2822,6 +3626,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/stack'>Stack</a>, <a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td><a href='https://leetcode.com/problems/create-maximum-number'>Create Maximum Number</a>, <a href='https://leetcode.com/problems/monotone-increasing-digits'>Monotone Increasing Digits</a></td>
     </tr>
     <tr>
       <td>403</td>
@@ -2829,6 +3635,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>404</td>
@@ -2836,6 +3644,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>405</td>
@@ -2843,6 +3653,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/bit-manipulation'>Bit Manipulation</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>406</td>
@@ -2850,6 +3662,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td><a href='https://leetcode.com/problems/count-of-smaller-numbers-after-self'>Count of Smaller Numbers After Self</a></td>
     </tr>
     <tr>
       <td>407</td>
@@ -2857,6 +3671,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/heap'>Heap</a>, <a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/trapping-rain-water'>Trapping Rain Water</a></td>
     </tr>
     <tr>
       <td>408</td>
@@ -2864,6 +3680,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td><a href='https://leetcode.com/problems/minimum-unique-word-abbreviation'>Minimum Unique Word Abbreviation</a>, <a href='https://leetcode.com/problems/word-abbreviation'>Word Abbreviation</a></td>
     </tr>
     <tr>
       <td>409</td>
@@ -2871,6 +3689,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a></td>
+      <td><a href='https://leetcode.com/problems/palindrome-permutation'>Palindrome Permutation</a></td>
     </tr>
     <tr>
       <td>410</td>
@@ -2878,6 +3698,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/binary-search'>Binary Search</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>411</td>
@@ -2885,6 +3707,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/backtracking'>Backtracking</a>, <a href='https://leetcode.com/tag/bit-manipulation'>Bit Manipulation</a></td>
+      <td><a href='https://leetcode.com/problems/generalized-abbreviation'>Generalized Abbreviation</a>, <a href='https://leetcode.com/problems/valid-word-abbreviation'>Valid Word Abbreviation</a>, <a href='https://leetcode.com/problems/word-abbreviation'>Word Abbreviation</a></td>
     </tr>
     <tr>
       <td>412</td>
@@ -2892,6 +3716,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td><a href='https://leetcode.com/problems/fizz-buzz-multithreaded'>Fizz Buzz Multithreaded</a></td>
     </tr>
     <tr>
       <td>413</td>
@@ -2899,6 +3725,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/arithmetic-slices-ii-subsequence'>Arithmetic Slices II - Subsequence</a></td>
     </tr>
     <tr>
       <td>414</td>
@@ -2906,6 +3734,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td><a href='https://leetcode.com/problems/kth-largest-element-in-an-array'>Kth Largest Element in an Array</a></td>
     </tr>
     <tr>
       <td>415</td>
@@ -2913,6 +3743,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td><a href='https://leetcode.com/problems/add-two-numbers'>Add Two Numbers</a>, <a href='https://leetcode.com/problems/multiply-strings'>Multiply Strings</a>, <a href='https://leetcode.com/problems/add-to-array-form-of-integer'>Add to Array-Form of Integer</a></td>
     </tr>
     <tr>
       <td>416</td>
@@ -2920,6 +3752,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/partition-to-k-equal-sum-subsets'>Partition to K Equal Sum Subsets</a></td>
     </tr>
     <tr>
       <td>417</td>
@@ -2927,6 +3761,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>418</td>
@@ -2934,6 +3770,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>419</td>
@@ -2941,6 +3779,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>420</td>
@@ -2948,6 +3788,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>421</td>
@@ -2955,6 +3797,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/bit-manipulation'>Bit Manipulation</a>, <a href='https://leetcode.com/tag/trie'>Trie</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>422</td>
@@ -2962,6 +3806,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td><a href='https://leetcode.com/problems/word-squares'>Word Squares</a>, <a href='https://leetcode.com/problems/toeplitz-matrix'>Toeplitz Matrix</a></td>
     </tr>
     <tr>
       <td>423</td>
@@ -2969,6 +3815,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>424</td>
@@ -2976,6 +3824,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a>, <a href='https://leetcode.com/tag/sliding-window'>Sliding Window</a></td>
+      <td><a href='https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters'>Longest Substring with At Most K Distinct Characters</a>, <a href='https://leetcode.com/problems/max-consecutive-ones-iii'>Max Consecutive Ones III</a></td>
     </tr>
     <tr>
       <td>425</td>
@@ -2983,6 +3833,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/backtracking'>Backtracking</a>, <a href='https://leetcode.com/tag/trie'>Trie</a></td>
+      <td><a href='https://leetcode.com/problems/valid-word-square'>Valid Word Square</a></td>
     </tr>
     <tr>
       <td>432</td>
@@ -2990,6 +3842,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/design'>Design</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>433</td>
@@ -2997,6 +3851,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td><a href='https://leetcode.com/problems/word-ladder'>Word Ladder</a></td>
     </tr>
     <tr>
       <td>434</td>
@@ -3004,6 +3860,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>435</td>
@@ -3011,6 +3869,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td><a href='https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons'>Minimum Number of Arrows to Burst Balloons</a></td>
     </tr>
     <tr>
       <td>436</td>
@@ -3018,6 +3878,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td><a href='https://leetcode.com/problems/data-stream-as-disjoint-intervals'>Data Stream as Disjoint Intervals</a></td>
     </tr>
     <tr>
       <td>437</td>
@@ -3025,6 +3887,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td><a href='https://leetcode.com/problems/path-sum'>Path Sum</a>, <a href='https://leetcode.com/problems/path-sum-ii'>Path Sum II</a>, <a href='https://leetcode.com/problems/path-sum-iv'>Path Sum IV</a>, <a href='https://leetcode.com/problems/longest-univalue-path'>Longest Univalue Path</a></td>
     </tr>
     <tr>
       <td>438</td>
@@ -3032,6 +3896,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a></td>
+      <td><a href='https://leetcode.com/problems/valid-anagram'>Valid Anagram</a>, <a href='https://leetcode.com/problems/permutation-in-string'>Permutation in String</a></td>
     </tr>
     <tr>
       <td>439</td>
@@ -3039,6 +3905,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/stack'>Stack</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/mini-parser'>Mini Parser</a>, <a href='https://leetcode.com/problems/remove-comments'>Remove Comments</a>, <a href='https://leetcode.com/problems/parse-lisp-expression'>Parse Lisp Expression</a></td>
     </tr>
     <tr>
       <td>440</td>
@@ -3046,6 +3914,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>441</td>
@@ -3053,6 +3923,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>442</td>
@@ -3060,6 +3932,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td><a href='https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array'>Find All Numbers Disappeared in an Array</a></td>
     </tr>
     <tr>
       <td>443</td>
@@ -3067,6 +3941,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td><a href='https://leetcode.com/problems/count-and-say'>Count and Say</a>, <a href='https://leetcode.com/problems/encode-and-decode-strings'>Encode and Decode Strings</a>, <a href='https://leetcode.com/problems/design-compressed-string-iterator'>Design Compressed String Iterator</a>, <a href='https://leetcode.com/problems/decompress-run-length-encoded-list'>Decompress Run-Length Encoded List</a></td>
     </tr>
     <tr>
       <td>444</td>
@@ -3074,6 +3950,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/graph'>Graph</a>, <a href='https://leetcode.com/tag/topological-sort'>Topological Sort</a></td>
+      <td><a href='https://leetcode.com/problems/course-schedule-ii'>Course Schedule II</a></td>
     </tr>
     <tr>
       <td>445</td>
@@ -3081,6 +3959,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/linked-list'>Linked List</a></td>
+      <td><a href='https://leetcode.com/problems/add-two-numbers'>Add Two Numbers</a></td>
     </tr>
     <tr>
       <td>446</td>
@@ -3088,6 +3968,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/arithmetic-slices'>Arithmetic Slices</a></td>
     </tr>
     <tr>
       <td>447</td>
@@ -3095,6 +3977,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a></td>
+      <td><a href='https://leetcode.com/problems/line-reflection'>Line Reflection</a></td>
     </tr>
     <tr>
       <td>448</td>
@@ -3102,6 +3986,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td><a href='https://leetcode.com/problems/first-missing-positive'>First Missing Positive</a>, <a href='https://leetcode.com/problems/find-all-duplicates-in-an-array'>Find All Duplicates in an Array</a></td>
     </tr>
     <tr>
       <td>449</td>
@@ -3109,6 +3995,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td><a href='https://leetcode.com/problems/serialize-and-deserialize-binary-tree'>Serialize and Deserialize Binary Tree</a>, <a href='https://leetcode.com/problems/find-duplicate-subtrees'>Find Duplicate Subtrees</a>, <a href='https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree'>Serialize and Deserialize N-ary Tree</a></td>
     </tr>
     <tr>
       <td>450</td>
@@ -3116,6 +4004,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td><a href='https://leetcode.com/problems/split-bst'>Split BST</a></td>
     </tr>
     <tr>
       <td>451</td>
@@ -3123,6 +4013,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/heap'>Heap</a></td>
+      <td><a href='https://leetcode.com/problems/top-k-frequent-elements'>Top K Frequent Elements</a>, <a href='https://leetcode.com/problems/first-unique-character-in-a-string'>First Unique Character in a String</a></td>
     </tr>
     <tr>
       <td>452</td>
@@ -3130,6 +4022,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td><a href='https://leetcode.com/problems/meeting-rooms-ii'>Meeting Rooms II</a>, <a href='https://leetcode.com/problems/non-overlapping-intervals'>Non-overlapping Intervals</a></td>
     </tr>
     <tr>
       <td>453</td>
@@ -3137,6 +4031,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td><a href='https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii'>Minimum Moves to Equal Array Elements II</a></td>
     </tr>
     <tr>
       <td>454</td>
@@ -3144,6 +4040,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td><a href='https://leetcode.com/problems/4sum'>4Sum</a></td>
     </tr>
     <tr>
       <td>455</td>
@@ -3151,6 +4049,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>456</td>
@@ -3158,6 +4058,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/stack'>Stack</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>457</td>
@@ -3165,6 +4067,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>458</td>
@@ -3172,6 +4076,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>459</td>
@@ -3179,6 +4085,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td><a href='https://leetcode.com/problems/implement-strstr'>Implement strStr()</a>, <a href='https://leetcode.com/problems/repeated-string-match'>Repeated String Match</a></td>
     </tr>
     <tr>
       <td>460</td>
@@ -3186,6 +4094,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/design'>Design</a></td>
+      <td><a href='https://leetcode.com/problems/lru-cache'>LRU Cache</a>, <a href='https://leetcode.com/problems/design-in-memory-file-system'>Design In-Memory File System</a></td>
     </tr>
     <tr>
       <td>461</td>
@@ -3193,6 +4103,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/bit-manipulation'>Bit Manipulation</a></td>
+      <td><a href='https://leetcode.com/problems/number-of-1-bits'>Number of 1 Bits</a>, <a href='https://leetcode.com/problems/total-hamming-distance'>Total Hamming Distance</a></td>
     </tr>
     <tr>
       <td>462</td>
@@ -3200,6 +4112,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td><a href='https://leetcode.com/problems/best-meeting-point'>Best Meeting Point</a>, <a href='https://leetcode.com/problems/minimum-moves-to-equal-array-elements'>Minimum Moves to Equal Array Elements</a></td>
     </tr>
     <tr>
       <td>463</td>
@@ -3207,6 +4121,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a></td>
+      <td><a href='https://leetcode.com/problems/max-area-of-island'>Max Area of Island</a>, <a href='https://leetcode.com/problems/flood-fill'>Flood Fill</a>, <a href='https://leetcode.com/problems/coloring-a-border'>Coloring A Border</a></td>
     </tr>
     <tr>
       <td>464</td>
@@ -3214,6 +4130,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/minimax'>Minimax</a></td>
+      <td><a href='https://leetcode.com/problems/flip-game-ii'>Flip Game II</a>, <a href='https://leetcode.com/problems/guess-number-higher-or-lower-ii'>Guess Number Higher or Lower II</a>, <a href='https://leetcode.com/problems/predict-the-winner'>Predict the Winner</a></td>
     </tr>
     <tr>
       <td>465</td>
@@ -3221,6 +4139,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>466</td>
@@ -3228,6 +4148,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>467</td>
@@ -3235,6 +4157,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>468</td>
@@ -3242,6 +4166,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td><a href='https://leetcode.com/problems/ip-to-cidr'>IP to CIDR</a></td>
     </tr>
     <tr>
       <td>469</td>
@@ -3249,6 +4175,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>471</td>
@@ -3256,6 +4184,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/decode-string'>Decode String</a>, <a href='https://leetcode.com/problems/number-of-atoms'>Number of Atoms</a></td>
     </tr>
     <tr>
       <td>472</td>
@@ -3263,6 +4193,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/trie'>Trie</a></td>
+      <td><a href='https://leetcode.com/problems/word-break-ii'>Word Break II</a></td>
     </tr>
     <tr>
       <td>473</td>
@@ -3270,6 +4202,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>474</td>
@@ -3277,6 +4211,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/non-negative-integers-without-consecutive-ones'>Non-negative Integers without Consecutive Ones</a></td>
     </tr>
     <tr>
       <td>475</td>
@@ -3284,6 +4220,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>476</td>
@@ -3291,6 +4229,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/bit-manipulation'>Bit Manipulation</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>477</td>
@@ -3298,6 +4238,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/bit-manipulation'>Bit Manipulation</a></td>
+      <td><a href='https://leetcode.com/problems/hamming-distance'>Hamming Distance</a></td>
     </tr>
     <tr>
       <td>479</td>
@@ -3305,6 +4247,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>480</td>
@@ -3312,6 +4256,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/sliding-window'>Sliding Window</a></td>
+      <td><a href='https://leetcode.com/problems/find-median-from-data-stream'>Find Median from Data Stream</a></td>
     </tr>
     <tr>
       <td>481</td>
@@ -3319,6 +4265,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>482</td>
@@ -3326,6 +4274,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>483</td>
@@ -3333,6 +4283,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>484</td>
@@ -3340,6 +4292,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>485</td>
@@ -3347,6 +4301,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td><a href='https://leetcode.com/problems/max-consecutive-ones-ii'>Max Consecutive Ones II</a>, <a href='https://leetcode.com/problems/max-consecutive-ones-iii'>Max Consecutive Ones III</a>, <a href='https://leetcode.com/problems/consecutive-characters'>Consecutive Characters</a></td>
     </tr>
     <tr>
       <td>486</td>
@@ -3354,6 +4310,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/minimax'>Minimax</a></td>
+      <td><a href='https://leetcode.com/problems/can-i-win'>Can I Win</a></td>
     </tr>
     <tr>
       <td>487</td>
@@ -3361,6 +4319,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a></td>
+      <td><a href='https://leetcode.com/problems/max-consecutive-ones'>Max Consecutive Ones</a>, <a href='https://leetcode.com/problems/max-consecutive-ones-iii'>Max Consecutive Ones III</a></td>
     </tr>
     <tr>
       <td>488</td>
@@ -3368,6 +4328,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>490</td>
@@ -3375,6 +4337,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/the-maze-iii'>The Maze III</a>, <a href='https://leetcode.com/problems/the-maze-ii'>The Maze II</a></td>
     </tr>
     <tr>
       <td>491</td>
@@ -3382,6 +4346,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/maximum-length-of-pair-chain'>Maximum Length of Pair Chain</a></td>
     </tr>
     <tr>
       <td>492</td>
@@ -3389,6 +4355,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>493</td>
@@ -3396,6 +4364,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/binary-search'>Binary Search</a>, <a href='https://leetcode.com/tag/divide-and-conquer'>Divide and Conquer</a>, <a href='https://leetcode.com/tag/sort'>Sort</a>, <a href='https://leetcode.com/tag/binary-indexed-tree'>Binary Indexed Tree</a>, <a href='https://leetcode.com/tag/segment-tree'>Segment Tree</a></td>
+      <td><a href='https://leetcode.com/problems/count-of-smaller-numbers-after-self'>Count of Smaller Numbers After Self</a>, <a href='https://leetcode.com/problems/count-of-range-sum'>Count of Range Sum</a></td>
     </tr>
     <tr>
       <td>494</td>
@@ -3403,6 +4373,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/expression-add-operators'>Expression Add Operators</a></td>
     </tr>
     <tr>
       <td>495</td>
@@ -3410,6 +4382,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td><a href='https://leetcode.com/problems/merge-intervals'>Merge Intervals</a>, <a href='https://leetcode.com/problems/can-place-flowers'>Can Place Flowers</a>, <a href='https://leetcode.com/problems/dota2-senate'>Dota2 Senate</a></td>
     </tr>
     <tr>
       <td>496</td>
@@ -3417,6 +4391,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/stack'>Stack</a></td>
+      <td><a href='https://leetcode.com/problems/next-greater-element-ii'>Next Greater Element II</a>, <a href='https://leetcode.com/problems/next-greater-element-iii'>Next Greater Element III</a>, <a href='https://leetcode.com/problems/daily-temperatures'>Daily Temperatures</a></td>
     </tr>
     <tr>
       <td>498</td>
@@ -3424,6 +4400,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>499</td>
@@ -3431,6 +4409,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/the-maze'>The Maze</a>, <a href='https://leetcode.com/problems/the-maze-ii'>The Maze II</a></td>
     </tr>
     <tr>
       <td>500</td>
@@ -3438,6 +4418,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>501</td>
@@ -3445,6 +4427,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td><a href='https://leetcode.com/problems/validate-binary-search-tree'>Validate Binary Search Tree</a></td>
     </tr>
     <tr>
       <td>502</td>
@@ -3452,6 +4436,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/heap'>Heap</a>, <a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>503</td>
@@ -3459,6 +4445,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/stack'>Stack</a></td>
+      <td><a href='https://leetcode.com/problems/next-greater-element-i'>Next Greater Element I</a>, <a href='https://leetcode.com/problems/next-greater-element-iii'>Next Greater Element III</a></td>
     </tr>
     <tr>
       <td>504</td>
@@ -3466,6 +4454,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>505</td>
@@ -3473,6 +4463,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/the-maze'>The Maze</a>, <a href='https://leetcode.com/problems/the-maze-iii'>The Maze III</a></td>
     </tr>
     <tr>
       <td>506</td>
@@ -3480,6 +4472,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>507</td>
@@ -3487,6 +4481,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td><a href='https://leetcode.com/problems/self-dividing-numbers'>Self Dividing Numbers</a></td>
     </tr>
     <tr>
       <td>508</td>
@@ -3494,6 +4490,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td><a href='https://leetcode.com/problems/subtree-of-another-tree'>Subtree of Another Tree</a></td>
     </tr>
     <tr>
       <td>510</td>
@@ -3501,6 +4499,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td><a href='https://leetcode.com/problems/inorder-successor-in-bst'>Inorder Successor in BST</a></td>
     </tr>
     <tr>
       <td>1059</td>
@@ -3508,6 +4508,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/graph'>Graph</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>513</td>
@@ -3515,6 +4517,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>514</td>
@@ -3522,6 +4526,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/divide-and-conquer'>Divide and Conquer</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>515</td>
@@ -3529,6 +4535,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>516</td>
@@ -3536,6 +4544,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/longest-palindromic-substring'>Longest Palindromic Substring</a>, <a href='https://leetcode.com/problems/palindromic-substrings'>Palindromic Substrings</a>, <a href='https://leetcode.com/problems/count-different-palindromic-subsequences'>Count Different Palindromic Subsequences</a>, <a href='https://leetcode.com/problems/longest-common-subsequence'>Longest Common Subsequence</a></td>
     </tr>
     <tr>
       <td>517</td>
@@ -3543,6 +4553,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>518</td>
@@ -3550,6 +4562,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>520</td>
@@ -3557,6 +4571,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>521</td>
@@ -3564,6 +4580,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/brainteaser'>Brainteaser</a></td>
+      <td><a href='https://leetcode.com/problems/longest-uncommon-subsequence-ii'>Longest Uncommon Subsequence II</a></td>
     </tr>
     <tr>
       <td>522</td>
@@ -3571,6 +4589,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td><a href='https://leetcode.com/problems/longest-uncommon-subsequence-i'>Longest Uncommon Subsequence I</a></td>
     </tr>
     <tr>
       <td>523</td>
@@ -3578,6 +4598,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/subarray-sum-equals-k'>Subarray Sum Equals K</a></td>
     </tr>
     <tr>
       <td>524</td>
@@ -3585,6 +4607,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a>, <a href='https://leetcode.com/tag/sort'>Sort</a></td>
+      <td><a href='https://leetcode.com/problems/longest-word-in-dictionary'>Longest Word in Dictionary</a></td>
     </tr>
     <tr>
       <td>525</td>
@@ -3592,6 +4616,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a></td>
+      <td><a href='https://leetcode.com/problems/maximum-size-subarray-sum-equals-k'>Maximum Size Subarray Sum Equals k</a></td>
     </tr>
     <tr>
       <td>526</td>
@@ -3599,6 +4625,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/backtracking'>Backtracking</a></td>
+      <td><a href='https://leetcode.com/problems/beautiful-arrangement-ii'>Beautiful Arrangement II</a></td>
     </tr>
     <tr>
       <td>527</td>
@@ -3606,6 +4634,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/sort'>Sort</a></td>
+      <td><a href='https://leetcode.com/problems/valid-word-abbreviation'>Valid Word Abbreviation</a>, <a href='https://leetcode.com/problems/minimum-unique-word-abbreviation'>Minimum Unique Word Abbreviation</a></td>
     </tr>
     <tr>
       <td>529</td>
@@ -3613,6 +4643,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>530</td>
@@ -3620,6 +4652,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td><a href='https://leetcode.com/problems/k-diff-pairs-in-an-array'>K-diff Pairs in an Array</a></td>
     </tr>
     <tr>
       <td>531</td>
@@ -3627,6 +4661,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/lonely-pixel-ii'>Lonely Pixel II</a></td>
     </tr>
     <tr>
       <td>532</td>
@@ -3634,6 +4670,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a></td>
+      <td><a href='https://leetcode.com/problems/minimum-absolute-difference-in-bst'>Minimum Absolute Difference in BST</a></td>
     </tr>
     <tr>
       <td>533</td>
@@ -3641,6 +4679,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td><a href='https://leetcode.com/problems/lonely-pixel-i'>Lonely Pixel I</a></td>
     </tr>
     <tr>
       <td>535</td>
@@ -3648,6 +4688,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>536</td>
@@ -3655,6 +4697,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td><a href='https://leetcode.com/problems/construct-string-from-binary-tree'>Construct String from Binary Tree</a></td>
     </tr>
     <tr>
       <td>537</td>
@@ -3662,6 +4706,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>538</td>
@@ -3669,6 +4715,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>539</td>
@@ -3676,6 +4724,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>540</td>
@@ -3683,6 +4733,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>541</td>
@@ -3690,6 +4742,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td><a href='https://leetcode.com/problems/reverse-string'>Reverse String</a>, <a href='https://leetcode.com/problems/reverse-words-in-a-string-iii'>Reverse Words in a String III</a></td>
     </tr>
     <tr>
       <td>542</td>
@@ -3697,6 +4751,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>543</td>
@@ -3704,6 +4760,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td><a href='https://leetcode.com/problems/diameter-of-n-ary-tree'>Diameter of N-Ary Tree</a></td>
     </tr>
     <tr>
       <td>544</td>
@@ -3711,6 +4769,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/recursion'>Recursion</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>545</td>
@@ -3718,6 +4778,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td><a href='https://leetcode.com/problems/binary-tree-right-side-view'>Binary Tree Right Side View</a></td>
     </tr>
     <tr>
       <td>546</td>
@@ -3725,6 +4787,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/strange-printer'>Strange Printer</a></td>
     </tr>
     <tr>
       <td>547</td>
@@ -3732,6 +4796,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/union-find'>Union Find</a></td>
+      <td><a href='https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph'>Number of Connected Components in an Undirected Graph</a>, <a href='https://leetcode.com/problems/robot-return-to-origin'>Robot Return to Origin</a>, <a href='https://leetcode.com/problems/sentence-similarity'>Sentence Similarity</a>, <a href='https://leetcode.com/problems/sentence-similarity-ii'>Sentence Similarity II</a>, <a href='https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends'>The Earliest Moment When Everyone Become Friends</a></td>
     </tr>
     <tr>
       <td>548</td>
@@ -3739,6 +4805,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td><a href='https://leetcode.com/problems/number-of-ways-to-split-a-string'>Number of Ways to Split a String</a></td>
     </tr>
     <tr>
       <td>549</td>
@@ -3746,6 +4814,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td><a href='https://leetcode.com/problems/binary-tree-longest-consecutive-sequence'>Binary Tree Longest Consecutive Sequence</a></td>
     </tr>
     <tr>
       <td>551</td>
@@ -3753,6 +4823,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td><a href='https://leetcode.com/problems/student-attendance-record-ii'>Student Attendance Record II</a></td>
     </tr>
     <tr>
       <td>552</td>
@@ -3760,6 +4832,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/student-attendance-record-i'>Student Attendance Record I</a></td>
     </tr>
     <tr>
       <td>553</td>
@@ -3767,6 +4841,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>554</td>
@@ -3774,6 +4850,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>555</td>
@@ -3781,6 +4859,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>556</td>
@@ -3788,6 +4868,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td><a href='https://leetcode.com/problems/next-greater-element-i'>Next Greater Element I</a>, <a href='https://leetcode.com/problems/next-greater-element-ii'>Next Greater Element II</a></td>
     </tr>
     <tr>
       <td>557</td>
@@ -3795,6 +4877,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td><a href='https://leetcode.com/problems/reverse-string-ii'>Reverse String II</a></td>
     </tr>
     <tr>
       <td>560</td>
@@ -3802,6 +4886,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/hash-table'>Hash Table</a></td>
+      <td><a href='https://leetcode.com/problems/two-sum'>Two Sum</a>, <a href='https://leetcode.com/problems/continuous-subarray-sum'>Continuous Subarray Sum</a>, <a href='https://leetcode.com/problems/subarray-product-less-than-k'>Subarray Product Less Than K</a>, <a href='https://leetcode.com/problems/find-pivot-index'>Find Pivot Index</a>, <a href='https://leetcode.com/problems/subarray-sums-divisible-by-k'>Subarray Sums Divisible by K</a></td>
     </tr>
     <tr>
       <td>561</td>
@@ -3809,6 +4895,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>562</td>
@@ -3816,6 +4904,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>563</td>
@@ -3823,6 +4913,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td><a href='https://leetcode.com/problems/find-all-the-lonely-nodes'>Find All The Lonely Nodes</a></td>
     </tr>
     <tr>
       <td>564</td>
@@ -3830,6 +4922,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>565</td>
@@ -3837,6 +4931,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td><a href='https://leetcode.com/problems/nested-list-weight-sum'>Nested List Weight Sum</a>, <a href='https://leetcode.com/problems/flatten-nested-list-iterator'>Flatten Nested List Iterator</a>, <a href='https://leetcode.com/problems/nested-list-weight-sum-ii'>Nested List Weight Sum II</a></td>
     </tr>
     <tr>
       <td>566</td>
@@ -3844,6 +4940,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>567</td>
@@ -3851,6 +4949,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a>, <a href='https://leetcode.com/tag/sliding-window'>Sliding Window</a></td>
+      <td><a href='https://leetcode.com/problems/minimum-window-substring'>Minimum Window Substring</a>, <a href='https://leetcode.com/problems/find-all-anagrams-in-a-string'>Find All Anagrams in a String</a></td>
     </tr>
     <tr>
       <td>568</td>
@@ -3858,6 +4958,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/cheapest-flights-within-k-stops'>Cheapest Flights Within K Stops</a></td>
     </tr>
     <tr>
       <td>569</td>
@@ -3865,6 +4967,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td><a href='https://leetcode.com/problems/find-median-given-frequency-of-numbers'>Find Median Given Frequency of Numbers</a></td>
     </tr>
     <tr>
       <td>570</td>
@@ -3872,6 +4976,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>571</td>
@@ -3879,6 +4985,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td><a href='https://leetcode.com/problems/median-employee-salary'>Median Employee Salary</a></td>
     </tr>
     <tr>
       <td>572</td>
@@ -3886,6 +4994,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td><a href='https://leetcode.com/problems/count-univalue-subtrees'>Count Univalue Subtrees</a>, <a href='https://leetcode.com/problems/most-frequent-subtree-sum'>Most Frequent Subtree Sum</a></td>
     </tr>
     <tr>
       <td>573</td>
@@ -3893,6 +5003,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>574</td>
@@ -3900,6 +5012,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>575</td>
@@ -3907,6 +5021,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>576</td>
@@ -3914,6 +5030,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/knight-probability-in-chessboard'>Knight Probability in Chessboard</a></td>
     </tr>
     <tr>
       <td>577</td>
@@ -3921,6 +5039,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td><a href='https://leetcode.com/problems/combine-two-tables'>Combine Two Tables</a></td>
     </tr>
     <tr>
       <td>578</td>
@@ -3928,6 +5048,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>579</td>
@@ -3935,6 +5057,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>580</td>
@@ -3942,6 +5066,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>581</td>
@@ -3949,6 +5075,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>582</td>
@@ -3956,6 +5084,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/queue'>Queue</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>583</td>
@@ -3963,6 +5093,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td><a href='https://leetcode.com/problems/edit-distance'>Edit Distance</a>, <a href='https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings'>Minimum ASCII Delete Sum for Two Strings</a>, <a href='https://leetcode.com/problems/longest-common-subsequence'>Longest Common Subsequence</a></td>
     </tr>
     <tr>
       <td>584</td>
@@ -3970,6 +5102,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>585</td>
@@ -3977,6 +5111,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>586</td>
@@ -3984,6 +5120,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>587</td>
@@ -3991,6 +5129,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/geometry'>Geometry</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>588</td>
@@ -3998,6 +5138,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/design'>Design</a></td>
+      <td><a href='https://leetcode.com/problems/lru-cache'>LRU Cache</a>, <a href='https://leetcode.com/problems/lfu-cache'>LFU Cache</a>, <a href='https://leetcode.com/problems/design-log-storage-system'>Design Log Storage System</a></td>
     </tr>
     <tr>
       <td>591</td>
@@ -4005,6 +5147,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/stack'>Stack</a></td>
+      <td><a href='https://leetcode.com/problems/add-bold-tag-in-string'>Add Bold Tag in String</a></td>
     </tr>
     <tr>
       <td>592</td>
@@ -4012,6 +5156,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td><a href='https://leetcode.com/problems/solve-the-equation'>Solve the Equation</a></td>
     </tr>
     <tr>
       <td>593</td>
@@ -4019,6 +5165,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>594</td>
@@ -4026,6 +5174,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>595</td>
@@ -4033,6 +5183,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>596</td>
@@ -4040,6 +5192,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>597</td>
@@ -4047,6 +5201,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>598</td>
@@ -4054,6 +5210,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td><a href='https://leetcode.com/problems/range-addition'>Range Addition</a></td>
     </tr>
     <tr>
       <td>599</td>
@@ -4061,6 +5219,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a></td>
+      <td><a href='https://leetcode.com/problems/intersection-of-two-linked-lists'>Intersection of Two Linked Lists</a></td>
     </tr>
     <tr>
       <td>600</td>
@@ -4068,6 +5228,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/house-robber'>House Robber</a>, <a href='https://leetcode.com/problems/house-robber-ii'>House Robber II</a>, <a href='https://leetcode.com/problems/ones-and-zeroes'>Ones and Zeroes</a></td>
     </tr>
     <tr>
       <td>601</td>
@@ -4075,6 +5237,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>602</td>
@@ -4082,6 +5246,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>603</td>
@@ -4089,6 +5255,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>604</td>
@@ -4096,6 +5264,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/design'>Design</a></td>
+      <td><a href='https://leetcode.com/problems/lru-cache'>LRU Cache</a>, <a href='https://leetcode.com/problems/string-compression'>String Compression</a></td>
     </tr>
     <tr>
       <td>605</td>
@@ -4103,6 +5273,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td><a href='https://leetcode.com/problems/teemo-attacking'>Teemo Attacking</a>, <a href='https://leetcode.com/problems/asteroid-collision'>Asteroid Collision</a></td>
     </tr>
     <tr>
       <td>606</td>
@@ -4110,6 +5282,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td><a href='https://leetcode.com/problems/construct-binary-tree-from-string'>Construct Binary Tree from String</a>, <a href='https://leetcode.com/problems/find-duplicate-subtrees'>Find Duplicate Subtrees</a></td>
     </tr>
     <tr>
       <td>607</td>
@@ -4117,6 +5291,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>608</td>
@@ -4124,6 +5300,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>609</td>
@@ -4131,6 +5309,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>610</td>
@@ -4138,6 +5318,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>611</td>
@@ -4145,6 +5327,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td><a href='https://leetcode.com/problems/3sum-smaller'>3Sum Smaller</a></td>
     </tr>
     <tr>
       <td>612</td>
@@ -4152,6 +5336,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>613</td>
@@ -4159,6 +5345,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>614</td>
@@ -4166,6 +5354,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>615</td>
@@ -4173,6 +5363,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td><a href='https://leetcode.com/problems/countries-you-can-safely-invest-in'>Countries You Can Safely Invest In</a></td>
     </tr>
     <tr>
       <td>616</td>
@@ -4180,6 +5372,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td><a href='https://leetcode.com/problems/merge-intervals'>Merge Intervals</a>, <a href='https://leetcode.com/problems/tag-validator'>Tag Validator</a></td>
     </tr>
     <tr>
       <td>617</td>
@@ -4187,6 +5381,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>618</td>
@@ -4194,6 +5390,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>619</td>
@@ -4201,6 +5399,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>620</td>
@@ -4208,6 +5408,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>621</td>
@@ -4215,6 +5417,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/greedy'>Greedy</a>, <a href='https://leetcode.com/tag/queue'>Queue</a></td>
+      <td><a href='https://leetcode.com/problems/rearrange-string-k-distance-apart'>Rearrange String k Distance Apart</a>, <a href='https://leetcode.com/problems/reorganize-string'>Reorganize String</a></td>
     </tr>
     <tr>
       <td>623</td>
@@ -4222,6 +5426,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>624</td>
@@ -4229,6 +5435,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/hash-table'>Hash Table</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>625</td>
@@ -4236,6 +5444,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/recursion'>Recursion</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>626</td>
@@ -4243,6 +5453,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>627</td>
@@ -4250,6 +5462,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>628</td>
@@ -4257,6 +5471,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td><a href='https://leetcode.com/problems/maximum-product-subarray'>Maximum Product Subarray</a></td>
     </tr>
     <tr>
       <td>629</td>
@@ -4264,6 +5480,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>630</td>
@@ -4271,6 +5489,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td><a href='https://leetcode.com/problems/course-schedule'>Course Schedule</a>, <a href='https://leetcode.com/problems/course-schedule-ii'>Course Schedule II</a></td>
     </tr>
     <tr>
       <td>631</td>
@@ -4278,6 +5498,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/design'>Design</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>632</td>
@@ -4285,6 +5507,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a>, <a href='https://leetcode.com/tag/string'>String</a></td>
+      <td><a href='https://leetcode.com/problems/minimum-window-substring'>Minimum Window Substring</a></td>
     </tr>
     <tr>
       <td>633</td>
@@ -4292,6 +5516,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td><a href='https://leetcode.com/problems/valid-perfect-square'>Valid Perfect Square</a></td>
     </tr>
     <tr>
       <td>634</td>
@@ -4299,6 +5525,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>635</td>
@@ -4306,6 +5534,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/design'>Design</a></td>
+      <td><a href='https://leetcode.com/problems/design-in-memory-file-system'>Design In-Memory File System</a></td>
     </tr>
     <tr>
       <td>636</td>
@@ -4313,6 +5543,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/stack'>Stack</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>637</td>
@@ -4320,6 +5552,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td><a href='https://leetcode.com/problems/binary-tree-level-order-traversal'>Binary Tree Level Order Traversal</a>, <a href='https://leetcode.com/problems/binary-tree-level-order-traversal-ii'>Binary Tree Level Order Traversal II</a></td>
     </tr>
     <tr>
       <td>638</td>
@@ -4327,6 +5561,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>639</td>
@@ -4334,6 +5570,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/decode-ways'>Decode Ways</a></td>
     </tr>
     <tr>
       <td>640</td>
@@ -4341,6 +5579,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td><a href='https://leetcode.com/problems/fraction-addition-and-subtraction'>Fraction Addition and Subtraction</a></td>
     </tr>
     <tr>
       <td>642</td>
@@ -4348,6 +5588,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/design'>Design</a>, <a href='https://leetcode.com/tag/trie'>Trie</a></td>
+      <td><a href='https://leetcode.com/problems/implement-trie-prefix-tree'>Implement Trie (Prefix Tree)</a></td>
     </tr>
     <tr>
       <td>643</td>
@@ -4355,6 +5597,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td><a href='https://leetcode.com/problems/maximum-average-subarray-ii'>Maximum Average Subarray II</a></td>
     </tr>
     <tr>
       <td>644</td>
@@ -4362,6 +5606,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td><a href='https://leetcode.com/problems/maximum-average-subarray-i'>Maximum Average Subarray I</a></td>
     </tr>
     <tr>
       <td>645</td>
@@ -4369,6 +5615,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td><a href='https://leetcode.com/problems/find-the-duplicate-number'>Find the Duplicate Number</a></td>
     </tr>
     <tr>
       <td>646</td>
@@ -4376,6 +5624,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/longest-increasing-subsequence'>Longest Increasing Subsequence</a>, <a href='https://leetcode.com/problems/increasing-subsequences'>Increasing Subsequences</a></td>
     </tr>
     <tr>
       <td>647</td>
@@ -4383,6 +5633,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/longest-palindromic-substring'>Longest Palindromic Substring</a>, <a href='https://leetcode.com/problems/longest-palindromic-subsequence'>Longest Palindromic Subsequence</a></td>
     </tr>
     <tr>
       <td>648</td>
@@ -4390,6 +5642,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/trie'>Trie</a></td>
+      <td><a href='https://leetcode.com/problems/implement-trie-prefix-tree'>Implement Trie (Prefix Tree)</a></td>
     </tr>
     <tr>
       <td>649</td>
@@ -4397,6 +5651,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td><a href='https://leetcode.com/problems/teemo-attacking'>Teemo Attacking</a></td>
     </tr>
     <tr>
       <td>650</td>
@@ -4404,6 +5660,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/4-keys-keyboard'>4 Keys Keyboard</a>, <a href='https://leetcode.com/problems/broken-calculator'>Broken Calculator</a></td>
     </tr>
     <tr>
       <td>651</td>
@@ -4411,6 +5669,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td><a href='https://leetcode.com/problems/2-keys-keyboard'>2 Keys Keyboard</a></td>
     </tr>
     <tr>
       <td>652</td>
@@ -4418,6 +5678,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td><a href='https://leetcode.com/problems/serialize-and-deserialize-binary-tree'>Serialize and Deserialize Binary Tree</a>, <a href='https://leetcode.com/problems/serialize-and-deserialize-bst'>Serialize and Deserialize BST</a>, <a href='https://leetcode.com/problems/construct-string-from-binary-tree'>Construct String from Binary Tree</a></td>
     </tr>
     <tr>
       <td>653</td>
@@ -4425,6 +5687,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td><a href='https://leetcode.com/problems/two-sum'>Two Sum</a>, <a href='https://leetcode.com/problems/two-sum-ii-input-array-is-sorted'>Two Sum II - Input array is sorted</a>, <a href='https://leetcode.com/problems/two-sum-iii-data-structure-design'>Two Sum III - Data structure design</a>, <a href='https://leetcode.com/problems/two-sum-bsts'>Two Sum BSTs</a></td>
     </tr>
     <tr>
       <td>654</td>
@@ -4432,6 +5696,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td><a href='https://leetcode.com/problems/maximum-binary-tree-ii'>Maximum Binary Tree II</a></td>
     </tr>
     <tr>
       <td>655</td>
@@ -4439,6 +5705,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>656</td>
@@ -4446,6 +5714,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/house-robber'>House Robber</a>, <a href='https://leetcode.com/problems/house-robber-ii'>House Robber II</a></td>
     </tr>
     <tr>
       <td>657</td>
@@ -4453,6 +5723,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td><a href='https://leetcode.com/problems/friend-circles'>Friend Circles</a></td>
     </tr>
     <tr>
       <td>658</td>
@@ -4460,6 +5732,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td><a href='https://leetcode.com/problems/guess-number-higher-or-lower'>Guess Number Higher or Lower</a>, <a href='https://leetcode.com/problems/guess-number-higher-or-lower-ii'>Guess Number Higher or Lower II</a>, <a href='https://leetcode.com/problems/find-k-th-smallest-pair-distance'>Find K-th Smallest Pair Distance</a></td>
     </tr>
     <tr>
       <td>659</td>
@@ -4467,6 +5741,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/heap'>Heap</a>, <a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td><a href='https://leetcode.com/problems/top-k-frequent-elements'>Top K Frequent Elements</a>, <a href='https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers'>Divide Array in Sets of K Consecutive Numbers</a></td>
     </tr>
     <tr>
       <td>660</td>
@@ -4474,6 +5750,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>661</td>
@@ -4481,6 +5759,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>662</td>
@@ -4488,6 +5768,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>663</td>
@@ -4495,6 +5777,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>664</td>
@@ -4502,6 +5786,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/remove-boxes'>Remove Boxes</a></td>
     </tr>
     <tr>
       <td>665</td>
@@ -4509,6 +5795,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>666</td>
@@ -4516,6 +5804,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td><a href='https://leetcode.com/problems/path-sum'>Path Sum</a>, <a href='https://leetcode.com/problems/path-sum-ii'>Path Sum II</a>, <a href='https://leetcode.com/problems/binary-tree-maximum-path-sum'>Binary Tree Maximum Path Sum</a>, <a href='https://leetcode.com/problems/path-sum-iii'>Path Sum III</a></td>
     </tr>
     <tr>
       <td>667</td>
@@ -4523,6 +5813,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td><a href='https://leetcode.com/problems/beautiful-arrangement'>Beautiful Arrangement</a></td>
     </tr>
     <tr>
       <td>668</td>
@@ -4530,6 +5822,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td><a href='https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix'>Kth Smallest Element in a Sorted Matrix</a>, <a href='https://leetcode.com/problems/find-k-th-smallest-pair-distance'>Find K-th Smallest Pair Distance</a>, <a href='https://leetcode.com/problems/k-th-smallest-prime-fraction'>K-th Smallest Prime Fraction</a></td>
     </tr>
     <tr>
       <td>669</td>
@@ -4537,6 +5831,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>670</td>
@@ -4544,6 +5840,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td><a href='https://leetcode.com/problems/create-maximum-number'>Create Maximum Number</a></td>
     </tr>
     <tr>
       <td>671</td>
@@ -4551,6 +5849,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td><a href='https://leetcode.com/problems/kth-smallest-element-in-a-bst'>Kth Smallest Element in a BST</a></td>
     </tr>
     <tr>
       <td>672</td>
@@ -4558,6 +5858,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td><a href='https://leetcode.com/problems/bulb-switcher'>Bulb Switcher</a>, <a href='https://leetcode.com/problems/bulb-switcher-iii'>Bulb Switcher III</a></td>
     </tr>
     <tr>
       <td>673</td>
@@ -4565,6 +5867,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/longest-increasing-subsequence'>Longest Increasing Subsequence</a>, <a href='https://leetcode.com/problems/longest-continuous-increasing-subsequence'>Longest Continuous Increasing Subsequence</a></td>
     </tr>
     <tr>
       <td>674</td>
@@ -4572,6 +5876,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td><a href='https://leetcode.com/problems/number-of-longest-increasing-subsequence'>Number of Longest Increasing Subsequence</a>, <a href='https://leetcode.com/problems/minimum-window-subsequence'>Minimum Window Subsequence</a></td>
     </tr>
     <tr>
       <td>675</td>
@@ -4579,6 +5885,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>676</td>
@@ -4586,6 +5894,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/trie'>Trie</a></td>
+      <td><a href='https://leetcode.com/problems/implement-trie-prefix-tree'>Implement Trie (Prefix Tree)</a>, <a href='https://leetcode.com/problems/longest-word-in-dictionary'>Longest Word in Dictionary</a></td>
     </tr>
     <tr>
       <td>677</td>
@@ -4593,6 +5903,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/trie'>Trie</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>678</td>
@@ -4600,6 +5912,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td><a href='https://leetcode.com/problems/special-binary-string'>Special Binary String</a></td>
     </tr>
     <tr>
       <td>679</td>
@@ -4607,6 +5921,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>680</td>
@@ -4614,6 +5930,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td><a href='https://leetcode.com/problems/valid-palindrome'>Valid Palindrome</a></td>
     </tr>
     <tr>
       <td>681</td>
@@ -4621,6 +5939,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>682</td>
@@ -4628,6 +5948,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/stack'>Stack</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>683</td>
@@ -4635,6 +5957,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/ordered-map'>Ordered Map</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>684</td>
@@ -4642,6 +5966,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/union-find'>Union Find</a>, <a href='https://leetcode.com/tag/graph'>Graph</a></td>
+      <td><a href='https://leetcode.com/problems/redundant-connection-ii'>Redundant Connection II</a>, <a href='https://leetcode.com/problems/accounts-merge'>Accounts Merge</a></td>
     </tr>
     <tr>
       <td>685</td>
@@ -4649,6 +5975,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/union-find'>Union Find</a>, <a href='https://leetcode.com/tag/graph'>Graph</a></td>
+      <td><a href='https://leetcode.com/problems/redundant-connection'>Redundant Connection</a></td>
     </tr>
     <tr>
       <td>686</td>
@@ -4656,6 +5984,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td><a href='https://leetcode.com/problems/repeated-substring-pattern'>Repeated Substring Pattern</a></td>
     </tr>
     <tr>
       <td>687</td>
@@ -4663,6 +5993,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/recursion'>Recursion</a></td>
+      <td><a href='https://leetcode.com/problems/binary-tree-maximum-path-sum'>Binary Tree Maximum Path Sum</a>, <a href='https://leetcode.com/problems/count-univalue-subtrees'>Count Univalue Subtrees</a>, <a href='https://leetcode.com/problems/path-sum-iii'>Path Sum III</a></td>
     </tr>
     <tr>
       <td>688</td>
@@ -4670,6 +6002,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/out-of-boundary-paths'>Out of Boundary Paths</a></td>
     </tr>
     <tr>
       <td>689</td>
@@ -4677,6 +6011,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii'>Best Time to Buy and Sell Stock III</a></td>
     </tr>
     <tr>
       <td>690</td>
@@ -4684,6 +6020,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/nested-list-weight-sum'>Nested List Weight Sum</a></td>
     </tr>
     <tr>
       <td>691</td>
@@ -4691,6 +6029,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/backtracking'>Backtracking</a></td>
+      <td><a href='https://leetcode.com/problems/ransom-note'>Ransom Note</a></td>
     </tr>
     <tr>
       <td>692</td>
@@ -4698,6 +6038,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/heap'>Heap</a>, <a href='https://leetcode.com/tag/trie'>Trie</a></td>
+      <td><a href='https://leetcode.com/problems/top-k-frequent-elements'>Top K Frequent Elements</a>, <a href='https://leetcode.com/problems/k-closest-points-to-origin'>K Closest Points to Origin</a></td>
     </tr>
     <tr>
       <td>693</td>
@@ -4705,6 +6047,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/bit-manipulation'>Bit Manipulation</a></td>
+      <td><a href='https://leetcode.com/problems/number-of-1-bits'>Number of 1 Bits</a></td>
     </tr>
     <tr>
       <td>694</td>
@@ -4712,6 +6056,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/number-of-islands'>Number of Islands</a>, <a href='https://leetcode.com/problems/number-of-distinct-islands-ii'>Number of Distinct Islands II</a></td>
     </tr>
     <tr>
       <td>695</td>
@@ -4719,6 +6065,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/number-of-islands'>Number of Islands</a>, <a href='https://leetcode.com/problems/island-perimeter'>Island Perimeter</a></td>
     </tr>
     <tr>
       <td>696</td>
@@ -4726,6 +6074,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td><a href='https://leetcode.com/problems/encode-and-decode-strings'>Encode and Decode Strings</a></td>
     </tr>
     <tr>
       <td>697</td>
@@ -4733,6 +6083,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td><a href='https://leetcode.com/problems/maximum-subarray'>Maximum Subarray</a></td>
     </tr>
     <tr>
       <td>698</td>
@@ -4740,6 +6092,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/recursion'>Recursion</a></td>
+      <td><a href='https://leetcode.com/problems/partition-equal-subset-sum'>Partition Equal Subset Sum</a></td>
     </tr>
     <tr>
       <td>699</td>
@@ -4747,6 +6101,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/segment-tree'>Segment Tree</a>, <a href='https://leetcode.com/tag/ordered-map'>Ordered Map</a></td>
+      <td><a href='https://leetcode.com/problems/the-skyline-problem'>The Skyline Problem</a></td>
     </tr>
     <tr>
       <td>711</td>
@@ -4754,6 +6110,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/number-of-distinct-islands'>Number of Distinct Islands</a></td>
     </tr>
     <tr>
       <td>712</td>
@@ -4761,6 +6119,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/edit-distance'>Edit Distance</a>, <a href='https://leetcode.com/problems/longest-increasing-subsequence'>Longest Increasing Subsequence</a>, <a href='https://leetcode.com/problems/delete-operation-for-two-strings'>Delete Operation for Two Strings</a></td>
     </tr>
     <tr>
       <td>713</td>
@@ -4768,6 +6128,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a></td>
+      <td><a href='https://leetcode.com/problems/maximum-product-subarray'>Maximum Product Subarray</a>, <a href='https://leetcode.com/problems/maximum-size-subarray-sum-equals-k'>Maximum Size Subarray Sum Equals k</a>, <a href='https://leetcode.com/problems/subarray-sum-equals-k'>Subarray Sum Equals K</a>, <a href='https://leetcode.com/problems/two-sum-less-than-k'>Two Sum Less Than K</a></td>
     </tr>
     <tr>
       <td>714</td>
@@ -4775,6 +6137,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td><a href='https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii'>Best Time to Buy and Sell Stock II</a></td>
     </tr>
     <tr>
       <td>715</td>
@@ -4782,6 +6146,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/segment-tree'>Segment Tree</a>, <a href='https://leetcode.com/tag/ordered-map'>Ordered Map</a></td>
+      <td><a href='https://leetcode.com/problems/merge-intervals'>Merge Intervals</a>, <a href='https://leetcode.com/problems/insert-interval'>Insert Interval</a>, <a href='https://leetcode.com/problems/data-stream-as-disjoint-intervals'>Data Stream as Disjoint Intervals</a></td>
     </tr>
     <tr>
       <td>716</td>
@@ -4789,6 +6155,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/design'>Design</a></td>
+      <td><a href='https://leetcode.com/problems/min-stack'>Min Stack</a></td>
     </tr>
     <tr>
       <td>717</td>
@@ -4796,6 +6164,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td><a href='https://leetcode.com/problems/gray-code'>Gray Code</a></td>
     </tr>
     <tr>
       <td>718</td>
@@ -4803,6 +6173,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/binary-search'>Binary Search</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/minimum-size-subarray-sum'>Minimum Size Subarray Sum</a></td>
     </tr>
     <tr>
       <td>719</td>
@@ -4810,6 +6182,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/binary-search'>Binary Search</a>, <a href='https://leetcode.com/tag/heap'>Heap</a></td>
+      <td><a href='https://leetcode.com/problems/find-k-pairs-with-smallest-sums'>Find K Pairs with Smallest Sums</a>, <a href='https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix'>Kth Smallest Element in a Sorted Matrix</a>, <a href='https://leetcode.com/problems/find-k-closest-elements'>Find K Closest Elements</a>, <a href='https://leetcode.com/problems/kth-smallest-number-in-multiplication-table'>Kth Smallest Number in Multiplication Table</a>, <a href='https://leetcode.com/problems/k-th-smallest-prime-fraction'>K-th Smallest Prime Fraction</a></td>
     </tr>
     <tr>
       <td>720</td>
@@ -4817,6 +6191,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/trie'>Trie</a></td>
+      <td><a href='https://leetcode.com/problems/longest-word-in-dictionary-through-deleting'>Longest Word in Dictionary through Deleting</a>, <a href='https://leetcode.com/problems/implement-magic-dictionary'>Implement Magic Dictionary</a></td>
     </tr>
     <tr>
       <td>721</td>
@@ -4824,6 +6200,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/union-find'>Union Find</a></td>
+      <td><a href='https://leetcode.com/problems/redundant-connection'>Redundant Connection</a>, <a href='https://leetcode.com/problems/sentence-similarity'>Sentence Similarity</a>, <a href='https://leetcode.com/problems/sentence-similarity-ii'>Sentence Similarity II</a></td>
     </tr>
     <tr>
       <td>722</td>
@@ -4831,6 +6209,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td><a href='https://leetcode.com/problems/mini-parser'>Mini Parser</a>, <a href='https://leetcode.com/problems/ternary-expression-parser'>Ternary Expression Parser</a></td>
     </tr>
     <tr>
       <td>723</td>
@@ -4838,6 +6218,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>724</td>
@@ -4845,6 +6227,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td><a href='https://leetcode.com/problems/subarray-sum-equals-k'>Subarray Sum Equals K</a></td>
     </tr>
     <tr>
       <td>725</td>
@@ -4852,6 +6236,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/linked-list'>Linked List</a></td>
+      <td><a href='https://leetcode.com/problems/rotate-list'>Rotate List</a>, <a href='https://leetcode.com/problems/odd-even-linked-list'>Odd Even Linked List</a></td>
     </tr>
     <tr>
       <td>726</td>
@@ -4859,6 +6245,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/stack'>Stack</a>, <a href='https://leetcode.com/tag/recursion'>Recursion</a></td>
+      <td><a href='https://leetcode.com/problems/decode-string'>Decode String</a>, <a href='https://leetcode.com/problems/encode-string-with-shortest-length'>Encode String with Shortest Length</a>, <a href='https://leetcode.com/problems/parse-lisp-expression'>Parse Lisp Expression</a></td>
     </tr>
     <tr>
       <td>727</td>
@@ -4866,6 +6254,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/sliding-window'>Sliding Window</a></td>
+      <td><a href='https://leetcode.com/problems/minimum-window-substring'>Minimum Window Substring</a>, <a href='https://leetcode.com/problems/longest-continuous-increasing-subsequence'>Longest Continuous Increasing Subsequence</a></td>
     </tr>
     <tr>
       <td>728</td>
@@ -4873,6 +6263,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td><a href='https://leetcode.com/problems/perfect-number'>Perfect Number</a></td>
     </tr>
     <tr>
       <td>729</td>
@@ -4880,6 +6272,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td><a href='https://leetcode.com/problems/my-calendar-ii'>My Calendar II</a>, <a href='https://leetcode.com/problems/my-calendar-iii'>My Calendar III</a></td>
     </tr>
     <tr>
       <td>730</td>
@@ -4887,6 +6281,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/longest-palindromic-subsequence'>Longest Palindromic Subsequence</a></td>
     </tr>
     <tr>
       <td>731</td>
@@ -4894,6 +6290,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/ordered-map'>Ordered Map</a></td>
+      <td><a href='https://leetcode.com/problems/my-calendar-i'>My Calendar I</a>, <a href='https://leetcode.com/problems/my-calendar-iii'>My Calendar III</a></td>
     </tr>
     <tr>
       <td>732</td>
@@ -4901,6 +6299,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/segment-tree'>Segment Tree</a>, <a href='https://leetcode.com/tag/ordered-map'>Ordered Map</a></td>
+      <td><a href='https://leetcode.com/problems/my-calendar-i'>My Calendar I</a>, <a href='https://leetcode.com/problems/my-calendar-ii'>My Calendar II</a></td>
     </tr>
     <tr>
       <td>733</td>
@@ -4908,6 +6308,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/island-perimeter'>Island Perimeter</a></td>
     </tr>
     <tr>
       <td>734</td>
@@ -4915,6 +6317,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a></td>
+      <td><a href='https://leetcode.com/problems/friend-circles'>Friend Circles</a>, <a href='https://leetcode.com/problems/accounts-merge'>Accounts Merge</a>, <a href='https://leetcode.com/problems/sentence-similarity-ii'>Sentence Similarity II</a></td>
     </tr>
     <tr>
       <td>735</td>
@@ -4922,6 +6326,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/stack'>Stack</a></td>
+      <td><a href='https://leetcode.com/problems/can-place-flowers'>Can Place Flowers</a></td>
     </tr>
     <tr>
       <td>736</td>
@@ -4929,6 +6335,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td><a href='https://leetcode.com/problems/ternary-expression-parser'>Ternary Expression Parser</a>, <a href='https://leetcode.com/problems/number-of-atoms'>Number of Atoms</a>, <a href='https://leetcode.com/problems/basic-calculator-iv'>Basic Calculator IV</a></td>
     </tr>
     <tr>
       <td>737</td>
@@ -4936,6 +6344,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/union-find'>Union Find</a></td>
+      <td><a href='https://leetcode.com/problems/friend-circles'>Friend Circles</a>, <a href='https://leetcode.com/problems/accounts-merge'>Accounts Merge</a>, <a href='https://leetcode.com/problems/sentence-similarity'>Sentence Similarity</a></td>
     </tr>
     <tr>
       <td>738</td>
@@ -4943,6 +6353,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td><a href='https://leetcode.com/problems/remove-k-digits'>Remove K Digits</a></td>
     </tr>
     <tr>
       <td>739</td>
@@ -4950,6 +6362,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/stack'>Stack</a></td>
+      <td><a href='https://leetcode.com/problems/next-greater-element-i'>Next Greater Element I</a></td>
     </tr>
     <tr>
       <td>740</td>
@@ -4957,6 +6371,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/house-robber'>House Robber</a></td>
     </tr>
     <tr>
       <td>741</td>
@@ -4964,6 +6380,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/minimum-path-sum'>Minimum Path Sum</a>, <a href='https://leetcode.com/problems/dungeon-game'>Dungeon Game</a></td>
     </tr>
     <tr>
       <td>709</td>
@@ -4971,6 +6389,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>742</td>
@@ -4978,6 +6398,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>743</td>
@@ -4985,6 +6407,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/heap'>Heap</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a>, <a href='https://leetcode.com/tag/graph'>Graph</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>744</td>
@@ -4992,6 +6416,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>745</td>
@@ -4999,6 +6425,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/trie'>Trie</a></td>
+      <td><a href='https://leetcode.com/problems/design-add-and-search-words-data-structure'>Design Add and Search Words Data Structure</a></td>
     </tr>
     <tr>
       <td>746</td>
@@ -5006,6 +6434,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/climbing-stairs'>Climbing Stairs</a></td>
     </tr>
     <tr>
       <td>747</td>
@@ -5013,6 +6443,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>748</td>
@@ -5020,6 +6452,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>749</td>
@@ -5027,6 +6461,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>750</td>
@@ -5034,6 +6470,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>751</td>
@@ -5041,6 +6479,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/bit-manipulation'>Bit Manipulation</a></td>
+      <td><a href='https://leetcode.com/problems/restore-ip-addresses'>Restore IP Addresses</a>, <a href='https://leetcode.com/problems/validate-ip-address'>Validate IP Address</a></td>
     </tr>
     <tr>
       <td>752</td>
@@ -5048,6 +6488,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>753</td>
@@ -5055,6 +6497,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>754</td>
@@ -5062,6 +6506,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>755</td>
@@ -5069,6 +6515,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td><a href='https://leetcode.com/problems/trapping-rain-water'>Trapping Rain Water</a></td>
     </tr>
     <tr>
       <td>756</td>
@@ -5076,6 +6524,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/bit-manipulation'>Bit Manipulation</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>426</td>
@@ -5083,6 +6533,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/linked-list'>Linked List</a>, <a href='https://leetcode.com/tag/divide-and-conquer'>Divide and Conquer</a>, <a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td><a href='https://leetcode.com/problems/binary-tree-inorder-traversal'>Binary Tree Inorder Traversal</a></td>
     </tr>
     <tr>
       <td>757</td>
@@ -5090,6 +6542,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>758</td>
@@ -5097,6 +6551,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>759</td>
@@ -5104,6 +6560,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/heap'>Heap</a>, <a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td><a href='https://leetcode.com/problems/merge-intervals'>Merge Intervals</a>, <a href='https://leetcode.com/problems/interval-list-intersections'>Interval List Intersections</a></td>
     </tr>
     <tr>
       <td>760</td>
@@ -5111,6 +6569,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>761</td>
@@ -5118,6 +6578,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/recursion'>Recursion</a></td>
+      <td><a href='https://leetcode.com/problems/valid-parenthesis-string'>Valid Parenthesis String</a></td>
     </tr>
     <tr>
       <td>429</td>
@@ -5125,6 +6587,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/binary-tree-level-order-traversal'>Binary Tree Level Order Traversal</a>, <a href='https://leetcode.com/problems/n-ary-tree-preorder-traversal'>N-ary Tree Preorder Traversal</a>, <a href='https://leetcode.com/problems/n-ary-tree-postorder-traversal'>N-ary Tree Postorder Traversal</a></td>
     </tr>
     <tr>
       <td>428</td>
@@ -5132,6 +6596,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td><a href='https://leetcode.com/problems/serialize-and-deserialize-binary-tree'>Serialize and Deserialize Binary Tree</a>, <a href='https://leetcode.com/problems/serialize-and-deserialize-bst'>Serialize and Deserialize BST</a>, <a href='https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree'>Encode N-ary Tree to Binary Tree</a></td>
     </tr>
     <tr>
       <td>430</td>
@@ -5139,6 +6605,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/linked-list'>Linked List</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/flatten-binary-tree-to-linked-list'>Flatten Binary Tree to Linked List</a></td>
     </tr>
     <tr>
       <td>762</td>
@@ -5146,6 +6614,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/bit-manipulation'>Bit Manipulation</a></td>
+      <td><a href='https://leetcode.com/problems/number-of-1-bits'>Number of 1 Bits</a></td>
     </tr>
     <tr>
       <td>763</td>
@@ -5153,6 +6623,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a>, <a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td><a href='https://leetcode.com/problems/merge-intervals'>Merge Intervals</a></td>
     </tr>
     <tr>
       <td>764</td>
@@ -5160,6 +6632,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/maximal-square'>Maximal Square</a></td>
     </tr>
     <tr>
       <td>765</td>
@@ -5167,6 +6641,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/greedy'>Greedy</a>, <a href='https://leetcode.com/tag/union-find'>Union Find</a>, <a href='https://leetcode.com/tag/graph'>Graph</a></td>
+      <td><a href='https://leetcode.com/problems/first-missing-positive'>First Missing Positive</a>, <a href='https://leetcode.com/problems/missing-number'>Missing Number</a>, <a href='https://leetcode.com/problems/k-similar-strings'>K-Similar Strings</a></td>
     </tr>
     <tr>
       <td>431</td>
@@ -5174,6 +6650,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td><a href='https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree'>Serialize and Deserialize N-ary Tree</a></td>
     </tr>
     <tr>
       <td>427</td>
@@ -5181,6 +6659,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>558</td>
@@ -5188,6 +6668,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>559</td>
@@ -5195,6 +6677,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/maximum-depth-of-binary-tree'>Maximum Depth of Binary Tree</a></td>
     </tr>
     <tr>
       <td>589</td>
@@ -5202,6 +6686,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td><a href='https://leetcode.com/problems/binary-tree-preorder-traversal'>Binary Tree Preorder Traversal</a>, <a href='https://leetcode.com/problems/n-ary-tree-level-order-traversal'>N-ary Tree Level Order Traversal</a>, <a href='https://leetcode.com/problems/n-ary-tree-postorder-traversal'>N-ary Tree Postorder Traversal</a></td>
     </tr>
     <tr>
       <td>590</td>
@@ -5209,6 +6695,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td><a href='https://leetcode.com/problems/binary-tree-postorder-traversal'>Binary Tree Postorder Traversal</a>, <a href='https://leetcode.com/problems/n-ary-tree-level-order-traversal'>N-ary Tree Level Order Traversal</a>, <a href='https://leetcode.com/problems/n-ary-tree-preorder-traversal'>N-ary Tree Preorder Traversal</a></td>
     </tr>
     <tr>
       <td>766</td>
@@ -5216,6 +6704,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td><a href='https://leetcode.com/problems/valid-word-square'>Valid Word Square</a></td>
     </tr>
     <tr>
       <td>767</td>
@@ -5223,6 +6713,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/heap'>Heap</a>, <a href='https://leetcode.com/tag/greedy'>Greedy</a>, <a href='https://leetcode.com/tag/sort'>Sort</a></td>
+      <td><a href='https://leetcode.com/problems/rearrange-string-k-distance-apart'>Rearrange String k Distance Apart</a>, <a href='https://leetcode.com/problems/task-scheduler'>Task Scheduler</a></td>
     </tr>
     <tr>
       <td>768</td>
@@ -5230,6 +6722,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td><a href='https://leetcode.com/problems/max-chunks-to-make-sorted'>Max Chunks To Make Sorted</a></td>
     </tr>
     <tr>
       <td>769</td>
@@ -5237,6 +6731,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td><a href='https://leetcode.com/problems/max-chunks-to-make-sorted-ii'>Max Chunks To Make Sorted II</a></td>
     </tr>
     <tr>
       <td>770</td>
@@ -5244,6 +6740,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/stack'>Stack</a></td>
+      <td><a href='https://leetcode.com/problems/parse-lisp-expression'>Parse Lisp Expression</a>, <a href='https://leetcode.com/problems/basic-calculator-iii'>Basic Calculator III</a></td>
     </tr>
     <tr>
       <td>771</td>
@@ -5251,6 +6749,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>700</td>
@@ -5258,6 +6758,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td><a href='https://leetcode.com/problems/closest-binary-search-tree-value'>Closest Binary Search Tree Value</a>, <a href='https://leetcode.com/problems/insert-into-a-binary-search-tree'>Insert into a Binary Search Tree</a></td>
     </tr>
     <tr>
       <td>701</td>
@@ -5265,6 +6767,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td><a href='https://leetcode.com/problems/search-in-a-binary-search-tree'>Search in a Binary Search Tree</a></td>
     </tr>
     <tr>
       <td>772</td>
@@ -5272,6 +6776,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/stack'>Stack</a></td>
+      <td><a href='https://leetcode.com/problems/basic-calculator'>Basic Calculator</a>, <a href='https://leetcode.com/problems/basic-calculator-ii'>Basic Calculator II</a>, <a href='https://leetcode.com/problems/basic-calculator-iv'>Basic Calculator IV</a></td>
     </tr>
     <tr>
       <td>702</td>
@@ -5279,6 +6785,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td><a href='https://leetcode.com/problems/binary-search'>Binary Search</a>, <a href='https://leetcode.com/problems/find-the-index-of-the-large-integer'>Find the Index of the Large Integer</a></td>
     </tr>
     <tr>
       <td>773</td>
@@ -5286,6 +6794,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>774</td>
@@ -5293,6 +6803,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td><a href='https://leetcode.com/problems/koko-eating-bananas'>Koko Eating Bananas</a></td>
     </tr>
     <tr>
       <td>703</td>
@@ -5300,6 +6812,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/heap'>Heap</a></td>
+      <td><a href='https://leetcode.com/problems/kth-largest-element-in-an-array'>Kth Largest Element in an Array</a></td>
     </tr>
     <tr>
       <td>775</td>
@@ -5307,6 +6821,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>776</td>
@@ -5314,6 +6830,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/recursion'>Recursion</a></td>
+      <td><a href='https://leetcode.com/problems/delete-node-in-a-bst'>Delete Node in a BST</a></td>
     </tr>
     <tr>
       <td>704</td>
@@ -5321,6 +6839,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td><a href='https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size'>Search in a Sorted Array of Unknown Size</a></td>
     </tr>
     <tr>
       <td>777</td>
@@ -5328,6 +6848,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/brainteaser'>Brainteaser</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>778</td>
@@ -5335,6 +6857,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/binary-search'>Binary Search</a>, <a href='https://leetcode.com/tag/heap'>Heap</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/union-find'>Union Find</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>779</td>
@@ -5342,6 +6866,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/recursion'>Recursion</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>780</td>
@@ -5349,6 +6875,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>781</td>
@@ -5356,6 +6884,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>782</td>
@@ -5363,6 +6893,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>783</td>
@@ -5370,6 +6902,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/recursion'>Recursion</a></td>
+      <td><a href='https://leetcode.com/problems/binary-tree-inorder-traversal'>Binary Tree Inorder Traversal</a></td>
     </tr>
     <tr>
       <td>784</td>
@@ -5377,6 +6911,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/backtracking'>Backtracking</a>, <a href='https://leetcode.com/tag/bit-manipulation'>Bit Manipulation</a></td>
+      <td><a href='https://leetcode.com/problems/subsets'>Subsets</a>, <a href='https://leetcode.com/problems/brace-expansion'>Brace Expansion</a></td>
     </tr>
     <tr>
       <td>785</td>
@@ -5384,6 +6920,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a>, <a href='https://leetcode.com/tag/graph'>Graph</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>786</td>
@@ -5391,6 +6929,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/binary-search'>Binary Search</a>, <a href='https://leetcode.com/tag/heap'>Heap</a></td>
+      <td><a href='https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix'>Kth Smallest Element in a Sorted Matrix</a>, <a href='https://leetcode.com/problems/kth-smallest-number-in-multiplication-table'>Kth Smallest Number in Multiplication Table</a>, <a href='https://leetcode.com/problems/find-k-th-smallest-pair-distance'>Find K-th Smallest Pair Distance</a></td>
     </tr>
     <tr>
       <td>787</td>
@@ -5398,6 +6938,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/heap'>Heap</a>, <a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/maximum-vacation-days'>Maximum Vacation Days</a></td>
     </tr>
     <tr>
       <td>788</td>
@@ -5405,6 +6947,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>789</td>
@@ -5412,6 +6956,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>790</td>
@@ -5419,6 +6965,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>791</td>
@@ -5426,6 +6974,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>792</td>
@@ -5433,6 +6983,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td><a href='https://leetcode.com/problems/is-subsequence'>Is Subsequence</a>, <a href='https://leetcode.com/problems/shortest-way-to-form-string'>Shortest Way to Form String</a></td>
     </tr>
     <tr>
       <td>793</td>
@@ -5440,6 +6992,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td><a href='https://leetcode.com/problems/factorial-trailing-zeroes'>Factorial Trailing Zeroes</a></td>
     </tr>
     <tr>
       <td>794</td>
@@ -5447,6 +7001,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/recursion'>Recursion</a></td>
+      <td><a href='https://leetcode.com/problems/design-tic-tac-toe'>Design Tic-Tac-Toe</a></td>
     </tr>
     <tr>
       <td>795</td>
@@ -5454,6 +7010,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>796</td>
@@ -5461,6 +7019,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>797</td>
@@ -5468,6 +7028,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>798</td>
@@ -5475,6 +7037,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>799</td>
@@ -5482,6 +7046,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>705</td>
@@ -5489,6 +7055,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/design'>Design</a></td>
+      <td><a href='https://leetcode.com/problems/design-hashmap'>Design HashMap</a>, <a href='https://leetcode.com/problems/design-skiplist'>Design Skiplist</a></td>
     </tr>
     <tr>
       <td>706</td>
@@ -5496,6 +7064,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/design'>Design</a></td>
+      <td><a href='https://leetcode.com/problems/design-hashset'>Design HashSet</a>, <a href='https://leetcode.com/problems/design-skiplist'>Design Skiplist</a></td>
     </tr>
     <tr>
       <td>800</td>
@@ -5503,6 +7073,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>801</td>
@@ -5510,6 +7082,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>802</td>
@@ -5517,6 +7091,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/graph'>Graph</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>803</td>
@@ -5524,6 +7100,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/union-find'>Union Find</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>804</td>
@@ -5531,6 +7109,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>805</td>
@@ -5538,6 +7118,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>806</td>
@@ -5545,6 +7127,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>807</td>
@@ -5552,6 +7136,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>808</td>
@@ -5559,6 +7145,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>809</td>
@@ -5566,6 +7154,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>810</td>
@@ -5573,6 +7163,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>811</td>
@@ -5580,6 +7172,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>812</td>
@@ -5587,6 +7181,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td><a href='https://leetcode.com/problems/largest-perimeter-triangle'>Largest Perimeter Triangle</a></td>
     </tr>
     <tr>
       <td>813</td>
@@ -5594,6 +7190,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>814</td>
@@ -5601,6 +7199,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>815</td>
@@ -5608,6 +7208,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>816</td>
@@ -5615,6 +7217,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>817</td>
@@ -5622,6 +7226,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/linked-list'>Linked List</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>818</td>
@@ -5629,6 +7235,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/heap'>Heap</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>819</td>
@@ -5636,6 +7244,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>707</td>
@@ -5643,6 +7253,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/linked-list'>Linked List</a>, <a href='https://leetcode.com/tag/design'>Design</a></td>
+      <td><a href='https://leetcode.com/problems/design-skiplist'>Design Skiplist</a></td>
     </tr>
     <tr>
       <td>820</td>
@@ -5650,6 +7262,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>821</td>
@@ -5657,6 +7271,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>822</td>
@@ -5664,6 +7280,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>823</td>
@@ -5671,6 +7289,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>708</td>
@@ -5678,6 +7298,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/linked-list'>Linked List</a></td>
+      <td><a href='https://leetcode.com/problems/insertion-sort-list'>Insertion Sort List</a></td>
     </tr>
     <tr>
       <td>824</td>
@@ -5685,6 +7307,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>825</td>
@@ -5692,6 +7316,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>826</td>
@@ -5699,6 +7325,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>827</td>
@@ -5706,6 +7334,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>828</td>
@@ -5713,6 +7343,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>829</td>
@@ -5720,6 +7352,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>830</td>
@@ -5727,6 +7361,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>831</td>
@@ -5734,6 +7370,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>641</td>
@@ -5741,6 +7379,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/design'>Design</a>, <a href='https://leetcode.com/tag/queue'>Queue</a></td>
+      <td><a href='https://leetcode.com/problems/design-circular-queue'>Design Circular Queue</a></td>
     </tr>
     <tr>
       <td>622</td>
@@ -5748,6 +7388,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/design'>Design</a>, <a href='https://leetcode.com/tag/queue'>Queue</a></td>
+      <td><a href='https://leetcode.com/problems/design-circular-deque'>Design Circular Deque</a></td>
     </tr>
     <tr>
       <td>832</td>
@@ -5755,6 +7397,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>833</td>
@@ -5762,6 +7406,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>834</td>
@@ -5769,6 +7415,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/distribute-coins-in-binary-tree'>Distribute Coins in Binary Tree</a></td>
     </tr>
     <tr>
       <td>835</td>
@@ -5776,6 +7424,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>489</td>
@@ -5783,6 +7433,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/walls-and-gates'>Walls and Gates</a></td>
     </tr>
     <tr>
       <td>836</td>
@@ -5790,6 +7442,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td><a href='https://leetcode.com/problems/rectangle-area'>Rectangle Area</a></td>
     </tr>
     <tr>
       <td>837</td>
@@ -5797,6 +7451,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>838</td>
@@ -5804,6 +7460,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>839</td>
@@ -5811,6 +7469,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/union-find'>Union Find</a>, <a href='https://leetcode.com/tag/graph'>Graph</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>840</td>
@@ -5818,6 +7478,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>841</td>
@@ -5825,6 +7487,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/graph'>Graph</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>842</td>
@@ -5832,6 +7496,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/backtracking'>Backtracking</a>, <a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td><a href='https://leetcode.com/problems/additive-number'>Additive Number</a>, <a href='https://leetcode.com/problems/fibonacci-number'>Fibonacci Number</a></td>
     </tr>
     <tr>
       <td>843</td>
@@ -5839,6 +7505,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/minimax'>Minimax</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>844</td>
@@ -5846,6 +7514,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a>, <a href='https://leetcode.com/tag/stack'>Stack</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>845</td>
@@ -5853,6 +7523,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>846</td>
@@ -5860,6 +7532,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/ordered-map'>Ordered Map</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>847</td>
@@ -5867,6 +7541,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>848</td>
@@ -5874,13 +7550,17 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>849</td>
       <td><a href='https://leetcode.com/problems/maximize-distance-to-closest-person'>Maximize Distance to Closest Person</a></td>
-      <td>Easy</td>
+      <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td><a href='https://leetcode.com/problems/exam-room'>Exam Room</a></td>
     </tr>
     <tr>
       <td>850</td>
@@ -5888,6 +7568,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/segment-tree'>Segment Tree</a>, <a href='https://leetcode.com/tag/line-sweep'>Line Sweep</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>851</td>
@@ -5895,6 +7577,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>852</td>
@@ -5902,6 +7586,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td><a href='https://leetcode.com/problems/find-peak-element'>Find Peak Element</a>, <a href='https://leetcode.com/problems/find-in-mountain-array'>Find in Mountain Array</a></td>
     </tr>
     <tr>
       <td>853</td>
@@ -5909,6 +7595,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/sort'>Sort</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>854</td>
@@ -5916,6 +7604,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a>, <a href='https://leetcode.com/tag/graph'>Graph</a></td>
+      <td><a href='https://leetcode.com/problems/couples-holding-hands'>Couples Holding Hands</a></td>
     </tr>
     <tr>
       <td>855</td>
@@ -5923,6 +7613,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/ordered-map'>Ordered Map</a></td>
+      <td><a href='https://leetcode.com/problems/maximize-distance-to-closest-person'>Maximize Distance to Closest Person</a></td>
     </tr>
     <tr>
       <td>856</td>
@@ -5930,6 +7622,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/stack'>Stack</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>857</td>
@@ -5937,6 +7631,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/heap'>Heap</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>858</td>
@@ -5944,6 +7640,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>859</td>
@@ -5951,6 +7649,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>860</td>
@@ -5958,6 +7658,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>861</td>
@@ -5965,6 +7667,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>862</td>
@@ -5972,6 +7676,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/binary-search'>Binary Search</a>, <a href='https://leetcode.com/tag/queue'>Queue</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>863</td>
@@ -5979,6 +7685,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>710</td>
@@ -5986,6 +7694,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/binary-search'>Binary Search</a>, <a href='https://leetcode.com/tag/sort'>Sort</a>, <a href='https://leetcode.com/tag/random'>Random</a></td>
+      <td><a href='https://leetcode.com/problems/random-pick-index'>Random Pick Index</a>, <a href='https://leetcode.com/problems/random-pick-with-weight'>Random Pick with Weight</a></td>
     </tr>
     <tr>
       <td>864</td>
@@ -5993,6 +7703,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/heap'>Heap</a>, <a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>865</td>
@@ -6000,6 +7712,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>866</td>
@@ -6007,6 +7721,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>867</td>
@@ -6014,6 +7730,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>868</td>
@@ -6021,6 +7739,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>869</td>
@@ -6028,6 +7748,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>870</td>
@@ -6035,6 +7757,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>871</td>
@@ -6042,6 +7766,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/heap'>Heap</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>470</td>
@@ -6049,6 +7775,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/random'>Random</a>, <a href='https://leetcode.com/tag/rejection-sampling'>Rejection Sampling</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>872</td>
@@ -6056,6 +7784,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>873</td>
@@ -6063,6 +7793,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/fibonacci-number'>Fibonacci Number</a></td>
     </tr>
     <tr>
       <td>874</td>
@@ -6070,6 +7802,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>875</td>
@@ -6077,6 +7811,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td><a href='https://leetcode.com/problems/minimize-max-distance-to-gas-station'>Minimize Max Distance to Gas Station</a></td>
     </tr>
     <tr>
       <td>876</td>
@@ -6084,6 +7820,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/linked-list'>Linked List</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>877</td>
@@ -6091,6 +7829,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/minimax'>Minimax</a></td>
+      <td><a href='https://leetcode.com/problems/stone-game-v'>Stone Game V</a></td>
     </tr>
     <tr>
       <td>878</td>
@@ -6098,6 +7838,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>879</td>
@@ -6105,6 +7847,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>528</td>
@@ -6112,6 +7856,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/binary-search'>Binary Search</a>, <a href='https://leetcode.com/tag/random'>Random</a></td>
+      <td><a href='https://leetcode.com/problems/random-pick-index'>Random Pick Index</a>, <a href='https://leetcode.com/problems/random-pick-with-blacklist'>Random Pick with Blacklist</a>, <a href='https://leetcode.com/problems/random-point-in-non-overlapping-rectangles'>Random Point in Non-overlapping Rectangles</a></td>
     </tr>
     <tr>
       <td>519</td>
@@ -6119,6 +7865,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/random'>Random</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>497</td>
@@ -6126,6 +7874,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/binary-search'>Binary Search</a>, <a href='https://leetcode.com/tag/random'>Random</a></td>
+      <td><a href='https://leetcode.com/problems/random-pick-with-weight'>Random Pick with Weight</a>, <a href='https://leetcode.com/problems/generate-random-point-in-a-circle'>Generate Random Point in a Circle</a></td>
     </tr>
     <tr>
       <td>478</td>
@@ -6133,6 +7883,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/random'>Random</a>, <a href='https://leetcode.com/tag/rejection-sampling'>Rejection Sampling</a></td>
+      <td><a href='https://leetcode.com/problems/random-point-in-non-overlapping-rectangles'>Random Point in Non-overlapping Rectangles</a></td>
     </tr>
     <tr>
       <td>880</td>
@@ -6140,6 +7892,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/stack'>Stack</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>881</td>
@@ -6147,6 +7901,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a>, <a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>882</td>
@@ -6154,6 +7910,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/heap'>Heap</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>883</td>
@@ -6161,6 +7919,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>884</td>
@@ -6168,6 +7928,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>885</td>
@@ -6175,6 +7937,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td><a href='https://leetcode.com/problems/spiral-matrix'>Spiral Matrix</a>, <a href='https://leetcode.com/problems/spiral-matrix-ii'>Spiral Matrix II</a></td>
     </tr>
     <tr>
       <td>886</td>
@@ -6182,6 +7946,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/graph'>Graph</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>887</td>
@@ -6189,6 +7955,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/binary-search'>Binary Search</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>888</td>
@@ -6196,6 +7964,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>889</td>
@@ -6203,6 +7973,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>890</td>
@@ -6210,6 +7982,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>891</td>
@@ -6217,6 +7991,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>892</td>
@@ -6224,6 +8000,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/geometry'>Geometry</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>893</td>
@@ -6231,6 +8009,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>894</td>
@@ -6238,6 +8018,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/recursion'>Recursion</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>895</td>
@@ -6245,6 +8027,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/stack'>Stack</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>896</td>
@@ -6252,6 +8036,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>897</td>
@@ -6259,6 +8045,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>898</td>
@@ -6266,6 +8054,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/bit-manipulation'>Bit Manipulation</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>899</td>
@@ -6273,6 +8063,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>900</td>
@@ -6280,6 +8072,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>901</td>
@@ -6287,6 +8081,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/stack'>Stack</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>902</td>
@@ -6294,6 +8090,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>903</td>
@@ -6301,6 +8099,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/divide-and-conquer'>Divide and Conquer</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>904</td>
@@ -6308,6 +8108,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>905</td>
@@ -6315,6 +8117,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>906</td>
@@ -6322,6 +8126,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>907</td>
@@ -6329,6 +8135,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/stack'>Stack</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>908</td>
@@ -6336,6 +8144,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>909</td>
@@ -6343,6 +8153,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>910</td>
@@ -6350,6 +8162,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>911</td>
@@ -6357,6 +8171,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td><a href='https://leetcode.com/problems/rank-teams-by-votes'>Rank Teams by Votes</a></td>
     </tr>
     <tr>
       <td>912</td>
@@ -6364,6 +8180,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>913</td>
@@ -6371,6 +8189,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a>, <a href='https://leetcode.com/tag/minimax'>Minimax</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>914</td>
@@ -6378,6 +8198,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>915</td>
@@ -6385,6 +8207,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>916</td>
@@ -6392,6 +8216,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>917</td>
@@ -6399,6 +8225,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>918</td>
@@ -6406,6 +8234,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>919</td>
@@ -6413,6 +8243,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>920</td>
@@ -6420,6 +8252,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>921</td>
@@ -6427,6 +8261,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/stack'>Stack</a>, <a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>922</td>
@@ -6434,6 +8270,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/sort'>Sort</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>923</td>
@@ -6441,6 +8279,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>924</td>
@@ -6448,6 +8288,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/union-find'>Union Find</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>925</td>
@@ -6455,6 +8297,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a>, <a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>926</td>
@@ -6462,6 +8306,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>927</td>
@@ -6469,6 +8315,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/binary-search'>Binary Search</a>, <a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>928</td>
@@ -6476,6 +8324,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/union-find'>Union Find</a>, <a href='https://leetcode.com/tag/graph'>Graph</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>929</td>
@@ -6483,6 +8333,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>930</td>
@@ -6490,6 +8342,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>931</td>
@@ -6497,6 +8351,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/minimum-falling-path-sum-ii'>Minimum Falling Path Sum II</a></td>
     </tr>
     <tr>
       <td>932</td>
@@ -6504,6 +8360,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/divide-and-conquer'>Divide and Conquer</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>933</td>
@@ -6511,6 +8369,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/queue'>Queue</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>934</td>
@@ -6518,6 +8378,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>935</td>
@@ -6525,6 +8387,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>936</td>
@@ -6532,6 +8396,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>937</td>
@@ -6539,6 +8405,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>938</td>
@@ -6546,6 +8414,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/recursion'>Recursion</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>939</td>
@@ -6553,6 +8423,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>940</td>
@@ -6560,6 +8432,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>941</td>
@@ -6567,6 +8441,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>942</td>
@@ -6574,6 +8450,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>943</td>
@@ -6581,6 +8459,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>944</td>
@@ -6588,6 +8468,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>945</td>
@@ -6595,6 +8477,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>946</td>
@@ -6602,6 +8486,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/stack'>Stack</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>947</td>
@@ -6609,6 +8495,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/union-find'>Union Find</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>948</td>
@@ -6616,6 +8504,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>949</td>
@@ -6623,6 +8513,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>950</td>
@@ -6630,6 +8522,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>951</td>
@@ -6637,6 +8531,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>952</td>
@@ -6644,6 +8540,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/union-find'>Union Find</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>953</td>
@@ -6651,6 +8549,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>954</td>
@@ -6658,6 +8558,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/hash-table'>Hash Table</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>955</td>
@@ -6665,6 +8567,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>956</td>
@@ -6672,6 +8576,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>957</td>
@@ -6679,6 +8585,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>958</td>
@@ -6686,6 +8594,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>959</td>
@@ -6693,6 +8603,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/union-find'>Union Find</a>, <a href='https://leetcode.com/tag/graph'>Graph</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>960</td>
@@ -6700,6 +8612,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>961</td>
@@ -6707,6 +8621,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>962</td>
@@ -6714,6 +8630,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>963</td>
@@ -6721,6 +8639,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/geometry'>Geometry</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>964</td>
@@ -6728,6 +8648,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>965</td>
@@ -6735,6 +8657,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td><a href='https://leetcode.com/problems/find-all-the-lonely-nodes'>Find All The Lonely Nodes</a></td>
     </tr>
     <tr>
       <td>966</td>
@@ -6742,6 +8666,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>967</td>
@@ -6749,6 +8675,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>968</td>
@@ -6756,6 +8684,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/distribute-coins-in-binary-tree'>Distribute Coins in Binary Tree</a></td>
     </tr>
     <tr>
       <td>969</td>
@@ -6763,6 +8693,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/sort'>Sort</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>970</td>
@@ -6770,6 +8702,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>971</td>
@@ -6777,6 +8711,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>972</td>
@@ -6784,6 +8720,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>509</td>
@@ -6791,6 +8729,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td><a href='https://leetcode.com/problems/climbing-stairs'>Climbing Stairs</a>, <a href='https://leetcode.com/problems/split-array-into-fibonacci-sequence'>Split Array into Fibonacci Sequence</a>, <a href='https://leetcode.com/problems/length-of-longest-fibonacci-subsequence'>Length of Longest Fibonacci Subsequence</a>, <a href='https://leetcode.com/problems/n-th-tribonacci-number'>N-th Tribonacci Number</a></td>
     </tr>
     <tr>
       <td>973</td>
@@ -6798,6 +8738,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/divide-and-conquer'>Divide and Conquer</a>, <a href='https://leetcode.com/tag/heap'>Heap</a>, <a href='https://leetcode.com/tag/sort'>Sort</a></td>
+      <td><a href='https://leetcode.com/problems/kth-largest-element-in-an-array'>Kth Largest Element in an Array</a>, <a href='https://leetcode.com/problems/top-k-frequent-elements'>Top K Frequent Elements</a>, <a href='https://leetcode.com/problems/top-k-frequent-words'>Top K Frequent Words</a></td>
     </tr>
     <tr>
       <td>974</td>
@@ -6805,6 +8747,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/hash-table'>Hash Table</a></td>
+      <td><a href='https://leetcode.com/problems/subarray-sum-equals-k'>Subarray Sum Equals K</a></td>
     </tr>
     <tr>
       <td>975</td>
@@ -6812,6 +8756,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/stack'>Stack</a>, <a href='https://leetcode.com/tag/ordered-map'>Ordered Map</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>976</td>
@@ -6819,6 +8765,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/sort'>Sort</a></td>
+      <td><a href='https://leetcode.com/problems/largest-triangle-area'>Largest Triangle Area</a></td>
     </tr>
     <tr>
       <td>977</td>
@@ -6826,6 +8774,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a></td>
+      <td><a href='https://leetcode.com/problems/merge-sorted-array'>Merge Sorted Array</a>, <a href='https://leetcode.com/problems/sort-transformed-array'>Sort Transformed Array</a></td>
     </tr>
     <tr>
       <td>978</td>
@@ -6833,6 +8783,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/sliding-window'>Sliding Window</a></td>
+      <td><a href='https://leetcode.com/problems/maximum-subarray'>Maximum Subarray</a></td>
     </tr>
     <tr>
       <td>979</td>
@@ -6840,6 +8792,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/sum-of-distances-in-tree'>Sum of Distances in Tree</a>, <a href='https://leetcode.com/problems/binary-tree-cameras'>Binary Tree Cameras</a></td>
     </tr>
     <tr>
       <td>980</td>
@@ -6847,6 +8801,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/backtracking'>Backtracking</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/sudoku-solver'>Sudoku Solver</a>, <a href='https://leetcode.com/problems/unique-paths-ii'>Unique Paths II</a>, <a href='https://leetcode.com/problems/word-search-ii'>Word Search II</a></td>
     </tr>
     <tr>
       <td>981</td>
@@ -6854,6 +8810,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>982</td>
@@ -6861,6 +8819,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>983</td>
@@ -6868,6 +8828,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/coin-change'>Coin Change</a></td>
     </tr>
     <tr>
       <td>984</td>
@@ -6875,6 +8837,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>985</td>
@@ -6882,6 +8846,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>986</td>
@@ -6889,6 +8855,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a></td>
+      <td><a href='https://leetcode.com/problems/merge-intervals'>Merge Intervals</a>, <a href='https://leetcode.com/problems/merge-sorted-array'>Merge Sorted Array</a>, <a href='https://leetcode.com/problems/employee-free-time'>Employee Free Time</a></td>
     </tr>
     <tr>
       <td>987</td>
@@ -6896,6 +8864,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>988</td>
@@ -6903,6 +8873,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/sum-root-to-leaf-numbers'>Sum Root to Leaf Numbers</a>, <a href='https://leetcode.com/problems/binary-tree-paths'>Binary Tree Paths</a></td>
     </tr>
     <tr>
       <td>989</td>
@@ -6910,6 +8882,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td><a href='https://leetcode.com/problems/add-two-numbers'>Add Two Numbers</a>, <a href='https://leetcode.com/problems/plus-one'>Plus One</a>, <a href='https://leetcode.com/problems/add-binary'>Add Binary</a>, <a href='https://leetcode.com/problems/add-strings'>Add Strings</a></td>
     </tr>
     <tr>
       <td>990</td>
@@ -6917,6 +8891,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/union-find'>Union Find</a>, <a href='https://leetcode.com/tag/graph'>Graph</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>991</td>
@@ -6924,6 +8900,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td><a href='https://leetcode.com/problems/2-keys-keyboard'>2 Keys Keyboard</a></td>
     </tr>
     <tr>
       <td>992</td>
@@ -6931,6 +8909,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a>, <a href='https://leetcode.com/tag/sliding-window'>Sliding Window</a></td>
+      <td><a href='https://leetcode.com/problems/longest-substring-without-repeating-characters'>Longest Substring Without Repeating Characters</a>, <a href='https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters'>Longest Substring with At Most Two Distinct Characters</a>, <a href='https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters'>Longest Substring with At Most K Distinct Characters</a></td>
     </tr>
     <tr>
       <td>993</td>
@@ -6938,6 +8918,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/binary-tree-level-order-traversal'>Binary Tree Level Order Traversal</a></td>
     </tr>
     <tr>
       <td>994</td>
@@ -6945,6 +8927,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/walls-and-gates'>Walls and Gates</a></td>
     </tr>
     <tr>
       <td>995</td>
@@ -6952,6 +8936,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/greedy'>Greedy</a>, <a href='https://leetcode.com/tag/sliding-window'>Sliding Window</a></td>
+      <td><a href='https://leetcode.com/problems/bulb-switcher'>Bulb Switcher</a></td>
     </tr>
     <tr>
       <td>996</td>
@@ -6959,6 +8945,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/backtracking'>Backtracking</a>, <a href='https://leetcode.com/tag/graph'>Graph</a></td>
+      <td><a href='https://leetcode.com/problems/permutations-ii'>Permutations II</a></td>
     </tr>
     <tr>
       <td>997</td>
@@ -6966,6 +8954,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/graph'>Graph</a></td>
+      <td><a href='https://leetcode.com/problems/find-the-celebrity'>Find the Celebrity</a></td>
     </tr>
     <tr>
       <td>998</td>
@@ -6973,6 +8963,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td><a href='https://leetcode.com/problems/maximum-binary-tree'>Maximum Binary Tree</a></td>
     </tr>
     <tr>
       <td>999</td>
@@ -6980,6 +8972,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1000</td>
@@ -6987,6 +8981,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/burst-balloons'>Burst Balloons</a>, <a href='https://leetcode.com/problems/minimum-cost-to-connect-sticks'>Minimum Cost to Connect Sticks</a></td>
     </tr>
     <tr>
       <td>1001</td>
@@ -6994,6 +8990,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a></td>
+      <td><a href='https://leetcode.com/problems/n-queens'>N-Queens</a></td>
     </tr>
     <tr>
       <td>1002</td>
@@ -7001,6 +8999,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/hash-table'>Hash Table</a></td>
+      <td><a href='https://leetcode.com/problems/intersection-of-two-arrays-ii'>Intersection of Two Arrays II</a></td>
     </tr>
     <tr>
       <td>1003</td>
@@ -7008,6 +9008,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/stack'>Stack</a></td>
+      <td><a href='https://leetcode.com/problems/valid-parentheses'>Valid Parentheses</a></td>
     </tr>
     <tr>
       <td>1004</td>
@@ -7015,6 +9017,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a>, <a href='https://leetcode.com/tag/sliding-window'>Sliding Window</a></td>
+      <td><a href='https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters'>Longest Substring with At Most K Distinct Characters</a>, <a href='https://leetcode.com/problems/longest-repeating-character-replacement'>Longest Repeating Character Replacement</a>, <a href='https://leetcode.com/problems/max-consecutive-ones'>Max Consecutive Ones</a>, <a href='https://leetcode.com/problems/max-consecutive-ones-ii'>Max Consecutive Ones II</a></td>
     </tr>
     <tr>
       <td>1005</td>
@@ -7022,6 +9026,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1006</td>
@@ -7029,6 +9035,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1007</td>
@@ -7036,6 +9044,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1008</td>
@@ -7043,6 +9053,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1055</td>
@@ -7050,6 +9062,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td><a href='https://leetcode.com/problems/is-subsequence'>Is Subsequence</a>, <a href='https://leetcode.com/problems/number-of-matching-subsequences'>Number of Matching Subsequences</a></td>
     </tr>
     <tr>
       <td>1057</td>
@@ -7057,6 +9071,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/greedy'>Greedy</a>, <a href='https://leetcode.com/tag/sort'>Sort</a></td>
+      <td><a href='https://leetcode.com/problems/campus-bikes-ii'>Campus Bikes II</a></td>
     </tr>
     <tr>
       <td>1058</td>
@@ -7064,6 +9080,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1009</td>
@@ -7071,6 +9089,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1010</td>
@@ -7078,6 +9098,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1011</td>
@@ -7085,6 +9107,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1012</td>
@@ -7092,6 +9116,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1061</td>
@@ -7099,6 +9125,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/union-find'>Union Find</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1060</td>
@@ -7106,6 +9134,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1062</td>
@@ -7113,6 +9143,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1063</td>
@@ -7120,6 +9152,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/stack'>Stack</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1013</td>
@@ -7127,6 +9161,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1014</td>
@@ -7134,6 +9170,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1015</td>
@@ -7141,6 +9179,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1016</td>
@@ -7148,6 +9188,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1064</td>
@@ -7155,6 +9197,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1066</td>
@@ -7162,6 +9206,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/backtracking'>Backtracking</a></td>
+      <td><a href='https://leetcode.com/problems/campus-bikes'>Campus Bikes</a></td>
     </tr>
     <tr>
       <td>1067</td>
@@ -7169,6 +9215,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/number-of-digit-one'>Number of Digit One</a></td>
     </tr>
     <tr>
       <td>1056</td>
@@ -7176,6 +9224,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td><a href='https://leetcode.com/problems/strobogrammatic-number'>Strobogrammatic Number</a>, <a href='https://leetcode.com/problems/confusing-number-ii'>Confusing Number II</a></td>
     </tr>
     <tr>
       <td>1017</td>
@@ -7183,6 +9233,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td><a href='https://leetcode.com/problems/encode-number'>Encode Number</a></td>
     </tr>
     <tr>
       <td>1018</td>
@@ -7190,6 +9242,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1019</td>
@@ -7197,6 +9251,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/linked-list'>Linked List</a>, <a href='https://leetcode.com/tag/stack'>Stack</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1020</td>
@@ -7204,6 +9260,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1086</td>
@@ -7211,6 +9269,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/sort'>Sort</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1065</td>
@@ -7218,6 +9278,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/trie'>Trie</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1087</td>
@@ -7225,6 +9287,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/backtracking'>Backtracking</a></td>
+      <td><a href='https://leetcode.com/problems/decode-string'>Decode String</a>, <a href='https://leetcode.com/problems/letter-case-permutation'>Letter Case Permutation</a>, <a href='https://leetcode.com/problems/brace-expansion-ii'>Brace Expansion II</a></td>
     </tr>
     <tr>
       <td>1088</td>
@@ -7232,6 +9296,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/backtracking'>Backtracking</a></td>
+      <td><a href='https://leetcode.com/problems/confusing-number'>Confusing Number</a></td>
     </tr>
     <tr>
       <td>1021</td>
@@ -7239,6 +9305,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/stack'>Stack</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1022</td>
@@ -7246,6 +9314,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1023</td>
@@ -7253,6 +9323,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/trie'>Trie</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1024</td>
@@ -7260,6 +9332,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1085</td>
@@ -7267,6 +9341,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td><a href='https://leetcode.com/problems/add-digits'>Add Digits</a></td>
     </tr>
     <tr>
       <td>1099</td>
@@ -7274,6 +9350,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td><a href='https://leetcode.com/problems/two-sum'>Two Sum</a>, <a href='https://leetcode.com/problems/two-sum-ii-input-array-is-sorted'>Two Sum II - Input array is sorted</a>, <a href='https://leetcode.com/problems/3sum-smaller'>3Sum Smaller</a>, <a href='https://leetcode.com/problems/subarray-product-less-than-k'>Subarray Product Less Than K</a></td>
     </tr>
     <tr>
       <td>1100</td>
@@ -7281,6 +9359,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/sliding-window'>Sliding Window</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1101</td>
@@ -7288,6 +9368,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/union-find'>Union Find</a></td>
+      <td><a href='https://leetcode.com/problems/friend-circles'>Friend Circles</a></td>
     </tr>
     <tr>
       <td>1025</td>
@@ -7295,6 +9377,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1027</td>
@@ -7302,6 +9386,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1118</td>
@@ -7309,6 +9395,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1119</td>
@@ -7316,6 +9404,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td><a href='https://leetcode.com/problems/reverse-vowels-of-a-string'>Reverse Vowels of a String</a></td>
     </tr>
     <tr>
       <td>1134</td>
@@ -7323,6 +9413,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1120</td>
@@ -7330,6 +9422,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1026</td>
@@ -7337,6 +9431,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1028</td>
@@ -7344,6 +9440,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1030</td>
@@ -7351,6 +9449,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/sort'>Sort</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1029</td>
@@ -7358,6 +9458,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1031</td>
@@ -7365,6 +9467,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1032</td>
@@ -7372,6 +9476,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/trie'>Trie</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1133</td>
@@ -7379,6 +9485,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/hash-table'>Hash Table</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1102</td>
@@ -7386,6 +9494,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/union-find'>Union Find</a>, <a href='https://leetcode.com/tag/graph'>Graph</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1135</td>
@@ -7393,6 +9503,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/union-find'>Union Find</a>, <a href='https://leetcode.com/tag/graph'>Graph</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1136</td>
@@ -7400,6 +9512,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/graph'>Graph</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1150</td>
@@ -7407,6 +9521,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td><a href='https://leetcode.com/problems/majority-element'>Majority Element</a>, <a href='https://leetcode.com/problems/majority-element-ii'>Majority Element II</a></td>
     </tr>
     <tr>
       <td>1033</td>
@@ -7414,6 +9530,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/brainteaser'>Brainteaser</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1034</td>
@@ -7421,6 +9539,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/island-perimeter'>Island Perimeter</a></td>
     </tr>
     <tr>
       <td>1035</td>
@@ -7428,6 +9548,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td><a href='https://leetcode.com/problems/edit-distance'>Edit Distance</a></td>
     </tr>
     <tr>
       <td>1036</td>
@@ -7435,6 +9557,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1151</td>
@@ -7442,6 +9566,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/sliding-window'>Sliding Window</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1152</td>
@@ -7449,6 +9575,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/sort'>Sort</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1039</td>
@@ -7456,6 +9584,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1160</td>
@@ -7463,6 +9593,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/hash-table'>Hash Table</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1040</td>
@@ -7470,6 +9602,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/sliding-window'>Sliding Window</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1038</td>
@@ -7477,6 +9611,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/binary-search-tree'>Binary Search Tree</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1037</td>
@@ -7484,6 +9620,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1161</td>
@@ -7491,6 +9629,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/graph'>Graph</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1162</td>
@@ -7498,6 +9638,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a>, <a href='https://leetcode.com/tag/graph'>Graph</a></td>
+      <td><a href='https://leetcode.com/problems/shortest-distance-from-all-buildings'>Shortest Distance from All Buildings</a></td>
     </tr>
     <tr>
       <td>1121</td>
@@ -7505,6 +9647,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1041</td>
@@ -7512,6 +9656,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1042</td>
@@ -7519,6 +9665,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/graph'>Graph</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1043</td>
@@ -7526,6 +9674,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1044</td>
@@ -7533,6 +9683,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1165</td>
@@ -7540,6 +9692,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1153</td>
@@ -7547,6 +9701,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/graph'>Graph</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1166</td>
@@ -7554,6 +9710,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/design'>Design</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1167</td>
@@ -7561,6 +9719,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td><a href='https://leetcode.com/problems/minimum-cost-to-merge-stones'>Minimum Cost to Merge Stones</a></td>
     </tr>
     <tr>
       <td>1046</td>
@@ -7568,6 +9728,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/heap'>Heap</a>, <a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1047</td>
@@ -7575,6 +9737,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/stack'>Stack</a></td>
+      <td><a href='https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii'>Remove All Adjacent Duplicates in String II</a></td>
     </tr>
     <tr>
       <td>1048</td>
@@ -7582,6 +9746,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1049</td>
@@ -7589,6 +9755,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1180</td>
@@ -7596,6 +9764,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1181</td>
@@ -7603,6 +9773,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1163</td>
@@ -7610,6 +9782,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/suffix-array'>Suffix Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1182</td>
@@ -7617,6 +9791,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1045</td>
@@ -7624,6 +9800,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1050</td>
@@ -7631,6 +9809,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1051</td>
@@ -7638,6 +9818,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1052</td>
@@ -7645,6 +9827,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/sliding-window'>Sliding Window</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1053</td>
@@ -7652,6 +9836,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1054</td>
@@ -7659,6 +9845,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/heap'>Heap</a>, <a href='https://leetcode.com/tag/sort'>Sort</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1196</td>
@@ -7666,6 +9854,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1197</td>
@@ -7673,6 +9863,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1198</td>
@@ -7680,6 +9872,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1168</td>
@@ -7687,6 +9881,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/union-find'>Union Find</a>, <a href='https://leetcode.com/tag/graph'>Graph</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1074</td>
@@ -7694,6 +9890,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/sliding-window'>Sliding Window</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1071</td>
@@ -7701,6 +9899,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1072</td>
@@ -7708,6 +9908,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1073</td>
@@ -7715,6 +9917,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1213</td>
@@ -7722,6 +9926,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a></td>
+      <td><a href='https://leetcode.com/problems/intersection-of-two-arrays'>Intersection of Two Arrays</a></td>
     </tr>
     <tr>
       <td>1214</td>
@@ -7729,6 +9935,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/binary-search-tree'>Binary Search Tree</a></td>
+      <td><a href='https://leetcode.com/problems/two-sum-iv-input-is-a-bst'>Two Sum IV - Input is a BST</a></td>
     </tr>
     <tr>
       <td>1215</td>
@@ -7736,6 +9944,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/backtracking'>Backtracking</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1183</td>
@@ -7743,6 +9953,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/sort'>Sort</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1068</td>
@@ -7750,6 +9962,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td><a href='https://leetcode.com/problems/product-sales-analysis-ii'>Product Sales Analysis II</a></td>
     </tr>
     <tr>
       <td>1069</td>
@@ -7757,6 +9971,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td><a href='https://leetcode.com/problems/product-sales-analysis-i'>Product Sales Analysis I</a>, <a href='https://leetcode.com/problems/product-sales-analysis-iii'>Product Sales Analysis III</a></td>
     </tr>
     <tr>
       <td>1070</td>
@@ -7764,6 +9980,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td><a href='https://leetcode.com/problems/product-sales-analysis-ii'>Product Sales Analysis II</a></td>
     </tr>
     <tr>
       <td>1078</td>
@@ -7771,6 +9989,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1080</td>
@@ -7778,6 +9998,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1081</td>
@@ -7785,6 +10007,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1079</td>
@@ -7792,6 +10016,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/backtracking'>Backtracking</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1075</td>
@@ -7799,6 +10025,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td><a href='https://leetcode.com/problems/project-employees-ii'>Project Employees II</a></td>
     </tr>
     <tr>
       <td>1076</td>
@@ -7806,6 +10034,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td><a href='https://leetcode.com/problems/project-employees-i'>Project Employees I</a>, <a href='https://leetcode.com/problems/project-employees-iii'>Project Employees III</a></td>
     </tr>
     <tr>
       <td>1077</td>
@@ -7813,6 +10043,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td><a href='https://leetcode.com/problems/project-employees-ii'>Project Employees II</a></td>
     </tr>
     <tr>
       <td>1228</td>
@@ -7820,6 +10052,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1229</td>
@@ -7827,6 +10061,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/line-sweep'>Line Sweep</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1230</td>
@@ -7834,6 +10070,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1199</td>
@@ -7841,6 +10079,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1089</td>
@@ -7848,6 +10088,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1090</td>
@@ -7855,6 +10097,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1092</td>
@@ -7862,6 +10106,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/longest-common-subsequence'>Longest Common Subsequence</a></td>
     </tr>
     <tr>
       <td>1091</td>
@@ -7869,6 +10115,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1082</td>
@@ -7876,6 +10124,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td><a href='https://leetcode.com/problems/sales-analysis-ii'>Sales Analysis II</a></td>
     </tr>
     <tr>
       <td>1083</td>
@@ -7883,6 +10133,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td><a href='https://leetcode.com/problems/sales-analysis-i'>Sales Analysis I</a>, <a href='https://leetcode.com/problems/sales-analysis-iii'>Sales Analysis III</a></td>
     </tr>
     <tr>
       <td>1084</td>
@@ -7890,6 +10142,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td><a href='https://leetcode.com/problems/sales-analysis-ii'>Sales Analysis II</a></td>
     </tr>
     <tr>
       <td>1243</td>
@@ -7897,6 +10151,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1244</td>
@@ -7904,6 +10160,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/sort'>Sort</a>, <a href='https://leetcode.com/tag/design'>Design</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1245</td>
@@ -7911,6 +10169,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1216</td>
@@ -7918,6 +10178,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>511</td>
@@ -7925,6 +10187,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td><a href='https://leetcode.com/problems/game-play-analysis-ii'>Game Play Analysis II</a></td>
     </tr>
     <tr>
       <td>512</td>
@@ -7932,6 +10196,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td><a href='https://leetcode.com/problems/game-play-analysis-i'>Game Play Analysis I</a>, <a href='https://leetcode.com/problems/game-play-analysis-iii'>Game Play Analysis III</a></td>
     </tr>
     <tr>
       <td>534</td>
@@ -7939,6 +10205,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td><a href='https://leetcode.com/problems/game-play-analysis-ii'>Game Play Analysis II</a>, <a href='https://leetcode.com/problems/game-play-analysis-iv'>Game Play Analysis IV</a></td>
     </tr>
     <tr>
       <td>550</td>
@@ -7946,6 +10214,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td><a href='https://leetcode.com/problems/game-play-analysis-iii'>Game Play Analysis III</a>, <a href='https://leetcode.com/problems/game-play-analysis-v'>Game Play Analysis V</a></td>
     </tr>
     <tr>
       <td>1093</td>
@@ -7953,6 +10223,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1094</td>
@@ -7960,6 +10232,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td><a href='https://leetcode.com/problems/meeting-rooms-ii'>Meeting Rooms II</a></td>
     </tr>
     <tr>
       <td>1095</td>
@@ -7967,6 +10241,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td><a href='https://leetcode.com/problems/peak-index-in-a-mountain-array'>Peak Index in a Mountain Array</a></td>
     </tr>
     <tr>
       <td>1117</td>
@@ -7974,6 +10250,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1115</td>
@@ -7981,6 +10259,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td><a href='https://leetcode.com/problems/print-in-order'>Print in Order</a>, <a href='https://leetcode.com/problems/print-zero-even-odd'>Print Zero Even Odd</a></td>
     </tr>
     <tr>
       <td>1096</td>
@@ -7988,6 +10268,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td><a href='https://leetcode.com/problems/brace-expansion'>Brace Expansion</a></td>
     </tr>
     <tr>
       <td>1256</td>
@@ -7995,6 +10277,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/bit-manipulation'>Bit Manipulation</a></td>
+      <td><a href='https://leetcode.com/problems/convert-to-base-2'>Convert to Base -2</a></td>
     </tr>
     <tr>
       <td>1257</td>
@@ -8002,6 +10286,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td><a href='https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree'>Lowest Common Ancestor of a Binary Search Tree</a>, <a href='https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree'>Lowest Common Ancestor of a Binary Tree</a></td>
     </tr>
     <tr>
       <td>1258</td>
@@ -8009,6 +10295,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/backtracking'>Backtracking</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1231</td>
@@ -8016,6 +10304,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/binary-search'>Binary Search</a>, <a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1097</td>
@@ -8023,6 +10313,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td><a href='https://leetcode.com/problems/game-play-analysis-iv'>Game Play Analysis IV</a></td>
     </tr>
     <tr>
       <td>1104</td>
@@ -8030,6 +10322,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1103</td>
@@ -8037,6 +10331,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1105</td>
@@ -8044,6 +10340,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1106</td>
@@ -8051,6 +10349,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1098</td>
@@ -8058,6 +10358,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1271</td>
@@ -8065,6 +10367,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1272</td>
@@ -8072,6 +10376,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/line-sweep'>Line Sweep</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1273</td>
@@ -8079,6 +10385,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1246</td>
@@ -8086,6 +10394,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1114</td>
@@ -8093,6 +10403,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td><a href='https://leetcode.com/problems/print-foobar-alternately'>Print FooBar Alternately</a></td>
     </tr>
     <tr>
       <td>1107</td>
@@ -8100,6 +10412,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1108</td>
@@ -8107,6 +10421,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1109</td>
@@ -8114,6 +10430,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1110</td>
@@ -8121,6 +10439,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1111</td>
@@ -8128,6 +10448,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/binary-search'>Binary Search</a>, <a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1188</td>
@@ -8135,6 +10457,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1286</td>
@@ -8142,6 +10466,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/backtracking'>Backtracking</a>, <a href='https://leetcode.com/tag/design'>Design</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1291</td>
@@ -8149,6 +10475,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/backtracking'>Backtracking</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1259</td>
@@ -8156,6 +10484,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1112</td>
@@ -8163,6 +10493,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td><a href='https://leetcode.com/problems/department-highest-salary'>Department Highest Salary</a></td>
     </tr>
     <tr>
       <td>1113</td>
@@ -8170,6 +10502,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1116</td>
@@ -8177,6 +10511,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td><a href='https://leetcode.com/problems/print-foobar-alternately'>Print FooBar Alternately</a>, <a href='https://leetcode.com/problems/fizz-buzz-multithreaded'>Fizz Buzz Multithreaded</a></td>
     </tr>
     <tr>
       <td>1122</td>
@@ -8184,6 +10520,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/sort'>Sort</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1123</td>
@@ -8191,6 +10529,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1124</td>
@@ -8198,6 +10538,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/stack'>Stack</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1125</td>
@@ -8205,6 +10547,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/bit-manipulation'>Bit Manipulation</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1287</td>
@@ -8212,6 +10556,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1288</td>
@@ -8219,6 +10565,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/line-sweep'>Line Sweep</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1289</td>
@@ -8226,6 +10574,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/minimum-falling-path-sum'>Minimum Falling Path Sum</a></td>
     </tr>
     <tr>
       <td>1126</td>
@@ -8233,6 +10583,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1127</td>
@@ -8240,6 +10592,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1128</td>
@@ -8247,6 +10601,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1130</td>
@@ -8254,6 +10610,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/stack'>Stack</a>, <a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1129</td>
@@ -8261,6 +10619,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a>, <a href='https://leetcode.com/tag/graph'>Graph</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1131</td>
@@ -8268,6 +10628,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/bit-manipulation'>Bit Manipulation</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1299</td>
@@ -8275,6 +10637,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1300</td>
@@ -8282,6 +10646,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1274</td>
@@ -8289,6 +10655,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/divide-and-conquer'>Divide and Conquer</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1301</td>
@@ -8296,6 +10664,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1137</td>
@@ -8303,6 +10673,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/recursion'>Recursion</a></td>
+      <td><a href='https://leetcode.com/problems/climbing-stairs'>Climbing Stairs</a>, <a href='https://leetcode.com/problems/fibonacci-number'>Fibonacci Number</a></td>
     </tr>
     <tr>
       <td>1132</td>
@@ -8310,6 +10682,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1138</td>
@@ -8317,6 +10691,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1139</td>
@@ -8324,6 +10700,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1140</td>
@@ -8331,6 +10709,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/stone-game-v'>Stone Game V</a></td>
     </tr>
     <tr>
       <td>1313</td>
@@ -8338,6 +10718,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td><a href='https://leetcode.com/problems/string-compression'>String Compression</a></td>
     </tr>
     <tr>
       <td>1314</td>
@@ -8345,6 +10727,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1315</td>
@@ -8352,6 +10736,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1316</td>
@@ -8359,6 +10745,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/rolling-hash'>Rolling Hash</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1141</td>
@@ -8366,6 +10754,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1142</td>
@@ -8373,6 +10763,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1144</td>
@@ -8380,6 +10772,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1145</td>
@@ -8387,6 +10781,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1146</td>
@@ -8394,6 +10790,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1143</td>
@@ -8401,6 +10799,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/longest-palindromic-subsequence'>Longest Palindromic Subsequence</a>, <a href='https://leetcode.com/problems/delete-operation-for-two-strings'>Delete Operation for Two Strings</a>, <a href='https://leetcode.com/problems/shortest-common-supersequence'>Shortest Common Supersequence </a></td>
     </tr>
     <tr>
       <td>1147</td>
@@ -8408,6 +10808,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/rolling-hash'>Rolling Hash</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1328</td>
@@ -8415,6 +10817,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1329</td>
@@ -8422,6 +10826,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/sort'>Sort</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1302</td>
@@ -8429,6 +10835,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1330</td>
@@ -8436,6 +10844,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1331</td>
@@ -8443,6 +10853,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1148</td>
@@ -8450,6 +10862,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1149</td>
@@ -8457,6 +10871,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1154</td>
@@ -8464,6 +10880,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1156</td>
@@ -8471,6 +10889,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1157</td>
@@ -8478,6 +10898,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/binary-search'>Binary Search</a>, <a href='https://leetcode.com/tag/segment-tree'>Segment Tree</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1155</td>
@@ -8485,6 +10907,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1171</td>
@@ -8492,6 +10916,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/linked-list'>Linked List</a></td>
+      <td><a href='https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list'>Delete N Nodes After M Nodes of a Linked List</a></td>
     </tr>
     <tr>
       <td>1158</td>
@@ -8499,6 +10925,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1159</td>
@@ -8506,6 +10934,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1172</td>
@@ -8513,6 +10943,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/design'>Design</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1236</td>
@@ -8520,6 +10952,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/web-crawler-multithreaded'>Web Crawler Multithreaded</a></td>
     </tr>
     <tr>
       <td>1169</td>
@@ -8527,6 +10961,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1170</td>
@@ -8534,6 +10970,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1360</td>
@@ -8541,6 +10979,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1361</td>
@@ -8548,6 +10988,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/graph'>Graph</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1362</td>
@@ -8555,6 +10997,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1363</td>
@@ -8562,6 +11006,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1164</td>
@@ -8569,6 +11015,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1175</td>
@@ -8576,6 +11024,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1176</td>
@@ -8583,6 +11033,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/sliding-window'>Sliding Window</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1177</td>
@@ -8590,6 +11042,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1178</td>
@@ -8597,6 +11051,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/bit-manipulation'>Bit Manipulation</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1507</td>
@@ -8604,6 +11060,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1390</td>
@@ -8611,6 +11069,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1382</td>
@@ -8618,6 +11078,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/binary-search-tree'>Binary Search Tree</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1425</td>
@@ -8625,6 +11087,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1184</td>
@@ -8632,6 +11096,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1186</td>
@@ -8639,6 +11105,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1185</td>
@@ -8646,6 +11114,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1187</td>
@@ -8653,6 +11123,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1173</td>
@@ -8660,6 +11132,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1174</td>
@@ -8667,6 +11141,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1550</td>
@@ -8674,6 +11150,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1483</td>
@@ -8681,6 +11159,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1189</td>
@@ -8688,6 +11168,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1190</td>
@@ -8695,6 +11177,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/stack'>Stack</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1191</td>
@@ -8702,6 +11186,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1192</td>
@@ -8709,6 +11195,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1179</td>
@@ -8716,6 +11204,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1405</td>
@@ -8723,6 +11213,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1200</td>
@@ -8730,6 +11222,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1201</td>
@@ -8737,6 +11231,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td><a href='https://leetcode.com/problems/ugly-number-ii'>Ugly Number II</a></td>
     </tr>
     <tr>
       <td>1202</td>
@@ -8744,6 +11240,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/union-find'>Union Find</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1203</td>
@@ -8751,6 +11249,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/graph'>Graph</a>, <a href='https://leetcode.com/tag/topological-sort'>Topological Sort</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1195</td>
@@ -8758,6 +11258,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td><a href='https://leetcode.com/problems/fizz-buzz'>Fizz Buzz</a>, <a href='https://leetcode.com/problems/print-zero-even-odd'>Print Zero Even Odd</a></td>
     </tr>
     <tr>
       <td>1193</td>
@@ -8765,6 +11267,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td><a href='https://leetcode.com/problems/monthly-transactions-ii'>Monthly Transactions II</a></td>
     </tr>
     <tr>
       <td>1194</td>
@@ -8772,6 +11276,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1207</td>
@@ -8779,6 +11285,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1209</td>
@@ -8786,6 +11294,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/stack'>Stack</a></td>
+      <td><a href='https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string'>Remove All Adjacent Duplicates In String</a></td>
     </tr>
     <tr>
       <td>1208</td>
@@ -8793,6 +11303,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/sliding-window'>Sliding Window</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1210</td>
@@ -8800,6 +11312,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1514</td>
@@ -8807,6 +11321,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/graph'>Graph</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1204</td>
@@ -8814,6 +11330,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td><a href='https://leetcode.com/problems/running-total-for-different-genders'>Running Total for Different Genders</a></td>
     </tr>
     <tr>
       <td>1205</td>
@@ -8821,6 +11339,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td><a href='https://leetcode.com/problems/monthly-transactions-i'>Monthly Transactions I</a></td>
     </tr>
     <tr>
       <td>1217</td>
@@ -8828,6 +11348,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1218</td>
@@ -8835,6 +11357,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1219</td>
@@ -8842,6 +11366,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/backtracking'>Backtracking</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1220</td>
@@ -8849,6 +11375,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1206</td>
@@ -8856,6 +11384,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/design'>Design</a></td>
+      <td><a href='https://leetcode.com/problems/design-hashset'>Design HashSet</a>, <a href='https://leetcode.com/problems/design-hashmap'>Design HashMap</a>, <a href='https://leetcode.com/problems/design-linked-list'>Design Linked List</a></td>
     </tr>
     <tr>
       <td>1211</td>
@@ -8863,6 +11393,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1212</td>
@@ -8870,6 +11402,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1226</td>
@@ -8877,6 +11411,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1221</td>
@@ -8884,6 +11420,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1222</td>
@@ -8891,6 +11429,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1223</td>
@@ -8898,6 +11438,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1224</td>
@@ -8905,6 +11447,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1427</td>
@@ -8912,6 +11456,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1232</td>
@@ -8919,6 +11465,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/geometry'>Geometry</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1233</td>
@@ -8926,6 +11474,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1234</td>
@@ -8933,6 +11483,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a>, <a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1235</td>
@@ -8940,6 +11492,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/binary-search'>Binary Search</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/sort'>Sort</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1225</td>
@@ -8947,6 +11501,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td><a href='https://leetcode.com/problems/find-the-start-and-end-number-of-continuous-ranges'>Find the Start and End Number of Continuous Ranges</a></td>
     </tr>
     <tr>
       <td>1237</td>
@@ -8954,6 +11510,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1238</td>
@@ -8961,6 +11519,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1239</td>
@@ -8968,6 +11528,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/backtracking'>Backtracking</a>, <a href='https://leetcode.com/tag/bit-manipulation'>Bit Manipulation</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1240</td>
@@ -8975,6 +11537,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/backtracking'>Backtracking</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1227</td>
@@ -8982,6 +11546,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/brainteaser'>Brainteaser</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1429</td>
@@ -8989,6 +11555,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/design'>Design</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1242</td>
@@ -8996,6 +11564,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/web-crawler'>Web Crawler</a></td>
     </tr>
     <tr>
       <td>1247</td>
@@ -9003,6 +11573,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1248</td>
@@ -9010,6 +11582,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1249</td>
@@ -9017,6 +11591,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/stack'>Stack</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1250</td>
@@ -9024,6 +11600,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1428</td>
@@ -9031,6 +11609,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1241</td>
@@ -9038,6 +11618,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1252</td>
@@ -9045,6 +11627,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1253</td>
@@ -9052,6 +11636,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1254</td>
@@ -9059,6 +11645,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1255</td>
@@ -9066,6 +11654,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/bit-manipulation'>Bit Manipulation</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1260</td>
@@ -9073,6 +11663,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1261</td>
@@ -9080,6 +11672,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1262</td>
@@ -9087,6 +11681,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1263</td>
@@ -9094,6 +11690,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1251</td>
@@ -9101,6 +11699,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1426</td>
@@ -9108,6 +11708,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1266</td>
@@ -9115,6 +11717,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/geometry'>Geometry</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1267</td>
@@ -9122,6 +11726,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/graph'>Graph</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1268</td>
@@ -9129,6 +11735,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1269</td>
@@ -9136,6 +11744,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1264</td>
@@ -9143,6 +11753,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1275</td>
@@ -9150,6 +11762,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1276</td>
@@ -9157,6 +11771,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1277</td>
@@ -9164,6 +11780,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1278</td>
@@ -9171,6 +11789,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1265</td>
@@ -9178,6 +11798,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1270</td>
@@ -9185,6 +11807,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1281</td>
@@ -9192,6 +11816,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1282</td>
@@ -9199,6 +11825,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1283</td>
@@ -9206,6 +11834,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1284</td>
@@ -9213,6 +11843,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1279</td>
@@ -9220,6 +11852,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1290</td>
@@ -9227,6 +11861,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/linked-list'>Linked List</a>, <a href='https://leetcode.com/tag/bit-manipulation'>Bit Manipulation</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1292</td>
@@ -9234,6 +11870,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1293</td>
@@ -9241,6 +11879,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1280</td>
@@ -9248,6 +11888,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1285</td>
@@ -9255,6 +11897,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td><a href='https://leetcode.com/problems/report-contiguous-dates'>Report Contiguous Dates</a></td>
     </tr>
     <tr>
       <td>1295</td>
@@ -9262,6 +11906,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1296</td>
@@ -9269,6 +11915,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td><a href='https://leetcode.com/problems/split-array-into-consecutive-subsequences'>Split Array into Consecutive Subsequences</a></td>
     </tr>
     <tr>
       <td>1297</td>
@@ -9276,6 +11924,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/bit-manipulation'>Bit Manipulation</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1298</td>
@@ -9283,6 +11933,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1294</td>
@@ -9290,6 +11942,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1304</td>
@@ -9297,6 +11951,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1305</td>
@@ -9304,6 +11960,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/sort'>Sort</a>, <a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1306</td>
@@ -9311,6 +11969,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a>, <a href='https://leetcode.com/tag/graph'>Graph</a></td>
+      <td><a href='https://leetcode.com/problems/jump-game-ii'>Jump Game II</a>, <a href='https://leetcode.com/problems/jump-game'>Jump Game</a></td>
     </tr>
     <tr>
       <td>1307</td>
@@ -9318,6 +11978,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/backtracking'>Backtracking</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1430</td>
@@ -9325,6 +11987,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1309</td>
@@ -9332,6 +11996,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1310</td>
@@ -9339,6 +12005,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/bit-manipulation'>Bit Manipulation</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1311</td>
@@ -9346,6 +12014,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1312</td>
@@ -9353,6 +12023,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1303</td>
@@ -9360,6 +12032,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1308</td>
@@ -9367,6 +12041,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td><a href='https://leetcode.com/problems/last-person-to-fit-in-the-elevator'>Last Person to Fit in the Elevator</a></td>
     </tr>
     <tr>
       <td>1317</td>
@@ -9374,6 +12050,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1318</td>
@@ -9381,6 +12059,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/bit-manipulation'>Bit Manipulation</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1319</td>
@@ -9388,6 +12068,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a>, <a href='https://leetcode.com/tag/union-find'>Union Find</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1320</td>
@@ -9395,6 +12077,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1342</td>
@@ -9402,6 +12086,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/bit-manipulation'>Bit Manipulation</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1343</td>
@@ -9409,6 +12095,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1344</td>
@@ -9416,6 +12104,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1345</td>
@@ -9423,6 +12113,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1323</td>
@@ -9430,6 +12122,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1324</td>
@@ -9437,6 +12131,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1325</td>
@@ -9444,6 +12140,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1326</td>
@@ -9451,6 +12149,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1321</td>
@@ -9458,6 +12158,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1322</td>
@@ -9465,6 +12167,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1332</td>
@@ -9472,6 +12176,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1333</td>
@@ -9479,6 +12185,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/sort'>Sort</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1334</td>
@@ -9486,6 +12194,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/graph'>Graph</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1335</td>
@@ -9493,6 +12203,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1356</td>
@@ -9500,6 +12212,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/sort'>Sort</a>, <a href='https://leetcode.com/tag/bit-manipulation'>Bit Manipulation</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1357</td>
@@ -9507,6 +12221,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/design'>Design</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1358</td>
@@ -9514,6 +12230,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1359</td>
@@ -9521,6 +12239,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1327</td>
@@ -9528,6 +12248,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1337</td>
@@ -9535,6 +12257,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1338</td>
@@ -9542,6 +12266,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1339</td>
@@ -9549,6 +12275,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1340</td>
@@ -9556,6 +12284,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1336</td>
@@ -9563,6 +12293,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1346</td>
@@ -9570,6 +12302,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1347</td>
@@ -9577,6 +12311,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1348</td>
@@ -9584,6 +12320,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/design'>Design</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1349</td>
@@ -9591,6 +12329,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1370</td>
@@ -9598,6 +12338,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/sort'>Sort</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1371</td>
@@ -9605,6 +12347,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1372</td>
@@ -9612,6 +12356,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1373</td>
@@ -9619,6 +12365,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/binary-search-tree'>Binary Search Tree</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1351</td>
@@ -9626,6 +12374,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1352</td>
@@ -9633,6 +12383,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/design'>Design</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1353</td>
@@ -9640,6 +12392,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/greedy'>Greedy</a>, <a href='https://leetcode.com/tag/sort'>Sort</a>, <a href='https://leetcode.com/tag/segment-tree'>Segment Tree</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1354</td>
@@ -9647,6 +12401,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1341</td>
@@ -9654,6 +12410,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1350</td>
@@ -9661,6 +12419,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1365</td>
@@ -9668,6 +12428,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/hash-table'>Hash Table</a></td>
+      <td><a href='https://leetcode.com/problems/count-of-smaller-numbers-after-self'>Count of Smaller Numbers After Self</a></td>
     </tr>
     <tr>
       <td>1366</td>
@@ -9675,6 +12437,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/sort'>Sort</a></td>
+      <td><a href='https://leetcode.com/problems/online-election'>Online Election</a></td>
     </tr>
     <tr>
       <td>1367</td>
@@ -9682,6 +12446,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/linked-list'>Linked List</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1368</td>
@@ -9689,6 +12455,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1385</td>
@@ -9696,6 +12464,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1386</td>
@@ -9703,6 +12473,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1387</td>
@@ -9710,6 +12482,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/sort'>Sort</a>, <a href='https://leetcode.com/tag/graph'>Graph</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1388</td>
@@ -9717,6 +12491,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1374</td>
@@ -9724,6 +12500,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1375</td>
@@ -9731,6 +12509,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td><a href='https://leetcode.com/problems/bulb-switcher'>Bulb Switcher</a>, <a href='https://leetcode.com/problems/bulb-switcher-ii'>Bulb Switcher II</a></td>
     </tr>
     <tr>
       <td>1376</td>
@@ -9738,6 +12518,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/maximum-depth-of-binary-tree'>Maximum Depth of Binary Tree</a>, <a href='https://leetcode.com/problems/binary-tree-maximum-path-sum'>Binary Tree Maximum Path Sum</a></td>
     </tr>
     <tr>
       <td>1377</td>
@@ -9745,6 +12527,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1355</td>
@@ -9752,6 +12536,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1364</td>
@@ -9759,6 +12545,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1380</td>
@@ -9766,6 +12554,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1381</td>
@@ -9773,6 +12563,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/stack'>Stack</a>, <a href='https://leetcode.com/tag/design'>Design</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1379</td>
@@ -9780,6 +12572,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1383</td>
@@ -9787,6 +12581,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/greedy'>Greedy</a>, <a href='https://leetcode.com/tag/sort'>Sort</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1399</td>
@@ -9794,6 +12590,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1401</td>
@@ -9801,6 +12599,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/geometry'>Geometry</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1400</td>
@@ -9808,6 +12608,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1402</td>
@@ -9815,6 +12617,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1369</td>
@@ -9822,6 +12626,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1389</td>
@@ -9829,6 +12635,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1391</td>
@@ -9836,6 +12644,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1392</td>
@@ -9843,6 +12653,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1378</td>
@@ -9850,6 +12662,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1394</td>
@@ -9857,6 +12671,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1395</td>
@@ -9864,6 +12680,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1396</td>
@@ -9871,6 +12689,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/design'>Design</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1397</td>
@@ -9878,6 +12698,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1413</td>
@@ -9885,6 +12707,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1414</td>
@@ -9892,6 +12716,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1415</td>
@@ -9899,6 +12725,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/backtracking'>Backtracking</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1416</td>
@@ -9906,6 +12734,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1384</td>
@@ -9913,6 +12743,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1403</td>
@@ -9920,6 +12752,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/greedy'>Greedy</a>, <a href='https://leetcode.com/tag/sort'>Sort</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1404</td>
@@ -9927,6 +12761,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/bit-manipulation'>Bit Manipulation</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1406</td>
@@ -9934,6 +12770,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/stone-game-v'>Stone Game V</a></td>
     </tr>
     <tr>
       <td>1393</td>
@@ -9941,6 +12779,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1408</td>
@@ -9948,6 +12788,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1409</td>
@@ -9955,6 +12797,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1410</td>
@@ -9962,6 +12806,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/stack'>Stack</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1411</td>
@@ -9969,6 +12815,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1431</td>
@@ -9976,6 +12824,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1432</td>
@@ -9983,6 +12833,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1433</td>
@@ -9990,6 +12842,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1434</td>
@@ -9997,6 +12851,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/bit-manipulation'>Bit Manipulation</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1417</td>
@@ -10004,6 +12860,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1418</td>
@@ -10011,6 +12869,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1419</td>
@@ -10018,6 +12878,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1420</td>
@@ -10025,6 +12887,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1398</td>
@@ -10032,6 +12896,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1422</td>
@@ -10039,6 +12905,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1423</td>
@@ -10046,6 +12914,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/sliding-window'>Sliding Window</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1424</td>
@@ -10053,6 +12923,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/sort'>Sort</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1407</td>
@@ -10060,6 +12932,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1446</td>
@@ -10067,6 +12941,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td><a href='https://leetcode.com/problems/max-consecutive-ones'>Max Consecutive Ones</a></td>
     </tr>
     <tr>
       <td>1447</td>
@@ -10074,6 +12950,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1448</td>
@@ -10081,6 +12959,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1449</td>
@@ -10088,6 +12968,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1412</td>
@@ -10095,6 +12977,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1436</td>
@@ -10102,6 +12986,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1437</td>
@@ -10109,6 +12995,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1438</td>
@@ -10116,6 +13004,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/sliding-window'>Sliding Window</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1439</td>
@@ -10123,6 +13013,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/heap'>Heap</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1421</td>
@@ -10130,6 +13022,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1441</td>
@@ -10137,6 +13031,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/stack'>Stack</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1442</td>
@@ -10144,6 +13040,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/bit-manipulation'>Bit Manipulation</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1443</td>
@@ -10151,6 +13049,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1444</td>
@@ -10158,6 +13058,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1460</td>
@@ -10165,6 +13067,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1461</td>
@@ -10172,6 +13076,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/bit-manipulation'>Bit Manipulation</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1462</td>
@@ -10179,6 +13085,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/graph'>Graph</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1463</td>
@@ -10186,6 +13094,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1450</td>
@@ -10193,6 +13103,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1451</td>
@@ -10200,6 +13112,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/sort'>Sort</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1452</td>
@@ -10207,6 +13121,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/sort'>Sort</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1453</td>
@@ -10214,6 +13130,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/geometry'>Geometry</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1435</td>
@@ -10221,6 +13139,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1440</td>
@@ -10228,6 +13148,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1455</td>
@@ -10235,6 +13157,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1456</td>
@@ -10242,6 +13166,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/sliding-window'>Sliding Window</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1457</td>
@@ -10249,6 +13175,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/bit-manipulation'>Bit Manipulation</a>, <a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1458</td>
@@ -10256,6 +13184,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1475</td>
@@ -10263,6 +13193,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1478</td>
@@ -10270,6 +13202,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1476</td>
@@ -10277,6 +13211,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1477</td>
@@ -10284,6 +13220,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1464</td>
@@ -10291,6 +13229,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1465</td>
@@ -10298,6 +13238,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1466</td>
@@ -10305,6 +13247,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1467</td>
@@ -10312,6 +13256,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/backtracking'>Backtracking</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1445</td>
@@ -10319,6 +13265,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1454</td>
@@ -10326,6 +13274,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1470</td>
@@ -10333,6 +13283,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1471</td>
@@ -10340,6 +13292,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/sort'>Sort</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1472</td>
@@ -10347,6 +13301,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/design'>Design</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1473</td>
@@ -10354,6 +13310,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1491</td>
@@ -10361,6 +13319,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/sort'>Sort</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1492</td>
@@ -10368,6 +13328,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1493</td>
@@ -10375,6 +13337,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1494</td>
@@ -10382,6 +13346,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/graph'>Graph</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1480</td>
@@ -10389,6 +13355,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1481</td>
@@ -10396,6 +13364,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/sort'>Sort</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1482</td>
@@ -10403,6 +13373,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1459</td>
@@ -10410,6 +13382,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1468</td>
@@ -10417,6 +13391,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1469</td>
@@ -10424,6 +13400,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/binary-tree-tilt'>Binary Tree Tilt</a>, <a href='https://leetcode.com/problems/univalued-binary-tree'>Univalued Binary Tree</a></td>
     </tr>
     <tr>
       <td>1486</td>
@@ -10431,6 +13409,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/bit-manipulation'>Bit Manipulation</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1487</td>
@@ -10438,6 +13418,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1488</td>
@@ -10445,6 +13427,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/hash-table'>Hash Table</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1489</td>
@@ -10452,6 +13436,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/union-find'>Union Find</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1508</td>
@@ -10459,6 +13445,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/sort'>Sort</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1509</td>
@@ -10466,6 +13454,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/sort'>Sort</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1510</td>
@@ -10473,6 +13463,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/stone-game-v'>Stone Game V</a></td>
     </tr>
     <tr>
       <td>1474</td>
@@ -10480,6 +13472,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/linked-list'>Linked List</a></td>
+      <td><a href='https://leetcode.com/problems/remove-nth-node-from-end-of-list'>Remove Nth Node From End of List</a>, <a href='https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list'>Remove Zero Sum Consecutive Nodes from Linked List</a></td>
     </tr>
     <tr>
       <td>1496</td>
@@ -10487,6 +13481,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1497</td>
@@ -10494,6 +13490,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1498</td>
@@ -10501,6 +13499,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/sort'>Sort</a>, <a href='https://leetcode.com/tag/sliding-window'>Sliding Window</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1499</td>
@@ -10508,6 +13508,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/sliding-window'>Sliding Window</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1479</td>
@@ -10515,6 +13517,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1485</td>
@@ -10522,6 +13526,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/clone-graph'>Clone Graph</a>, <a href='https://leetcode.com/problems/copy-list-with-random-pointer'>Copy List with Random Pointer</a>, <a href='https://leetcode.com/problems/clone-n-ary-tree'>Clone N-ary Tree</a></td>
     </tr>
     <tr>
       <td>1484</td>
@@ -10529,6 +13535,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1502</td>
@@ -10536,6 +13544,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/sort'>Sort</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1503</td>
@@ -10543,6 +13553,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/brainteaser'>Brainteaser</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1504</td>
@@ -10550,6 +13562,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1505</td>
@@ -10557,6 +13571,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1523</td>
@@ -10564,6 +13580,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1524</td>
@@ -10571,6 +13589,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1525</td>
@@ -10578,6 +13598,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/bit-manipulation'>Bit Manipulation</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1526</td>
@@ -10585,6 +13607,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/segment-tree'>Segment Tree</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1490</td>
@@ -10592,6 +13616,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td><a href='https://leetcode.com/problems/clone-graph'>Clone Graph</a>, <a href='https://leetcode.com/problems/copy-list-with-random-pointer'>Copy List with Random Pointer</a>, <a href='https://leetcode.com/problems/clone-binary-tree-with-random-pointer'>Clone Binary Tree With Random Pointer</a></td>
     </tr>
     <tr>
       <td>1512</td>
@@ -10599,6 +13625,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1513</td>
@@ -10606,6 +13634,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a>, <a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1531</td>
@@ -10613,6 +13643,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1515</td>
@@ -10620,6 +13652,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/geometry'>Geometry</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1495</td>
@@ -10627,6 +13661,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1500</td>
@@ -10634,6 +13670,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/design'>Design</a></td>
+      <td><a href='https://leetcode.com/problems/design-twitter'>Design Twitter</a></td>
     </tr>
     <tr>
       <td>1501</td>
@@ -10641,6 +13679,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td><a href='https://leetcode.com/problems/average-salary-departments-vs-company'>Average Salary: Departments VS Company</a></td>
     </tr>
     <tr>
       <td>1518</td>
@@ -10648,6 +13688,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1519</td>
@@ -10655,6 +13697,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a>, <a href='https://leetcode.com/tag/breadth-first-search'>Breadth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1520</td>
@@ -10662,6 +13706,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1521</td>
@@ -10669,6 +13715,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/binary-search'>Binary Search</a>, <a href='https://leetcode.com/tag/bit-manipulation'>Bit Manipulation</a>, <a href='https://leetcode.com/tag/segment-tree'>Segment Tree</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1539</td>
@@ -10676,6 +13724,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/hash-table'>Hash Table</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1540</td>
@@ -10683,6 +13733,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1541</td>
@@ -10690,6 +13742,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/stack'>Stack</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1546</td>
@@ -10697,6 +13751,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1506</td>
@@ -10704,6 +13760,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td><a href='https://leetcode.com/problems/move-sub-tree-of-n-ary-tree'>Move Sub-Tree of N-Ary Tree</a></td>
     </tr>
     <tr>
       <td>1528</td>
@@ -10711,6 +13769,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/sort'>Sort</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1529</td>
@@ -10718,6 +13778,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1530</td>
@@ -10725,6 +13787,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a>, <a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1511</td>
@@ -10732,6 +13796,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1516</td>
@@ -10739,6 +13805,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/tree'>Tree</a></td>
+      <td><a href='https://leetcode.com/problems/find-root-of-n-ary-tree'>Find Root of N-Ary Tree</a></td>
     </tr>
     <tr>
       <td>1534</td>
@@ -10746,6 +13814,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1535</td>
@@ -10753,6 +13823,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1536</td>
@@ -10760,6 +13832,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1537</td>
@@ -10767,6 +13841,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1556</td>
@@ -10774,6 +13850,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1557</td>
@@ -10781,6 +13859,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/graph'>Graph</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1558</td>
@@ -10788,6 +13868,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1559</td>
@@ -10795,6 +13877,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/depth-first-search'>Depth-first Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1517</td>
@@ -10802,6 +13886,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1522</td>
@@ -10809,6 +13895,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td><a href='https://leetcode.com/problems/diameter-of-binary-tree'>Diameter of Binary Tree</a></td>
     </tr>
     <tr>
       <td>1544</td>
@@ -10816,6 +13904,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/stack'>Stack</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1545</td>
@@ -10823,6 +13913,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1542</td>
@@ -10830,6 +13922,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a>, <a href='https://leetcode.com/tag/bit-manipulation'>Bit Manipulation</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1547</td>
@@ -10837,6 +13931,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1527</td>
@@ -10844,6 +13940,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1532</td>
@@ -10851,6 +13949,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td><a href='https://leetcode.com/problems/the-most-recent-orders-for-each-product'>The Most Recent Orders for Each Product</a></td>
     </tr>
     <tr>
       <td>1533</td>
@@ -10858,6 +13958,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td><a href='https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size'>Search in a Sorted Array of Unknown Size</a></td>
     </tr>
     <tr>
       <td>1551</td>
@@ -10865,6 +13967,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1552</td>
@@ -10872,6 +13976,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1553</td>
@@ -10879,6 +13985,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1572</td>
@@ -10886,6 +13994,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1573</td>
@@ -10893,6 +14003,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td><a href='https://leetcode.com/problems/split-array-with-equal-sum'>Split Array with Equal Sum</a></td>
     </tr>
     <tr>
       <td>1574</td>
@@ -10900,6 +14012,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1575</td>
@@ -10907,6 +14021,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1538</td>
@@ -10914,6 +14030,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1560</td>
@@ -10921,6 +14039,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1561</td>
@@ -10928,6 +14048,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/sort'>Sort</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1562</td>
@@ -10935,6 +14057,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/binary-search'>Binary Search</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1563</td>
@@ -10942,6 +14066,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td><a href='https://leetcode.com/problems/stone-game'>Stone Game</a>, <a href='https://leetcode.com/problems/stone-game-ii'>Stone Game II</a>, <a href='https://leetcode.com/problems/stone-game-iii'>Stone Game III</a>, <a href='https://leetcode.com/problems/stone-game-iv'>Stone Game IV</a></td>
     </tr>
     <tr>
       <td>1543</td>
@@ -10949,6 +14075,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1548</td>
@@ -10956,6 +14084,8 @@
       <td>Hard</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a>, <a href='https://leetcode.com/tag/graph'>Graph</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1549</td>
@@ -10963,6 +14093,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td><a href='https://leetcode.com/problems/the-most-recent-three-orders'>The Most Recent Three Orders</a></td>
     </tr>
     <tr>
       <td>1566</td>
@@ -10970,6 +14102,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1567</td>
@@ -10977,6 +14111,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1568</td>
@@ -10984,6 +14120,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1569</td>
@@ -10991,6 +14129,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/dynamic-programming'>Dynamic Programming</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1554</td>
@@ -10998,6 +14138,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1576</td>
@@ -11005,6 +14147,8 @@
       <td>Easy</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/string'>String</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1577</td>
@@ -11012,6 +14156,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/math'>Math</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1578</td>
@@ -11019,6 +14165,8 @@
       <td>Medium</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1579</td>
@@ -11026,6 +14174,8 @@
       <td>Hard</td>
       <td>False</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/union-find'>Union Find</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1555</td>
@@ -11033,6 +14183,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1564</td>
@@ -11040,6 +14192,8 @@
       <td>Medium</td>
       <td>True</td>
       <td>False</td>
+      <td><a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td><a href='https://leetcode.com/problems/put-boxes-into-the-warehouse-ii'>Put Boxes Into the Warehouse II</a></td>
     </tr>
     <tr>
       <td>1565</td>
@@ -11047,13 +14201,17 @@
       <td>Easy</td>
       <td>True</td>
       <td>False</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1570</td>
       <td><a href='https://leetcode.com/problems/dot-product-of-two-sparse-vectors'>Dot Product of Two Sparse Vectors</a></td>
       <td>Medium</td>
       <td>True</td>
-      <td>True</td>
+      <td>False</td>
+      <td><a href='https://leetcode.com/tag/array'>Array</a>, <a href='https://leetcode.com/tag/hash-table'>Hash Table</a>, <a href='https://leetcode.com/tag/two-pointers'>Two Pointers</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>1571</td>
@@ -11061,6 +14219,8 @@
       <td>Easy</td>
       <td>True</td>
       <td>True</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>1580</td>
@@ -11068,6 +14228,17 @@
       <td>Medium</td>
       <td>True</td>
       <td>True</td>
+      <td><a href='https://leetcode.com/tag/greedy'>Greedy</a></td>
+      <td><a href='https://leetcode.com/problems/put-boxes-into-the-warehouse-i'>Put Boxes Into the Warehouse I</a></td>
+    </tr>
+    <tr>
+      <td>1581</td>
+      <td><a href='https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions'>Customer Who Visited but Did Not Make Any Transactions</a></td>
+      <td>Easy</td>
+      <td>True</td>
+      <td>True</td>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
