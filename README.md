@@ -34,7 +34,7 @@ usage: Scrape Extra Info [-h] [-m] [-y] [-t] [-r]
 
 optional arguments:
   -h, --help          show this help message and exit
-  -m, --multiprocess  Use Multiprocessing (utilize as much cores as possible)
+  -m, --multiprocess  Use Multiprocessing (utilize as many cores as possible)
   -y, --yield_        Use Yield when Sending requests
   -t, --table         Generate Table
   -r, --readme        Generate README
