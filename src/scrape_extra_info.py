@@ -59,6 +59,14 @@ def run(slug):
     response = s.post("https://leetcode.com/graphql",
                       headers=headers, json=payload)
     question = response.json()['data']['question']
+    if question is None:
+        return {
+            "question_id": None,
+            "topic_tags": None,
+            "similar_question_ids": None,
+            "likes": None,
+            "dislikes": None
+        }
     question_id = int(question['questionId'])
     similar_question_ids = [slug_to_qid(
         problem['titleSlug']) for problem in json.loads(question['similarQuestions'])]
@@ -96,6 +104,8 @@ def main(yield_=False, multiprocess=True):
         results = run_requests(yield_=yield_)
 
     for question in results:
+        if question['question_id'] is None:
+            continue
         df.loc[question['question_id'], 'likes'] = question['likes']
         df.loc[question['question_id'], 'dislikes'] = question['dislikes']
         df.loc[question['question_id'], 'topic_tags'] = str(
